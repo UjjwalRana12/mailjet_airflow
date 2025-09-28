@@ -1,0 +1,95 @@
+ResortId,Resort,Studio,Bed1,Bed2,Bed3,Bed4,SearchingOrderCount
+69,Mountain Vista Resort,True,False,False,False,False,1
+69,Mountain Vista Resort,False,False,True,False,False,17
+70,Ocean Walk Resort,False,True,False,False,False,9
+70,Ocean Walk Resort,False,False,True,False,False,18
+71,Margaritaville - Rio Mar,True,False,False,False,False,1
+71,Margaritaville - Rio Mar,False,True,False,False,False,1
+72,Smugglers' Notch Vermont Resort,False,True,False,False,False,6
+72,Smugglers' Notch Vermont Resort,False,False,True,False,False,5
+72,Smugglers' Notch Vermont Resort,False,False,False,True,False,1
+73,Steamboat Springs Resort,False,True,False,False,False,1
+73,Steamboat Springs Resort,False,False,True,False,False,7
+73,Steamboat Springs Resort,False,False,False,True,False,2
+75,Glacier Canyon Resort,False,True,False,False,False,7
+75,Glacier Canyon Resort,False,False,True,False,False,4
+76,Pagosa Resort,False,True,False,False,False,5
+76,Pagosa Resort,False,False,True,False,False,27
+77,Club Wyndham Bonnet Creek,False,True,False,False,False,32
+77,Club Wyndham Bonnet Creek,False,False,True,False,False,37
+81,Grand Desert Resort,False,True,False,False,False,5
+81,Grand Desert Resort,False,False,True,False,False,41
+81,Grand Desert Resort,False,False,False,True,False,3
+82,Canterbury Resort,False,True,False,False,False,1
+82,Canterbury Resort,False,False,True,False,False,1
+84,Midtown 45 Resort,True,False,False,False,False,6
+85,Nashville Resort,False,True,False,False,False,6
+85,Nashville Resort,False,False,True,False,False,3
+87,Towers on the Grove Resort,False,False,True,False,False,1
+88,SeaWatch Resort,False,False,True,False,False,1
+91,Branson at The Falls Resort,False,True,False,False,False,1
+92,Smoky Mountains Resort,False,True,False,False,False,4
+92,Smoky Mountains Resort,False,False,True,False,False,16
+92,Smoky Mountains Resort,False,False,False,True,False,1
+94,Fairfield Glade Resort,False,True,False,False,False,1
+94,Fairfield Glade Resort,False,False,True,False,False,5
+94,Fairfield Glade Resort,False,False,False,False,True,2
+95,Palm-Aire Resort,False,True,False,False,False,3
+95,Palm-Aire Resort,False,False,True,False,False,8
+97,Star Island Resort,False,False,True,False,False,3
+99,Great Smokies Lodge,False,True,False,False,False,1
+99,Great Smokies Lodge,False,False,True,False,False,3
+100,National Harbor Resort,False,True,False,False,False,8
+100,National Harbor Resort,False,False,True,False,False,6
+101,Ocean Ridge Resort,False,True,False,False,False,2
+102,South Shore Resort,False,True,False,False,False,1
+103,Park City Resort,False,True,False,False,False,8
+104,Patriot's Place Resort,False,True,False,False,False,4
+104,Patriot's Place Resort,False,False,True,False,False,7
+105,Kingsgate Resort,False,True,False,False,False,8
+105,Kingsgate Resort,False,False,True,False,False,11
+106,Bali Hai Villas,False,True,False,False,False,6
+106,Bali Hai Villas,False,False,True,False,False,15
+107,Governor's Green Resort,False,False,True,False,False,7
+108,Sedona Resort,False,True,False,False,False,2
+109,Flagstaff Resort,False,True,False,False,False,14
+109,Flagstaff Resort,False,False,True,False,False,3
+114,Bentley Brook Resort,False,False,True,False,False,20
+115,Cypress Palms,False,False,True,False,False,1
+117,Skyline Tower Resort,False,False,True,False,False,1
+118,Shawnee Village Resort,False,False,True,False,False,1
+119,Avenue Plaza Resort,True,False,False,False,False,1
+121,Panama City Beach Resort,False,False,True,False,False,1
+123,Majestic Sun Resort,False,True,False,False,False,3
+126,Margaritaville - Nashville,True,False,False,False,False,3
+139,Dolphin's Cove Resort,False,True,False,False,False,10
+141,Waikiki Beach Walk Resort,False,True,False,False,False,2
+150,Royal Vista Resort,False,False,True,False,False,1
+152,Sea Gardens Resort,True,False,False,False,False,5
+152,Sea Gardens Resort,False,True,False,False,False,3
+152,Sea Gardens Resort,False,False,True,False,False,4
+153,Margaritaville - St. Thomas,True,False,False,False,False,11
+153,Margaritaville - St. Thomas,False,True,False,False,False,2
+159,Harbour Lights Resort,True,False,False,False,False,6
+161,Oceanside Pier Resort,False,True,False,False,False,1
+161,Oceanside Pier Resort,False,False,True,False,False,2
+167,Margaritaville - Desert Blue,False,False,True,False,False,2
+170,Anaheim Resort,False,True,False,False,False,1
+170,Anaheim Resort,False,False,True,False,False,1
+176,Riverside Suites Resort,False,False,True,False,False,4
+184,Vino Bello Resort,True,False,False,False,False,5
+186,Pinetop Resort,False,True,False,False,False,1
+187,Club Wyndham Mauna Loa Village,False,False,True,False,False,2
+199,Rancho Vistoso Resort,False,False,True,False,False,2
+202,Limetree Beach Resort,True,False,False,False,False,13
+202,Limetree Beach Resort,False,True,False,False,False,2
+208,Peacock Suites,False,True,False,False,False,1
+251,Indio Resort,False,True,False,False,False,5
+251,Indio Resort,False,False,True,False,False,5
+439,Atlanta Resort,True,False,False,False,False,9
+439,Atlanta Resort,False,True,False,False,False,5
+439,Atlanta Resort,False,False,True,False,False,12
+465,Kaua'i Beach Villas,False,True,False,False,False,2
+465,Kaua'i Beach Villas,False,False,True,False,False,2
+528,Club Wyndham Elysian Beach Resort,True,False,False,False,False,1
+568,Club Wyndham Moab,False,False,False,False,True,1
