@@ -1,0 +1,48 @@
+{
+    "database": {
+      "fetching_db": {
+        "server": "tsrp.database.windows.net,1433",
+        "database": "TSRP",
+        "username": "tsrpreadonlyuser",
+        "password": "pm4uJPDnx6fzgTtFuRCQPW7Dlb8GxX58IyKg27tcT50=",
+        "driver": "{ODBC Driver 17 for SQL Server}",
+        "timeout": 30
+      },
+      "storing_db": {
+        "server": "172.174.211.193,1433",
+        "database": "TSRP",
+        "username": "sa",
+        "password": "IntellypPodDB%$#@!",
+        "driver": "{ODBC Driver 17 for SQL Server}",
+        "timeout": 30,
+        "Trusted_Connection": "No"
+      }
+    },
+    "jwt": {
+      "secret_key": "44342691157da4cdc683a867817859f07b7b15598e9c4b1aa99d1f92229c6887",
+      "identity_claim": "identity",
+      "access_token_expires": 86400
+    },
+    "app": {
+      "debug": true,
+      "port": 5101,
+      "use_reloader": false
+    },
+    "logging": {
+      "log_directory": "logs",
+      "log_level": "INFO",
+      "log_per_controller": true,
+      "log_file": "logs/application.log"
+    },
+    "scheduler": {
+      "enabled": true,
+      "timezone": "America/Chicago",
+      "run_hour": 4,
+      "run_minute": 0,
+      "custom_run_hour": 4,
+      "custom_run_minute": 0,
+      "afternoon_run_hour": 11,
+      "afternoon_run_minute": 30
+    }
+
+}
