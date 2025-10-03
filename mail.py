@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import logging
 from datetime import datetime
 
-
+# Load environment variables
 load_dotenv()
 
 class MailjetEmailService:
@@ -20,34 +20,94 @@ class MailjetEmailService:
         
         self.mailjet = Client(auth=(self.api_key, self.api_secret), version='v3.1')
         
-        
+        # Setup logging
         logging.basicConfig(level=logging.INFO)
         self.logger = logging.getLogger(__name__)
     
-    def filter_high_order_count_resorts(self, csv_file_path='query_results.csv', threshold=2):
-        """Filter resorts with SearchingOrderCount > threshold"""
+    def process_data_file(self, file_path='csvs/all_resorts_detailed_orders.csv'):
+        """Process CSV or Excel data and filter for MinUnits > 1"""
         try:
-            df = pd.read_csv(csv_file_path)
-            filtered_df = df[df['SearchingOrderCount'] > threshold]
+            # Determine file type and read accordingly
+            if file_path.endswith('.xlsx'):
+                df = pd.read_excel(file_path, sheet_name='All_Resort_Orders')
+            elif file_path.endswith('.csv'):
+                df = pd.read_csv(file_path)
+            else:
+                raise ValueError("Unsupported file format. Use .csv or .xlsx")
             
-            self.logger.info(f"Found {len(filtered_df)} resort entries with SearchingOrderCount > {threshold}")
-            return filtered_df
-        
+            # Filter for MinUnits > 1
+            filtered_df = df[df['MinUnits'] > 1].copy()
+            
+            if filtered_df.empty:
+                self.logger.info("No records found with MinUnits > 1")
+                return None
+            
+            # Create room type column based on boolean values
+            def get_room_type(row):
+                if row['Studio']:
+                    return 'Studio'
+                elif row['Bed1']:
+                    return '1 Bedroom'
+                elif row['Bed2']:
+                    return '2 Bedroom'
+                elif row['Bed3']:
+                    return '3 Bedroom'
+                elif row['Bed4']:
+                    return '4 Bedroom'
+                else:
+                    return 'Unknown'
+            
+            # Add the room type column
+            filtered_df['RoomTypeDescription'] = filtered_df.apply(get_room_type, axis=1)
+            
+            # Select only required columns (removed ID columns and added Vendor)
+            # Changed from set {} to list []
+            result_df = filtered_df[[
+                'Vendor',
+                'Resort', 
+                'Arrival',
+                'Departure',
+                'PropertyType',
+                'RoomType',
+                'RoomTypeDescription',
+                'MinUnits'
+            ]].copy()
+            
+            # Rename MinUnits to InventoryCount for clarity
+            result_df = result_df.rename(columns={'MinUnits': 'InventoryCount'})
+            
+            self.logger.info(f"Found {len(result_df)} records with InventoryCount > 1")
+            return result_df
+            
         except Exception as e:
-            self.logger.error(f"Error reading CSV file: {e}")
+            self.logger.error(f"Error processing data file: {e}")
             return None
-    
+
     def create_email_content(self, filtered_data):
-       
-        if filtered_data.empty:
+        """Create HTML and text content for the email"""
+        if filtered_data is None or filtered_data.empty:
             return None, None
         
-        
+        # Calculate summary statistics
         total_resorts = filtered_data['Resort'].nunique()
-        total_orders = filtered_data['SearchingOrderCount'].sum()
-        avg_orders = filtered_data['SearchingOrderCount'].mean()
+        total_records = len(filtered_data)
+        avg_inventory = filtered_data['InventoryCount'].mean()
+        max_inventory = filtered_data['InventoryCount'].max()
         
+        # Import datetime and pytz for current time
+        from datetime import datetime
+        import pytz
         
+        def format_date_display(date_str):
+            """Format date for display - just show as is from database"""
+            try:
+                # Parse the date and format it nicely
+                dt = pd.to_datetime(date_str)
+                return dt.strftime('%Y-%m-%d')
+            except:
+                return str(date_str)
+        
+        # Create HTML content
         html_content = f"""
         <html>
         <head>
@@ -55,37 +115,42 @@ class MailjetEmailService:
                 body {{ font-family: Arial, sans-serif; margin: 20px; }}
                 .header {{ background-color: #f4f4f4; padding: 20px; border-radius: 5px; }}
                 .summary {{ background-color: #e8f4fd; padding: 15px; margin: 20px 0; border-radius: 5px; }}
-                table {{ border-collapse: collapse; width: 100%; margin: 20px 0; }}
-                th, td {{ padding: 8px; text-align: left; border: 1px solid #ddd; }}
+                table {{ border-collapse: collapse; width: 100%; margin: 20px 0; font-size: 12px; }}
+                th, td {{ padding: 6px; text-align: left; border: 1px solid #ddd; }}
                 th {{ background-color: #4CAF50; color: white; }}
                 tr:nth-child(even) {{ background-color: #f2f2f2; }}
-                .room-type {{ font-size: 12px; color: #666; }}
+                .inventory-high {{ background-color: #ffebee; font-weight: bold; }}
             </style>
         </head>
         <body>
             <div class="header">
-                <h2>This mail is generated by Ujjwal for testing</h2>
-                <h2>High Order Count Resort Alert</h2>
-                <p>Report generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+                <h2>Resort Inventory Alert (Inventory Count > 1)</h2>
+                <p>Report generated on: {datetime.now(pytz.timezone('US/Eastern')).strftime('%Y-%m-%d %H:%M:%S (EST)')}</p>
             </div>
             
             <div class="summary">
                 <h3>Summary Statistics</h3>
                 <ul>
-                    <li><strong>Total Unique Resorts:</strong> {total_resorts}</li>
-                    <li><strong>Total Orders:</strong> {total_orders:,.0f}</li>
-                    <li><strong>Average Orders per Entry:</strong> {avg_orders:.1f}</li>
+                    <li><strong>Status Filter:</strong> Searching</li>
+                    <li><strong>Total Resorts:</strong> {total_resorts}</li>
+                    <li><strong>Total Records:</strong> {total_records:,}</li>
+                    <li><strong>Average Inventory Count:</strong> {avg_inventory:.1f}</li>
+                    <li><strong>Highest Inventory Count:</strong> {max_inventory}</li>
                 </ul>
             </div>
             
-            <h3>Resort Details (SearchingOrderCount > 2)</h3>
+            <h3>Resort Details (Inventory Count > 1)</h3>
             <table>
                 <thead>
                     <tr>
-                        <th>Resort ID</th>
+                        <th>Vendor Name</th>
                         <th>Resort Name</th>
+                        <th>Arrival</th>
+                        <th>Departure</th>
+                        <th>Property Type</th>
                         <th>Room Type</th>
-                        <th>Order Count</th>
+                        <th>Bed Type</th>
+                        <th>Inventory Count</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -93,13 +158,25 @@ class MailjetEmailService:
         
         # Add table rows
         for _, row in filtered_data.iterrows():
-            room_type = self.get_room_type_description(row)
+            inventory_class = "inventory-high" if row['InventoryCount'] > 10 else ""
+            
+            # Format dates - just display as they are from database
+            arrival_formatted = format_date_display(row['Arrival'])
+            departure_formatted = format_date_display(row['Departure'])
+            
+            # Handle PropertyType - show "None" instead of N/A
+            property_type = row['PropertyType'] if pd.notna(row['PropertyType']) and str(row['PropertyType']).lower() != 'none' else 'None'
+            
             html_content += f"""
-                    <tr>
-                        <td>{row['ResortId']}</td>
+                    <tr class="{inventory_class}">
+                        <td>{row['Vendor']}</td>
                         <td>{row['Resort']}</td>
-                        <td class="room-type">{room_type}</td>
-                        <td><strong>{row['SearchingOrderCount']}</strong></td>
+                        <td>{arrival_formatted}</td>
+                        <td>{departure_formatted}</td>
+                        <td>{property_type}</td>
+                        <td>{row['RoomType']}</td>
+                        <td>{row['RoomTypeDescription']}</td>
+                        <td><strong>{row['InventoryCount']}</strong></td>
                     </tr>
             """
         
@@ -109,6 +186,8 @@ class MailjetEmailService:
             
             <div style="margin-top: 30px; font-size: 12px; color: #666;">
                 <p>This is an automated report generated by the Intellypod Resort Monitoring System.</p>
+                <p>Records with inventory count > 10 are highlighted in red.</p>
+                <p>Report generation time is displayed in Eastern Standard Time (EST).</p>
             </div>
         </body>
         </html>
@@ -116,52 +195,53 @@ class MailjetEmailService:
         
         # Create text content
         text_content = f"""
-HIGH ORDER COUNT RESORT ALERT
-Report generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+RESORT INVENTORY ALERT (Inventory Count > 1)
+Report generated on: {datetime.now(pytz.timezone('US/Eastern')).strftime('%Y-%m-%d %H:%M:%S (EST)')}
 
 SUMMARY STATISTICS:
+- Status Filter: All records shown have status "Searching"
 - Total Unique Resorts: {total_resorts}
-- Total Orders: {total_orders:,.0f}
-- Average Orders per Entry: {avg_orders:.1f}
+- Total Records: {total_records:,}
+- Average Inventory Count: {avg_inventory:.1f}
+- Highest Inventory Count: {max_inventory}
 
-RESORT DETAILS (SearchingOrderCount > 2):
+RESORT DETAILS:
 ================================================================
 """
         
+        # Rest of the text content
         for _, row in filtered_data.iterrows():
-            room_type = self.get_room_type_description(row)
+            # Format dates - just display as they are from database
+            arrival_formatted = format_date_display(row['Arrival'])
+            departure_formatted = format_date_display(row['Departure'])
+            
+            # Handle PropertyType - show "None" instead of N/A
+            property_type = row['PropertyType'] if pd.notna(row['PropertyType']) and str(row['PropertyType']).lower() != 'none' else 'None'
+            
             text_content += f"""
-Resort ID: {row['ResortId']}
+Vendor Name: {row['Vendor']}
 Resort Name: {row['Resort']}
-Room Type: {room_type}
-Order Count: {row['SearchingOrderCount']}
+Arrival: {arrival_formatted}
+Departure: {departure_formatted}
+Property Type: {property_type}
+Room Type: {row['RoomType']}
+Bed Type: {row['RoomTypeDescription']}
+Inventory Count: {row['InventoryCount']}
 ----------------------------------------
 """
         
-        text_content += "\n\nThis is an automated report generated by the Intellypod Resort Monitoring System."
+        text_content += """
+
+This is an automated report generated by the Intellypod Resort Monitoring System.
+Report generation time is displayed in Eastern Standard Time (EST).
+"""
         
         return html_content, text_content
-    
-    def get_room_type_description(self, row):
-        """Convert boolean room type columns to readable description"""
-        room_types = []
-        if row['Studio']:
-            room_types.append('Studio')
-        if row['Bed1']:
-            room_types.append('1 Bedroom')
-        if row['Bed2']:
-            room_types.append('2 Bedroom')
-        if row['Bed3']:
-            room_types.append('3 Bedroom')
-        if row['Bed4']:
-            room_types.append('4 Bedroom')
-        
-        return ', '.join(room_types) if room_types else 'Unknown'
     
     def send_email_to_multiple(self, recipient_emails, subject=None, html_content=None, text_content=None):
         """Send email to multiple recipients using Mailjet"""
         if not subject:
-            subject = f"Resort Order Alert - {datetime.now().strftime('%Y-%m-%d')}"
+            subject = f"Resort Inventory Alert - {datetime.now().strftime('%Y-%m-%d')}"
         
         # Convert string to list if single email provided
         if isinstance(recipient_emails, str):
@@ -187,7 +267,7 @@ Order Count: {row['SearchingOrderCount']}
                         "Subject": subject,
                         "TextPart": text_content,
                         "HTMLPart": html_content,
-                        "CustomID": f"resort-alert-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
+                        "CustomID": f"resort-inventory-alert-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
                     }
                 ]
             }
@@ -205,19 +285,15 @@ Order Count: {row['SearchingOrderCount']}
             self.logger.error(f"Error sending email: {e}")
             return False, f"Error sending email: {e}"
     
-    def send_email(self, recipient_email, subject=None, html_content=None, text_content=None):
-        """Send email using Mailjet (backward compatibility)"""
-        return self.send_email_to_multiple([recipient_email], subject, html_content, text_content)
-    
-    def process_and_send_alert(self, recipient_emails, csv_file_path='query_results.csv', threshold=2):
-        """Main method to process data and send email alert to multiple recipients"""
+    def process_and_send_alert(self, recipient_emails, file_path='csvs/all_resorts_detailed_orders.csv'):
+        """Main method to process data and send email alert"""
         try:
-            # Filter high order count resorts
-            filtered_data = self.filter_high_order_count_resorts(csv_file_path, threshold)
+            # Process data file
+            filtered_data = self.process_data_file(file_path)
             
             if filtered_data is None or filtered_data.empty:
-                self.logger.info(f"No resorts found with SearchingOrderCount > {threshold}")
-                return False, "No resorts meet the criteria"
+                self.logger.info("No records found with InventoryCount > 1")
+                return False, "No records meet the criteria"
             
             # Create email content
             html_content, text_content = self.create_email_content(filtered_data)
@@ -226,7 +302,7 @@ Order Count: {row['SearchingOrderCount']}
                 return False, "Failed to create email content"
             
             # Send email to multiple recipients
-            subject = f"High Order Count Alert - {len(filtered_data)} Resort Entries Found"
+            subject = f"Resort Inventory Alert - {len(filtered_data)} Records Found (Inventory > 1)"
             success, message = self.send_email_to_multiple(recipient_emails, subject, html_content, text_content)
             
             return success, message
@@ -243,19 +319,22 @@ def main():
         # Multiple recipients - Add as many emails as you want
         recipient_emails = [
             "ujjwalr754@gmail.com",
-            "sajol@intellypod.com",
-            "kumar@intellypod.com",
+            # "kumar@intellypod.com",
+            "sajol@intellypod.com"
             
         ]
         
-        #  one email (backward compatibility)
-        # recipient_emails = "ujjwalr754@gmail.com"
+        # Or you can also define them from environment variables
+        # recipient_emails = os.getenv('RECIPIENT_EMAILS', 'ujjwalr754@gmail.com').split(',')
+        
+        print(f"Sending emails to {len(recipient_emails)} recipients:")
+        for email in recipient_emails:
+            print(f"  - {email}")
         
         # Process and send alert
         success, message = email_service.process_and_send_alert(
             recipient_emails=recipient_emails,
-            csv_file_path='query_results.csv',
-            threshold=2
+            file_path=r'csvs/all_resorts_detailed_orders.csv'
         )
         
         if success:

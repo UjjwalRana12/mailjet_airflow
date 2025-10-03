@@ -1,0 +1,18 @@
+OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,PropertyTypeId,RoomType,RoomTypeId,Studio,Bed1,Bed2,Bed3,Bed4,Status,MinUnits
+89182,2024-10-21 16:02:18.673,109,Flagstaff Resort,2,Wyndham,2025-10-03,2025-10-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102632,2025-09-12 21:02:37.003,109,Flagstaff Resort,2,Wyndham,2025-10-09,2025-10-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+95119,2025-03-03 20:32:37.817,109,Flagstaff Resort,2,Wyndham,2025-10-12,2025-10-19,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+98184,2025-05-06 09:29:43.033,109,Flagstaff Resort,2,Wyndham,2025-10-16,2025-10-21,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+94594,2025-02-23 16:59:04.447,109,Flagstaff Resort,2,Wyndham,2025-11-14,2025-11-16,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+100865,2025-07-27 13:35:37.123,109,Flagstaff Resort,2,Wyndham,2025-11-25,2025-11-29,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102749,2025-09-16 02:35:45.707,109,Flagstaff Resort,2,Wyndham,2025-11-26,2025-12-01,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101216,2025-08-06 00:04:51.643,109,Flagstaff Resort,2,Wyndham,2026-01-05,2026-01-10,None,12,Deluxe,2,False,False,True,False,False,Searching,15
+93917,2025-02-11 10:58:51.023,109,Flagstaff Resort,2,Wyndham,2026-02-01,2026-02-14,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102983,2025-09-21 19:42:06.730,109,Flagstaff Resort,2,Wyndham,2026-03-01,2026-03-04,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101838,2025-08-24 19:58:09.590,109,Flagstaff Resort,2,Wyndham,2026-03-07,2026-03-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100352,2025-07-13 15:40:03.280,109,Flagstaff Resort,2,Wyndham,2026-03-21,2026-03-28,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97666,2025-04-22 19:32:54.837,109,Flagstaff Resort,2,Wyndham,2026-04-02,2026-04-05,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100816,2025-07-25 15:51:50.400,109,Flagstaff Resort,2,Wyndham,2026-04-05,2026-04-10,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100836,2025-07-26 12:04:52.233,109,Flagstaff Resort,2,Wyndham,2026-04-15,2026-04-25,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+99848,2025-06-26 19:15:38.047,109,Flagstaff Resort,2,Wyndham,2026-05-07,2026-05-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101105,2025-08-03 13:46:36.450,109,Flagstaff Resort,2,Wyndham,2026-09-26,2026-09-30,None,12,Deluxe,2,False,True,False,False,False,Searching,0

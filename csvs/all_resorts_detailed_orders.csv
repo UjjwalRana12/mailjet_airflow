@@ -1,0 +1,566 @@
+OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,PropertyTypeId,RoomType,RoomTypeId,Studio,Bed1,Bed2,Bed3,Bed4,Status,MinUnits
+102729,2025-09-15 20:17:15.870,69,Mountain Vista Resort,2,Wyndham,2025-10-07,2025-10-13,None,12,Deluxe,2,True,False,False,False,False,Searching,5
+102034,2025-08-29 18:09:52.883,69,Mountain Vista Resort,2,Wyndham,2025-10-11,2025-10-18,None,12,Deluxe,2,False,False,True,False,False,Searching,3
+102034,2025-08-29 18:09:52.883,69,Mountain Vista Resort,2,Wyndham,2025-10-11,2025-10-18,None,12,Deluxe,2,False,False,True,False,False,Searching,3
+102090,2025-08-31 12:21:07.727,69,Mountain Vista Resort,2,Wyndham,2025-10-14,2025-10-17,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+95264,2025-03-05 13:43:31.107,69,Mountain Vista Resort,2,Wyndham,2025-11-22,2025-11-29,None,12,Deluxe,2,False,False,True,False,False,Searching,3
+98760,2025-05-22 23:49:10.703,69,Mountain Vista Resort,2,Wyndham,2025-12-08,2025-12-10,None,12,Deluxe,2,False,False,True,False,False,Searching,17
+101358,2025-08-10 14:28:16.170,69,Mountain Vista Resort,2,Wyndham,2025-12-14,2025-12-21,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+102160,2025-09-01 21:22:51.233,69,Mountain Vista Resort,2,Wyndham,2025-12-15,2025-12-19,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+101304,2025-08-08 14:15:31.167,69,Mountain Vista Resort,2,Wyndham,2025-12-16,2025-12-20,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+103122,2025-09-25 09:56:13.663,69,Mountain Vista Resort,2,Wyndham,2025-12-18,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+102485,2025-09-09 13:20:41.413,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching,28
+102967,2025-09-21 15:09:24.347,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,28
+103155,2025-09-25 21:57:41.500,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching,28
+88937,2024-10-13 18:50:39.410,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,28
+101497,2025-08-13 14:34:52.020,69,Mountain Vista Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,42
+102891,2025-09-19 13:27:25.143,69,Mountain Vista Resort,2,Wyndham,2025-12-20,2025-12-23,None,12,Deluxe,2,False,False,True,False,False,Searching,42
+103175,2025-09-26 12:09:09.463,69,Mountain Vista Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,42
+103348,2025-09-30 21:42:52.590,69,Mountain Vista Resort,2,Wyndham,2025-12-21,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,42
+101767,2025-08-22 09:32:46.890,69,Mountain Vista Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,37
+101064,2025-08-01 21:29:18.373,69,Mountain Vista Resort,2,Wyndham,2026-07-18,2026-07-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102623,2025-09-12 18:40:15.960,70,Ocean Walk Resort,2,Wyndham,2025-10-10,2025-10-15,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93761,2025-02-07 23:49:01.067,70,Ocean Walk Resort,2,Wyndham,2025-10-16,2025-10-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97063,2025-04-06 17:57:39.203,70,Ocean Walk Resort,2,Wyndham,2025-10-24,2025-10-29,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102784,2025-09-16 23:02:45.080,70,Ocean Walk Resort,2,Wyndham,2025-11-24,2025-12-01,None,12,Deluxe,2,False,False,True,False,False,Searching,23
+93384,2025-01-30 20:15:08.563,70,Ocean Walk Resort,2,Wyndham,2025-11-27,2025-12-01,None,12,Suite,3,False,True,False,False,False,Searching,35
+102265,2025-09-04 08:04:37.727,70,Ocean Walk Resort,2,Wyndham,2025-12-04,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,73
+103053,2025-09-23 14:59:48.807,70,Ocean Walk Resort,2,Wyndham,2025-12-08,2025-12-12,None,12,Deluxe,2,False,False,True,False,False,Searching,79
+99902,2025-06-28 11:56:32.580,70,Ocean Walk Resort,2,Wyndham,2025-12-14,2025-12-17,None,12,Deluxe,2,False,False,True,False,False,Searching,106
+102384,2025-09-06 22:34:19.253,70,Ocean Walk Resort,2,Wyndham,2025-12-14,2025-12-20,None,12,Deluxe,2,False,False,True,False,False,Searching,106
+103121,2025-09-25 09:21:50.343,70,Ocean Walk Resort,2,Wyndham,2025-12-30,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+102688,2025-09-14 15:35:28.223,70,Ocean Walk Resort,2,Wyndham,2025-12-31,2026-01-08,None,12,Deluxe,2,False,False,True,False,False,Searching,7
+97531,2025-04-18 18:53:28.820,70,Ocean Walk Resort,2,Wyndham,2026-01-04,2026-01-08,None,12,Deluxe,2,False,False,True,False,False,Searching,75
+100703,2025-07-22 15:02:04.467,70,Ocean Walk Resort,2,Wyndham,2026-01-16,2026-01-31,None,12,Suite,3,False,True,False,False,False,Searching,33
+102660,2025-09-13 16:06:48.547,70,Ocean Walk Resort,2,Wyndham,2026-01-20,2026-02-02,None,12,Deluxe,2,False,False,True,False,False,Searching,13
+101089,2025-08-02 17:51:20.557,70,Ocean Walk Resort,2,Wyndham,2026-01-23,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching,13
+102316,2025-09-05 14:03:16.737,70,Ocean Walk Resort,2,Wyndham,2026-01-23,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching,13
+100752,2025-07-23 19:37:43.460,70,Ocean Walk Resort,2,Wyndham,2026-02-07,2026-02-10,None,12,Suite,3,False,True,False,False,False,Searching,59
+102250,2025-09-03 20:52:20.153,70,Ocean Walk Resort,2,Wyndham,2026-02-12,2026-02-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92908,2025-01-20 17:17:07.257,70,Ocean Walk Resort,2,Wyndham,2026-02-14,2026-02-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+100586,2025-07-19 17:03:33.897,70,Ocean Walk Resort,2,Wyndham,2026-02-22,2026-02-24,None,12,Deluxe,2,False,False,True,False,False,Searching,54
+101097,2025-08-03 03:04:06.957,70,Ocean Walk Resort,2,Wyndham,2026-02-27,2026-03-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+102986,2025-09-21 21:43:14.317,70,Ocean Walk Resort,2,Wyndham,2026-03-02,2026-03-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+102331,2025-09-05 20:49:37.960,70,Ocean Walk Resort,2,Wyndham,2026-04-08,2026-04-11,None,12,Suite,3,False,True,False,False,False,Searching,0
+103170,2025-09-26 09:09:20.000,70,Ocean Walk Resort,2,Wyndham,2026-04-08,2026-04-11,None,12,Suite,3,False,True,False,False,False,Searching,0
+97313,2025-04-12 16:51:40.193,70,Ocean Walk Resort,2,Wyndham,2026-04-08,2026-04-12,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+99324,2025-06-09 18:07:22.993,70,Ocean Walk Resort,2,Wyndham,2026-04-08,2026-04-12,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+99691,2025-06-22 16:09:24.930,70,Ocean Walk Resort,2,Wyndham,2026-04-09,2026-04-12,None,12,Suite,3,False,True,False,False,False,Searching,14
+94880,2025-02-27 15:31:55.047,71,Margaritaville - Rio Mar,2,Wyndham,2025-11-25,2025-12-01,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101815,2025-08-24 09:41:52.340,71,Margaritaville - Rio Mar,2,Wyndham,2025-12-28,2026-01-01,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+103313,2025-09-30 00:13:12.110,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-02,2025-10-04,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+99077,2025-06-01 21:12:39.653,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-05,2025-10-07,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102084,2025-08-31 09:43:26.880,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-05,2025-10-07,None,12,Suite,3,False,True,False,False,False,Searching,0
+99957,2025-06-29 23:02:41.097,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-08,2025-10-11,None,12,Suite,3,False,True,False,False,False,Searching,0
+101856,2025-08-25 07:05:27.760,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-08,2025-10-10,None,12,Suite,3,False,True,False,False,False,Searching,0
+102345,2025-09-06 02:10:01.383,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-14,2025-10-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+101948,2025-08-27 09:42:08.477,72,Smugglers' Notch Vermont Resort,2,Wyndham,2025-10-19,2025-10-22,None,12,Suite,3,False,True,False,False,False,Searching,0
+102410,2025-09-07 22:52:07.207,72,Smugglers' Notch Vermont Resort,2,Wyndham,2026-01-28,2026-02-01,Condo,20,Deluxe,2,False,False,True,False,False,Searching,14
+102007,2025-08-28 18:37:35.623,72,Smugglers' Notch Vermont Resort,2,Wyndham,2026-02-13,2026-02-22,Condo,20,Deluxe,2,False,False,True,False,False,Searching,2
+101246,2025-08-06 20:08:48.467,72,Smugglers' Notch Vermont Resort,2,Wyndham,2026-03-07,2026-03-14,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+97290,2025-04-11 20:58:11.083,72,Smugglers' Notch Vermont Resort,2,Wyndham,2026-03-14,2026-03-18,Condo,20,Deluxe,2,False,False,True,False,False,Searching,26
+93110,2025-01-24 15:45:29.143,73,Steamboat Springs Resort,2,Wyndham,2025-12-19,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,12
+99311,2025-06-09 08:57:18.497,73,Steamboat Springs Resort,2,Wyndham,2025-12-26,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94237,2025-02-17 19:48:59.313,73,Steamboat Springs Resort,2,Wyndham,2025-12-26,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+91958,2025-01-02 11:31:23.683,73,Steamboat Springs Resort,2,Wyndham,2025-12-27,2026-01-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99883,2025-06-27 21:42:12.887,73,Steamboat Springs Resort,2,Wyndham,2025-12-31,2026-01-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99580,2025-06-18 11:03:47.597,73,Steamboat Springs Resort,2,Wyndham,2026-01-04,2026-01-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102086,2025-08-31 11:42:15.513,73,Steamboat Springs Resort,2,Wyndham,2026-01-18,2026-01-21,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+100556,2025-07-18 17:23:12.303,73,Steamboat Springs Resort,2,Wyndham,2026-01-31,2026-02-04,None,12,Deluxe,2,False,True,False,False,False,Searching,10
+101249,2025-08-06 20:27:26.350,73,Steamboat Springs Resort,2,Wyndham,2026-06-17,2026-06-21,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+101048,2025-08-01 15:47:44.277,73,Steamboat Springs Resort,2,Wyndham,2026-08-31,2026-09-02,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+103345,2025-09-30 19:52:39.307,74,Ocean Boulevard Resort,2,Wyndham,2026-03-09,2026-03-14,None,12,Deluxe,2,False,False,True,False,False,Searching,172
+101529,2025-08-14 12:32:53.363,75,Glacier Canyon Resort,2,Wyndham,2025-10-15,2025-10-18,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102214,2025-09-03 00:13:25.417,75,Glacier Canyon Resort,2,Wyndham,2025-12-13,2025-12-15,None,12,Deluxe,2,False,True,False,False,False,Searching,10
+101472,2025-08-12 21:36:15.840,75,Glacier Canyon Resort,2,Wyndham,2025-12-31,2026-01-02,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100385,2025-07-14 11:13:43.420,75,Glacier Canyon Resort,2,Wyndham,2026-01-02,2026-01-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101025,2025-07-31 21:55:36.537,75,Glacier Canyon Resort,2,Wyndham,2026-03-30,2026-04-01,None,12,Deluxe,2,False,False,True,False,False,Searching,36
+102554,2025-09-10 20:32:32.647,75,Glacier Canyon Resort,2,Wyndham,2026-06-19,2026-06-27,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+102087,2025-08-31 11:57:30.197,75,Glacier Canyon Resort,2,Wyndham,2026-06-19,2026-06-27,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+101813,2025-08-23 23:00:39.873,75,Glacier Canyon Resort,2,Wyndham,2026-06-20,2026-06-27,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+101802,2025-08-23 17:26:49.040,75,Glacier Canyon Resort,2,Wyndham,2026-06-20,2026-06-26,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+101806,2025-08-23 19:45:35.460,75,Glacier Canyon Resort,2,Wyndham,2026-06-20,2026-06-27,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+101591,2025-08-15 21:41:42.707,75,Glacier Canyon Resort,2,Wyndham,2026-06-20,2026-06-26,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+98349,2025-05-11 15:26:28.450,76,Pagosa Resort,2,Wyndham,2025-12-06,2025-12-10,None,12,Deluxe,2,False,False,True,False,False,Searching,140
+96076,2025-03-18 06:55:07.077,76,Pagosa Resort,2,Wyndham,2025-12-16,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching,26
+102362,2025-09-06 14:01:43.387,76,Pagosa Resort,2,Wyndham,2025-12-18,2025-12-22,None,12,Suite,3,False,True,False,False,False,Searching,50
+94967,2025-02-28 21:05:55.950,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,8
+94622,2025-02-23 22:10:52.133,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,8
+94966,2025-02-28 21:05:30.773,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching,8
+100681,2025-07-21 17:58:02.183,76,Pagosa Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,8
+102488,2025-09-09 14:19:47.450,76,Pagosa Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,8
+102779,2025-09-16 20:01:38.937,76,Pagosa Resort,2,Wyndham,2025-12-22,2025-12-29,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+102307,2025-09-05 10:25:12.437,76,Pagosa Resort,2,Wyndham,2025-12-22,2025-12-27,None,12,Suite,3,False,True,False,False,False,Searching,7
+103052,2025-09-23 14:26:25.417,76,Pagosa Resort,2,Wyndham,2025-12-23,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+103031,2025-09-22 23:01:23.187,76,Pagosa Resort,2,Wyndham,2025-12-26,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+102903,2025-09-19 16:12:59.833,76,Pagosa Resort,2,Wyndham,2025-12-27,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102903,2025-09-19 16:12:59.833,76,Pagosa Resort,2,Wyndham,2025-12-27,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101978,2025-08-27 23:53:15.813,76,Pagosa Resort,2,Wyndham,2025-12-27,2026-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101161,2025-08-04 20:12:49.583,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102807,2025-09-17 21:16:46.597,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102877,2025-09-19 00:42:58.927,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101839,2025-08-24 19:59:32.023,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Suite,3,False,True,False,False,False,Searching,4
+102155,2025-09-01 19:48:08.670,76,Pagosa Resort,2,Wyndham,2025-12-29,2026-01-01,None,12,Suite,3,False,True,False,False,False,Searching,0
+103158,2025-09-25 23:27:18.183,76,Pagosa Resort,2,Wyndham,2025-12-29,2026-01-03,None,12,Deluxe,2,False,False,True,False,False,Searching,40
+100612,2025-07-20 11:08:14.463,76,Pagosa Resort,2,Wyndham,2025-12-29,2026-01-03,None,12,Deluxe,2,False,False,True,False,False,Searching,40
+102133,2025-09-01 10:56:36.650,76,Pagosa Resort,2,Wyndham,2026-01-04,2026-01-09,None,12,Deluxe,2,False,False,True,False,False,Searching,36
+103284,2025-09-28 23:14:53.917,76,Pagosa Resort,2,Wyndham,2026-01-04,2026-01-10,None,12,Deluxe,2,False,False,True,False,False,Searching,36
+101686,2025-08-18 14:52:19.350,76,Pagosa Resort,2,Wyndham,2026-01-05,2026-01-10,None,12,Deluxe,2,False,False,True,False,False,Searching,36
+102682,2025-09-14 13:54:20.107,76,Pagosa Resort,2,Wyndham,2026-02-01,2026-02-05,None,12,Deluxe,2,False,False,True,False,False,Searching,32
+103250,2025-09-28 09:44:55.593,76,Pagosa Resort,2,Wyndham,2026-02-06,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,40
+95824,2025-03-14 13:40:32.287,76,Pagosa Resort,2,Wyndham,2026-03-08,2026-03-12,None,12,Deluxe,2,False,False,True,False,False,Searching,133
+95819,2025-03-14 13:21:58.817,76,Pagosa Resort,2,Wyndham,2026-03-08,2026-03-12,None,12,Suite,3,False,True,False,False,False,Searching,212
+94555,2025-02-23 06:58:57.277,76,Pagosa Resort,2,Wyndham,2026-03-15,2026-03-20,None,12,Deluxe,2,False,False,True,False,False,Searching,99
+92105,2025-01-05 08:29:50.967,76,Pagosa Resort,2,Wyndham,2026-03-16,2026-03-20,None,12,Deluxe,2,False,False,True,False,False,Searching,99
+100290,2025-07-11 00:16:14.127,76,Pagosa Resort,2,Wyndham,2026-07-08,2026-07-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100292,2025-07-11 01:26:49.183,76,Pagosa Resort,2,Wyndham,2026-07-08,2026-07-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103233,2025-09-27 17:38:03.237,76,Pagosa Resort,2,Wyndham,2026-09-10,2026-09-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101909,2025-08-26 15:03:55.167,76,Pagosa Resort,2,Wyndham,2026-09-19,2026-09-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103173,2025-09-26 11:32:30.783,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-06,2025-10-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102686,2025-09-14 15:05:14.710,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-06,2025-10-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102686,2025-09-14 15:05:14.710,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-06,2025-10-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102142,2025-09-01 13:07:13.213,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-07,2025-10-22,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+102142,2025-09-01 13:07:13.213,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-07,2025-10-22,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+102142,2025-09-01 13:07:13.213,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-07,2025-10-22,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+102142,2025-09-01 13:07:13.213,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-07,2025-10-22,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+102335,2025-09-05 22:15:27.697,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-10,2025-10-14,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102046,2025-08-29 23:00:23.377,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-12,2025-10-18,None,12,Deluxe,2,False,True,False,False,False,Searching,5
+101333,2025-08-09 19:31:48.897,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-12,2025-10-18,None,12,Deluxe,2,False,True,False,False,False,Searching,5
+101333,2025-08-09 19:31:48.897,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-12,2025-10-18,None,12,Deluxe,2,False,True,False,False,False,Searching,5
+103073,2025-09-24 07:44:02.747,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-14,2025-10-21,None,12,Deluxe,2,False,True,False,False,False,Searching,5
+103073,2025-09-24 07:44:02.747,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-14,2025-10-21,None,12,Deluxe,2,False,True,False,False,False,Searching,5
+100585,2025-07-19 16:02:34.720,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-15,2025-11-01,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+100585,2025-07-19 16:02:34.720,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-15,2025-11-01,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+100604,2025-07-20 00:14:41.990,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-23,2025-10-30,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+101762,2025-08-21 18:59:08.690,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-23,2025-10-28,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+100600,2025-07-19 22:40:42.483,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-23,2025-10-30,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+103213,2025-09-27 11:16:46.190,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-23,2025-10-28,None,12,Deluxe,2,False,True,False,False,False,Searching,16
+102827,2025-09-18 06:56:30.137,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-23,2025-10-26,None,12,Deluxe,2,False,True,False,False,False,Searching,16
+102020,2025-08-29 08:26:31.897,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-25,2025-10-29,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102756,2025-09-16 09:57:53.823,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-25,2025-10-29,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+101981,2025-08-28 01:18:22.603,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-10-30,2025-11-06,None,12,Deluxe,2,False,False,True,False,False,Searching,4
+100595,2025-07-19 19:47:47.547,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-01,2025-11-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100733,2025-07-23 13:40:50.640,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-01,2025-11-05,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100611,2025-07-20 10:45:04.623,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-04,2025-11-08,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102866,2025-09-18 18:25:28.470,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-04,2025-11-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100446,2025-07-15 14:57:56.560,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-06,2025-11-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100965,2025-07-30 17:28:44.677,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-06,2025-11-17,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+102895,2025-09-19 14:44:31.417,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-06,2025-11-08,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103167,2025-09-26 07:21:20.567,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-07,2025-11-09,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102706,2025-09-14 22:46:18.787,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-07,2025-11-11,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103028,2025-09-22 21:37:16.830,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-07,2025-11-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101618,2025-08-16 19:45:50.120,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-08,2025-11-12,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102500,2025-09-09 17:08:45.103,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-09,2025-11-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101830,2025-08-24 17:31:43.967,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-11,2025-11-15,None,12,Deluxe,2,False,True,False,False,False,Searching,3
+103339,2025-09-30 17:56:33.733,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-12,2025-11-15,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100592,2025-07-19 18:39:06.973,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-14,2025-11-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101653,2025-08-17 20:17:47.903,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-14,2025-11-20,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101609,2025-08-16 13:51:35.510,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-15,2025-11-19,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103293,2025-09-29 12:46:20.957,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-16,2025-11-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101902,2025-08-26 13:11:07.760,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-16,2025-11-23,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102748,2025-09-16 02:30:33.657,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-18,2025-11-22,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102517,2025-09-09 21:45:34.073,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-19,2025-11-26,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101891,2025-08-26 07:34:47.900,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-20,2025-11-29,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101668,2025-08-18 10:50:12.700,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-20,2025-11-24,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101963,2025-08-27 17:19:04.820,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-26,2025-11-29,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102861,2025-09-18 17:44:33.117,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-30,2025-12-06,None,12,Deluxe,2,False,False,True,False,False,Searching,18
+102645,2025-09-13 10:33:20.923,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-30,2025-12-06,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+103108,2025-09-24 20:26:16.753,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-01,2025-12-07,None,12,Deluxe,2,False,False,True,False,False,Searching,18
+102176,2025-09-02 11:24:37.573,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-02,2025-12-10,None,12,Deluxe,2,False,False,True,False,False,Searching,18
+102231,2025-09-03 13:34:17.413,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-02,2025-12-10,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102578,2025-09-11 16:26:23.533,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-05,2025-12-19,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103327,2025-09-30 14:27:04.787,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-07,2025-12-09,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+98736,2025-05-22 13:33:49.967,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-14,2025-12-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102484,2025-09-09 13:08:52.373,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-19,2025-12-21,None,12,Deluxe,2,False,False,True,False,False,Searching,21
+101027,2025-07-31 23:23:25.257,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-27,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101143,2025-08-04 12:14:43.757,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-31,2026-01-04,None,12,Deluxe,2,False,False,True,False,False,Searching,138
+102771,2025-09-16 15:43:52.490,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-01-05,2026-01-09,None,12,Deluxe,2,False,False,True,False,False,Searching,294
+98550,2025-05-17 07:52:41.517,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-01-07,2026-01-09,None,12,Deluxe,2,False,False,True,False,False,Searching,294
+97213,2025-04-10 08:52:38.627,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-01-15,2026-01-19,None,12,Deluxe,2,False,False,True,False,False,Searching,315
+102634,2025-09-12 22:10:41.737,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-01-26,2026-01-30,None,12,Deluxe,2,False,False,True,False,False,Searching,302
+103331,2025-09-30 15:10:45.980,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-02-04,2026-02-11,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+95986,2025-03-16 21:24:47.567,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-03-08,2026-03-13,None,12,Deluxe,2,False,True,False,False,False,Searching,93
+99992,2025-06-30 20:25:04.760,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-03-29,2026-04-04,None,12,Deluxe,2,False,False,True,False,False,Searching,261
+101566,2025-08-15 10:59:50.707,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-04-14,2026-04-18,None,12,Deluxe,2,False,True,False,False,False,Searching,60
+103256,2025-09-28 13:36:39.507,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-04-20,2026-04-26,None,12,Deluxe,2,False,False,True,False,False,Searching,290
+99381,2025-06-11 16:13:32.867,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-06-15,2026-06-19,None,12,Deluxe,2,False,True,False,False,False,Searching,195
+99882,2025-06-27 21:40:24.917,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-08-09,2026-08-15,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102194,2025-09-02 18:49:09.470,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-09-05,2026-09-11,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101768,2025-08-22 10:33:56.207,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-09-26,2026-10-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102886,2025-09-19 11:13:08.463,77,Club Wyndham Bonnet Creek,2,Wyndham,2026-12-13,2026-12-19,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103340,2025-09-30 18:16:59.300,81,Grand Desert Resort,2,Wyndham,2025-10-03,2025-10-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+102318,2025-09-05 15:15:16.160,81,Grand Desert Resort,2,Wyndham,2025-10-16,2025-10-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102318,2025-09-05 15:15:16.160,81,Grand Desert Resort,2,Wyndham,2025-10-16,2025-10-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103129,2025-09-25 12:29:28.837,81,Grand Desert Resort,2,Wyndham,2025-10-24,2025-10-27,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+103159,2025-09-25 23:33:02.650,81,Grand Desert Resort,2,Wyndham,2025-10-24,2025-10-26,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+101915,2025-08-26 17:59:41.207,81,Grand Desert Resort,2,Wyndham,2025-11-03,2025-11-09,None,12,Deluxe,2,False,False,False,True,False,Searching,0
+103336,2025-09-30 17:08:42.167,81,Grand Desert Resort,2,Wyndham,2025-11-06,2025-11-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103279,2025-09-28 22:44:53.457,81,Grand Desert Resort,2,Wyndham,2025-11-12,2025-11-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103292,2025-09-29 12:15:45.347,81,Grand Desert Resort,2,Wyndham,2025-12-01,2025-12-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+101191,2025-08-05 16:20:50.337,81,Grand Desert Resort,2,Wyndham,2025-12-06,2025-12-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103294,2025-09-29 13:35:58.110,81,Grand Desert Resort,2,Wyndham,2025-12-07,2025-12-14,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96209,2025-03-20 12:21:13.180,81,Grand Desert Resort,2,Wyndham,2025-12-09,2025-12-11,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100164,2025-07-07 13:48:32.063,81,Grand Desert Resort,2,Wyndham,2025-12-11,2025-12-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100061,2025-07-02 11:02:14.930,81,Grand Desert Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102304,2025-09-05 09:44:38.903,81,Grand Desert Resort,2,Wyndham,2025-12-23,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101786,2025-08-23 10:26:13.830,81,Grand Desert Resort,2,Wyndham,2025-12-23,2025-12-27,None,12,Suite,3,False,True,False,False,False,Searching,0
+101268,2025-08-07 11:35:39.520,81,Grand Desert Resort,2,Wyndham,2026-01-05,2026-01-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102101,2025-08-31 16:38:05.737,81,Grand Desert Resort,2,Wyndham,2026-01-11,2026-01-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96954,2025-04-03 20:54:37.733,81,Grand Desert Resort,2,Wyndham,2026-01-15,2026-01-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102668,2025-09-13 20:48:14.503,81,Grand Desert Resort,2,Wyndham,2026-01-23,2026-01-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103149,2025-09-25 19:09:21.520,81,Grand Desert Resort,2,Wyndham,2026-01-29,2026-02-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101822,2025-08-24 13:25:46.677,81,Grand Desert Resort,2,Wyndham,2026-02-04,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103251,2025-09-28 11:37:15.710,81,Grand Desert Resort,2,Wyndham,2026-02-06,2026-02-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103253,2025-09-28 12:12:17.997,81,Grand Desert Resort,2,Wyndham,2026-02-06,2026-02-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100120,2025-07-05 09:50:55.413,81,Grand Desert Resort,2,Wyndham,2026-02-19,2026-02-25,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102167,2025-09-02 01:25:31.757,81,Grand Desert Resort,2,Wyndham,2026-02-24,2026-03-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99024,2025-05-31 07:55:15.147,81,Grand Desert Resort,2,Wyndham,2026-02-25,2026-03-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100383,2025-07-14 10:46:35.253,81,Grand Desert Resort,2,Wyndham,2026-02-25,2026-03-03,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+98794,2025-05-24 05:31:23.697,81,Grand Desert Resort,2,Wyndham,2026-02-26,2026-03-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100798,2025-07-25 07:01:03.550,81,Grand Desert Resort,2,Wyndham,2026-03-01,2026-03-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97188,2025-04-09 16:27:40.610,81,Grand Desert Resort,2,Wyndham,2026-03-02,2026-03-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97559,2025-04-19 16:10:49.963,81,Grand Desert Resort,2,Wyndham,2026-03-02,2026-03-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101158,2025-08-04 19:23:17.780,81,Grand Desert Resort,2,Wyndham,2026-03-02,2026-03-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102239,2025-09-03 17:47:17.753,81,Grand Desert Resort,2,Wyndham,2026-03-02,2026-03-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99411,2025-06-12 13:37:19.530,81,Grand Desert Resort,2,Wyndham,2026-03-17,2026-03-24,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96613,2025-03-27 17:41:52.877,81,Grand Desert Resort,2,Wyndham,2026-03-17,2026-03-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102248,2025-09-03 19:58:27.240,81,Grand Desert Resort,2,Wyndham,2026-03-18,2026-03-23,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102023,2025-08-29 11:18:43.080,81,Grand Desert Resort,2,Wyndham,2026-03-31,2026-04-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97975,2025-04-30 22:27:43.960,81,Grand Desert Resort,2,Wyndham,2026-04-08,2026-04-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101998,2025-08-28 13:24:32.697,81,Grand Desert Resort,2,Wyndham,2026-04-17,2026-04-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101862,2025-08-25 12:35:50.333,81,Grand Desert Resort,2,Wyndham,2026-04-22,2026-04-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102572,2025-09-11 12:38:32.553,81,Grand Desert Resort,2,Wyndham,2026-04-23,2026-04-25,None,12,Suite,3,False,True,False,False,False,Searching,0
+99413,2025-06-12 15:42:40.790,81,Grand Desert Resort,2,Wyndham,2026-04-26,2026-05-03,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96137,2025-03-19 06:02:28.437,81,Grand Desert Resort,2,Wyndham,2026-04-27,2026-05-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+98865,2025-05-26 16:55:40.763,81,Grand Desert Resort,2,Wyndham,2026-05-13,2026-05-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101250,2025-08-06 21:08:36.093,81,Grand Desert Resort,2,Wyndham,2026-05-14,2026-05-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102647,2025-09-13 11:20:14.600,81,Grand Desert Resort,2,Wyndham,2026-05-14,2026-05-18,None,12,Suite,3,False,True,False,False,False,Searching,0
+100268,2025-07-10 14:54:19.073,81,Grand Desert Resort,2,Wyndham,2026-07-16,2026-07-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101549,2025-08-14 21:59:45.513,81,Grand Desert Resort,2,Wyndham,2026-08-19,2026-08-24,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102989,2025-09-21 23:20:04.493,81,Grand Desert Resort,2,Wyndham,2026-10-18,2026-10-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102603,2025-09-12 11:14:51.600,81,Grand Desert Resort,2,Wyndham,2026-10-28,2026-11-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102568,2025-09-11 09:01:17.090,81,Grand Desert Resort,2,Wyndham,2026-10-29,2026-11-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103085,2025-09-24 13:38:03.580,81,Grand Desert Resort,2,Wyndham,2026-11-25,2026-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92702,2025-01-16 20:33:29.847,82,Canterbury Resort,2,Wyndham,2026-01-11,2026-01-14,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103252,2025-09-28 12:11:42.480,84,Midtown 45 Resort,2,Wyndham,2025-11-01,2025-11-03,None,12,Standard,1,True,False,False,False,False,Searching,0
+92837,2025-01-19 12:24:47.840,84,Midtown 45 Resort,2,Wyndham,2025-12-01,2025-12-08,None,12,Standard,1,True,False,False,False,False,Searching,0
+92749,2025-01-17 19:14:11.113,84,Midtown 45 Resort,2,Wyndham,2025-12-02,2025-12-06,None,12,Standard,1,True,False,False,False,False,Searching,0
+95484,2025-03-08 16:49:59.990,84,Midtown 45 Resort,2,Wyndham,2025-12-04,2025-12-09,None,12,Standard,1,True,False,False,False,False,Searching,0
+96376,2025-03-23 10:54:55.627,84,Midtown 45 Resort,2,Wyndham,2025-12-09,2025-12-12,None,12,Standard,1,True,False,False,False,False,Searching,0
+96249,2025-03-21 10:23:37.397,84,Midtown 45 Resort,2,Wyndham,2026-03-23,2026-03-27,None,12,Standard,1,True,False,False,False,False,Searching,0
+91506,2024-12-20 06:16:48.470,84,Midtown 45 Resort,2,Wyndham,2026-04-08,2026-04-11,None,12,Standard,1,True,False,False,False,False,Searching,0
+100909,2025-07-28 19:39:51.920,85,Nashville Resort,2,Wyndham,2025-11-09,2025-11-12,None,12,Suite,3,False,True,False,False,False,Searching,0
+101688,2025-08-18 15:11:20.487,85,Nashville Resort,2,Wyndham,2026-01-11,2026-01-30,None,12,Suite,3,False,True,False,False,False,Searching,0
+103304,2025-09-29 19:45:15.867,85,Nashville Resort,2,Wyndham,2026-03-25,2026-03-30,None,12,Suite,3,False,True,False,False,False,Searching,0
+102811,2025-09-17 21:48:38.813,85,Nashville Resort,2,Wyndham,2026-03-26,2026-03-30,None,12,Suite,3,False,True,False,False,False,Searching,0
+103140,2025-09-25 14:48:35.183,85,Nashville Resort,2,Wyndham,2026-03-26,2026-03-29,None,12,Suite,3,False,True,False,False,False,Searching,0
+103139,2025-09-25 14:28:47.943,85,Nashville Resort,2,Wyndham,2026-03-26,2026-03-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102963,2025-09-21 08:40:18.630,85,Nashville Resort,2,Wyndham,2026-03-27,2026-03-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102803,2025-09-17 19:54:10.277,85,Nashville Resort,2,Wyndham,2026-03-27,2026-03-30,None,12,Suite,3,False,True,False,False,False,Searching,0
+101327,2025-08-09 17:36:39.893,85,Nashville Resort,2,Wyndham,2026-07-12,2026-07-18,None,12,Suite,3,False,True,False,False,False,Searching,0
+100495,2025-07-16 17:48:32.550,85,Nashville Resort,2,Wyndham,2026-07-19,2026-07-24,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100167,2025-07-07 14:13:39.797,87,Towers on the Grove Resort,2,Wyndham,2026-07-17,2026-07-24,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100499,2025-07-16 19:18:01.577,88,SeaWatch Resort,2,Wyndham,2026-07-06,2026-07-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102330,2025-09-05 20:28:52.730,91,Branson at The Falls Resort,2,Wyndham,2025-10-05,2025-10-15,None,12,Suite,3,False,True,False,False,False,Searching,0
+102330,2025-09-05 20:28:52.730,91,Branson at The Falls Resort,2,Wyndham,2025-10-05,2025-10-15,None,12,Suite,3,False,True,False,False,False,Searching,0
+102074,2025-08-30 18:41:45.670,92,Smoky Mountains Resort,2,Wyndham,2025-11-21,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+96360,2025-03-22 23:11:51.883,92,Smoky Mountains Resort,2,Wyndham,2025-11-23,2025-11-27,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+103114,2025-09-24 22:25:16.393,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+100731,2025-07-23 13:36:49.363,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-29,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102076,2025-08-30 19:37:57.383,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+103302,2025-09-29 18:46:58.630,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102716,2025-09-15 14:28:42.260,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-30,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+103207,2025-09-27 08:09:05.017,92,Smoky Mountains Resort,2,Wyndham,2025-11-26,2025-11-29,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102129,2025-09-01 09:54:25.123,92,Smoky Mountains Resort,2,Wyndham,2025-11-28,2025-12-03,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+99931,2025-06-29 13:40:20.293,92,Smoky Mountains Resort,2,Wyndham,2025-12-06,2025-12-13,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+97668,2025-04-22 20:36:10.480,92,Smoky Mountains Resort,2,Wyndham,2025-12-20,2025-12-26,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+97478,2025-04-17 14:08:24.577,92,Smoky Mountains Resort,2,Wyndham,2025-12-20,2025-12-26,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102985,2025-09-21 21:37:57.270,92,Smoky Mountains Resort,2,Wyndham,2025-12-28,2026-01-01,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102212,2025-09-02 23:49:30.177,92,Smoky Mountains Resort,2,Wyndham,2025-12-29,2026-01-01,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+100325,2025-07-12 13:47:03.277,92,Smoky Mountains Resort,2,Wyndham,2026-01-25,2026-01-30,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+100597,2025-07-19 19:53:10.893,92,Smoky Mountains Resort,2,Wyndham,2026-03-07,2026-03-13,Condo,20,Suite,3,False,True,False,False,False,Searching,0
+102761,2025-09-16 11:11:39.963,92,Smoky Mountains Resort,2,Wyndham,2026-04-12,2026-04-16,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102883,2025-09-19 09:37:36.610,92,Smoky Mountains Resort,2,Wyndham,2026-07-05,2026-07-12,Condo,20,Suite,3,False,True,False,False,False,Searching,0
+103024,2025-09-22 19:57:09.513,92,Smoky Mountains Resort,2,Wyndham,2026-07-11,2026-07-18,Condo,20,Deluxe,2,False,False,False,True,False,Searching,0
+102586,2025-09-11 19:16:37.840,94,Fairfield Glade Resort,2,Wyndham,2025-10-10,2025-10-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101620,2025-08-16 21:11:37.347,94,Fairfield Glade Resort,2,Wyndham,2025-10-11,2025-10-14,None,12,Deluxe,2,False,False,False,False,True,Searching,0
+102997,2025-09-22 07:30:25.353,94,Fairfield Glade Resort,2,Wyndham,2025-10-14,2025-10-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103120,2025-09-25 08:31:09.530,94,Fairfield Glade Resort,2,Wyndham,2025-11-16,2025-12-09,None,12,Suite,3,False,True,False,False,False,Searching,0
+101159,2025-08-04 19:31:28.397,94,Fairfield Glade Resort,2,Wyndham,2026-03-21,2026-03-27,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99685,2025-06-22 11:27:10.723,94,Fairfield Glade Resort,2,Wyndham,2026-06-10,2026-06-17,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102931,2025-09-20 14:50:15.330,94,Fairfield Glade Resort,2,Wyndham,2026-09-05,2026-09-07,None,12,Deluxe,2,False,False,False,False,True,Searching,0
+102622,2025-09-12 18:33:06.713,95,Palm-Aire Resort,2,Wyndham,2025-12-03,2025-12-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102149,2025-09-01 17:06:21.437,95,Palm-Aire Resort,2,Wyndham,2025-12-04,2025-12-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101299,2025-08-08 11:02:08.320,95,Palm-Aire Resort,2,Wyndham,2025-12-06,2025-12-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101739,2025-08-20 14:15:08.637,95,Palm-Aire Resort,2,Wyndham,2025-12-07,2025-12-11,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101849,2025-08-24 22:03:58.473,95,Palm-Aire Resort,2,Wyndham,2025-12-24,2025-12-31,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+91760,2024-12-28 12:41:09.920,95,Palm-Aire Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+91761,2024-12-28 12:57:16.023,95,Palm-Aire Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+91762,2024-12-28 13:39:21.183,95,Palm-Aire Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+95285,2025-03-05 18:05:26.963,95,Palm-Aire Resort,2,Wyndham,2026-02-01,2026-02-28,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+95390,2025-03-07 11:06:14.800,95,Palm-Aire Resort,2,Wyndham,2026-02-02,2026-02-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102720,2025-09-15 15:33:51.220,95,Palm-Aire Resort,2,Wyndham,2026-02-05,2026-02-20,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101901,2025-08-26 13:09:11.013,97,Star Island Resort,2,Wyndham,2025-12-07,2025-12-15,Condo,20,Deluxe,2,False,False,True,False,False,Searching,2
+100214,2025-07-08 18:59:21.633,97,Star Island Resort,2,Wyndham,2025-12-20,2026-01-06,Condo,20,Deluxe,2,False,False,True,False,False,Searching,10
+99896,2025-06-28 06:53:00.327,97,Star Island Resort,2,Wyndham,2025-12-23,2026-01-04,Condo,20,Deluxe,2,False,False,True,False,False,Searching,10
+100465,2025-07-15 22:40:02.697,99,Great Smokies Lodge,2,Wyndham,2025-12-20,2025-12-23,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+98853,2025-05-26 08:34:43.533,99,Great Smokies Lodge,2,Wyndham,2026-03-06,2026-03-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100416,2025-07-14 22:52:21.490,99,Great Smokies Lodge,2,Wyndham,2026-03-06,2026-03-10,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102974,2025-09-21 17:50:59.950,99,Great Smokies Lodge,2,Wyndham,2026-05-08,2026-05-10,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102078,2025-08-30 20:55:44.533,100,National Harbor Resort,2,Wyndham,2025-12-04,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92956,2025-01-21 16:17:56.547,100,National Harbor Resort,2,Wyndham,2025-12-18,2025-12-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102630,2025-09-12 19:44:36.797,100,National Harbor Resort,2,Wyndham,2025-12-29,2026-01-02,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+98473,2025-05-14 16:38:43.217,100,National Harbor Resort,2,Wyndham,2026-01-07,2026-01-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+98554,2025-05-17 11:13:03.367,100,National Harbor Resort,2,Wyndham,2026-01-07,2026-01-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101376,2025-08-10 17:38:26.350,100,National Harbor Resort,2,Wyndham,2026-01-07,2026-01-11,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103106,2025-09-24 20:25:37.347,100,National Harbor Resort,2,Wyndham,2026-01-08,2026-01-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102897,2025-09-19 15:01:32.693,100,National Harbor Resort,2,Wyndham,2026-01-13,2026-01-16,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102727,2025-09-15 19:42:25.307,100,National Harbor Resort,2,Wyndham,2026-02-01,2026-02-05,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102243,2025-09-03 19:29:42.580,100,National Harbor Resort,2,Wyndham,2026-02-11,2026-02-17,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+94427,2025-02-21 10:16:13.893,100,National Harbor Resort,2,Wyndham,2026-02-12,2026-02-15,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102464,2025-09-08 22:35:29.557,100,National Harbor Resort,2,Wyndham,2026-02-13,2026-02-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100109,2025-07-04 14:18:52.747,100,National Harbor Resort,2,Wyndham,2026-04-19,2026-04-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103044,2025-09-23 10:18:15.793,100,National Harbor Resort,2,Wyndham,2026-05-18,2026-05-20,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103255,2025-09-28 13:00:45.597,100,National Harbor Resort,2,Wyndham,2026-06-12,2026-06-18,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+99611,2025-06-19 10:25:37.743,101,Ocean Ridge Resort,2,Wyndham,2026-01-11,2026-01-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+96242,2025-03-21 03:07:35.277,102,South Shore Resort,2,Wyndham,2025-12-27,2025-12-30,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97581,2025-04-20 03:29:07.927,103,Park City Resort,2,Wyndham,2025-12-19,2025-12-23,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97542,2025-04-19 00:54:50.113,103,Park City Resort,2,Wyndham,2025-12-30,2026-01-01,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+103103,2025-09-24 19:11:05.127,103,Park City Resort,2,Wyndham,2026-01-19,2026-01-24,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97415,2025-04-15 23:27:09.180,103,Park City Resort,2,Wyndham,2026-02-01,2026-02-06,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97416,2025-04-15 23:27:09.320,103,Park City Resort,2,Wyndham,2026-02-08,2026-02-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+98792,2025-05-24 02:43:27.560,103,Park City Resort,2,Wyndham,2026-02-14,2026-02-18,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+99139,2025-06-03 17:52:20.843,103,Park City Resort,2,Wyndham,2026-03-01,2026-03-05,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102103,2025-08-31 16:56:51.400,103,Park City Resort,2,Wyndham,2026-03-19,2026-03-24,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+90911,2024-12-04 19:36:24.270,104,Patriot's Place Resort,2,Wyndham,2025-12-04,2025-12-07,None,12,Suite,3,False,True,False,False,False,Searching,0
+98830,2025-05-25 14:38:51.120,104,Patriot's Place Resort,2,Wyndham,2025-12-21,2025-12-27,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97792,2025-04-26 08:34:48.690,104,Patriot's Place Resort,2,Wyndham,2025-12-22,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97847,2025-04-27 20:15:37.013,104,Patriot's Place Resort,2,Wyndham,2025-12-24,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101928,2025-08-26 22:01:59.190,104,Patriot's Place Resort,2,Wyndham,2025-12-24,2025-12-31,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100896,2025-07-28 13:49:11.893,104,Patriot's Place Resort,2,Wyndham,2025-12-24,2025-12-26,None,12,Suite,3,False,True,False,False,False,Searching,0
+98669,2025-05-20 20:13:26.713,104,Patriot's Place Resort,2,Wyndham,2026-07-01,2026-07-07,None,12,Suite,3,False,True,False,False,False,Searching,0
+101078,2025-08-02 12:15:56.357,104,Patriot's Place Resort,2,Wyndham,2026-07-02,2026-07-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99434,2025-06-13 10:13:52.563,104,Patriot's Place Resort,2,Wyndham,2026-07-03,2026-07-05,None,12,Suite,3,False,True,False,False,False,Searching,0
+102954,2025-09-20 23:36:03.707,104,Patriot's Place Resort,2,Wyndham,2026-09-20,2026-09-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102325,2025-09-05 18:39:00.300,105,Kingsgate Resort,2,Wyndham,2025-09-21,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102600,2025-09-12 09:35:15.937,105,Kingsgate Resort,2,Wyndham,2025-10-06,2025-11-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+102600,2025-09-12 09:35:15.937,105,Kingsgate Resort,2,Wyndham,2025-10-06,2025-11-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+102600,2025-09-12 09:35:15.937,105,Kingsgate Resort,2,Wyndham,2025-10-06,2025-11-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+102600,2025-09-12 09:35:15.937,105,Kingsgate Resort,2,Wyndham,2025-10-06,2025-11-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+102286,2025-09-04 19:02:31.767,105,Kingsgate Resort,2,Wyndham,2025-10-09,2025-10-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102227,2025-09-03 12:40:35.480,105,Kingsgate Resort,2,Wyndham,2025-10-09,2025-10-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102323,2025-09-05 17:32:07.633,105,Kingsgate Resort,2,Wyndham,2025-10-10,2025-10-13,None,12,Suite,3,False,True,False,False,False,Searching,0
+102366,2025-09-06 16:17:46.323,105,Kingsgate Resort,2,Wyndham,2025-10-10,2025-10-13,None,12,Suite,3,False,True,False,False,False,Searching,0
+103198,2025-09-26 21:07:57.990,105,Kingsgate Resort,2,Wyndham,2025-10-11,2025-10-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+103141,2025-09-25 15:21:17.803,105,Kingsgate Resort,2,Wyndham,2025-10-16,2025-10-19,None,12,Suite,3,False,True,False,False,False,Searching,0
+99872,2025-06-27 14:51:56.930,105,Kingsgate Resort,2,Wyndham,2025-12-02,2025-12-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+95551,2025-03-09 20:26:42.760,105,Kingsgate Resort,2,Wyndham,2025-12-04,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92486,2025-01-12 12:04:35.253,105,Kingsgate Resort,2,Wyndham,2026-04-19,2026-04-22,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100603,2025-07-19 23:42:44.417,105,Kingsgate Resort,2,Wyndham,2026-05-09,2026-05-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92520,2025-01-12 20:08:26.630,105,Kingsgate Resort,2,Wyndham,2026-05-13,2026-05-17,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+91396,2024-12-17 15:34:14.750,105,Kingsgate Resort,2,Wyndham,2026-05-13,2026-05-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97855,2025-04-27 21:35:43.647,105,Kingsgate Resort,2,Wyndham,2026-05-14,2026-05-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93703,2025-02-06 20:25:40.090,105,Kingsgate Resort,2,Wyndham,2026-05-14,2026-05-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99971,2025-06-30 12:35:35.217,105,Kingsgate Resort,2,Wyndham,2026-06-28,2026-07-03,None,12,Suite,3,False,True,False,False,False,Searching,0
+103185,2025-09-26 16:19:56.857,106,Bali Hai Villas,2,Wyndham,2025-12-22,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101773,2025-08-22 15:37:34.237,106,Bali Hai Villas,2,Wyndham,2026-01-05,2026-01-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101853,2025-08-25 02:58:39.320,106,Bali Hai Villas,2,Wyndham,2026-01-07,2026-01-09,None,12,Suite,3,False,True,False,False,False,Searching,0
+102666,2025-09-13 20:04:29.613,106,Bali Hai Villas,2,Wyndham,2026-02-07,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99888,2025-06-27 21:56:07.247,106,Bali Hai Villas,2,Wyndham,2026-02-10,2026-02-17,None,12,Suite,3,False,True,False,False,False,Searching,0
+101131,2025-08-03 22:55:50.377,106,Bali Hai Villas,2,Wyndham,2026-02-11,2026-02-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101029,2025-08-01 00:42:07.563,106,Bali Hai Villas,2,Wyndham,2026-02-11,2026-02-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102993,2025-09-22 01:14:01.927,106,Bali Hai Villas,2,Wyndham,2026-02-13,2026-02-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101920,2025-08-26 19:41:39.920,106,Bali Hai Villas,2,Wyndham,2026-02-17,2026-03-05,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100987,2025-07-31 01:07:43.143,106,Bali Hai Villas,2,Wyndham,2026-03-07,2026-03-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+102595,2025-09-12 07:46:48.813,106,Bali Hai Villas,2,Wyndham,2026-03-16,2026-03-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103016,2025-09-22 17:32:55.357,106,Bali Hai Villas,2,Wyndham,2026-03-17,2026-03-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103172,2025-09-26 10:56:07.153,106,Bali Hai Villas,2,Wyndham,2026-03-18,2026-03-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100051,2025-07-02 00:07:22.540,106,Bali Hai Villas,2,Wyndham,2026-03-30,2026-04-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96233,2025-03-20 19:43:44.017,106,Bali Hai Villas,2,Wyndham,2026-03-30,2026-04-03,None,12,Suite,3,False,True,False,False,False,Searching,0
+96221,2025-03-20 17:33:40.117,106,Bali Hai Villas,2,Wyndham,2026-03-31,2026-04-05,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103147,2025-09-25 17:30:52.557,106,Bali Hai Villas,2,Wyndham,2026-04-01,2026-04-03,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99522,2025-06-16 01:36:21.920,106,Bali Hai Villas,2,Wyndham,2026-06-24,2026-06-27,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93730,2025-02-07 12:11:19.843,107,Governor's Green Resort,2,Wyndham,2025-12-03,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93726,2025-02-07 11:07:00.503,107,Governor's Green Resort,2,Wyndham,2025-12-03,2025-12-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100045,2025-07-01 21:44:59.570,107,Governor's Green Resort,2,Wyndham,2025-12-06,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102510,2025-09-09 19:15:59.983,107,Governor's Green Resort,2,Wyndham,2025-12-16,2026-01-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+97369,2025-04-14 18:58:39.583,107,Governor's Green Resort,2,Wyndham,2025-12-31,2026-01-06,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94684,2025-02-24 16:14:25.433,107,Governor's Green Resort,2,Wyndham,2026-05-14,2026-05-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102354,2025-09-06 10:24:58.057,108,Sedona Resort,2,Wyndham,2025-12-13,2025-12-17,None,12,Suite,3,False,True,False,False,False,Searching,0
+98620,2025-05-19 13:22:43.250,108,Sedona Resort,2,Wyndham,2026-01-21,2026-01-29,None,12,Suite,3,False,True,False,False,False,Searching,0
+89182,2024-10-21 16:02:18.673,109,Flagstaff Resort,2,Wyndham,2025-10-03,2025-10-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102632,2025-09-12 21:02:37.003,109,Flagstaff Resort,2,Wyndham,2025-10-09,2025-10-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+95119,2025-03-03 20:32:37.817,109,Flagstaff Resort,2,Wyndham,2025-10-12,2025-10-19,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+98184,2025-05-06 09:29:43.033,109,Flagstaff Resort,2,Wyndham,2025-10-16,2025-10-21,None,12,Deluxe,2,False,True,False,False,False,Searching,2
+94594,2025-02-23 16:59:04.447,109,Flagstaff Resort,2,Wyndham,2025-11-14,2025-11-16,None,12,Deluxe,2,False,False,True,False,False,Searching,2
+100865,2025-07-27 13:35:37.123,109,Flagstaff Resort,2,Wyndham,2025-11-25,2025-11-29,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102749,2025-09-16 02:35:45.707,109,Flagstaff Resort,2,Wyndham,2025-11-26,2025-12-01,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101216,2025-08-06 00:04:51.643,109,Flagstaff Resort,2,Wyndham,2026-01-05,2026-01-10,None,12,Deluxe,2,False,False,True,False,False,Searching,15
+93917,2025-02-11 10:58:51.023,109,Flagstaff Resort,2,Wyndham,2026-02-01,2026-02-14,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102983,2025-09-21 19:42:06.730,109,Flagstaff Resort,2,Wyndham,2026-03-01,2026-03-04,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101838,2025-08-24 19:58:09.590,109,Flagstaff Resort,2,Wyndham,2026-03-07,2026-03-13,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100352,2025-07-13 15:40:03.280,109,Flagstaff Resort,2,Wyndham,2026-03-21,2026-03-28,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+97666,2025-04-22 19:32:54.837,109,Flagstaff Resort,2,Wyndham,2026-04-02,2026-04-05,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100816,2025-07-25 15:51:50.400,109,Flagstaff Resort,2,Wyndham,2026-04-05,2026-04-10,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100836,2025-07-26 12:04:52.233,109,Flagstaff Resort,2,Wyndham,2026-04-15,2026-04-25,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+99848,2025-06-26 19:15:38.047,109,Flagstaff Resort,2,Wyndham,2026-05-07,2026-05-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101105,2025-08-03 13:46:36.450,109,Flagstaff Resort,2,Wyndham,2026-09-26,2026-09-30,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100776,2025-07-24 11:40:19.287,114,Bentley Brook Resort,2,Wyndham,2025-12-24,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100780,2025-07-24 14:20:58.977,114,Bentley Brook Resort,2,Wyndham,2025-12-24,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94867,2025-02-27 11:25:09.630,114,Bentley Brook Resort,2,Wyndham,2025-12-28,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93468,2025-02-01 19:24:12.970,114,Bentley Brook Resort,2,Wyndham,2025-12-29,2026-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102156,2025-09-01 20:04:14.053,114,Bentley Brook Resort,2,Wyndham,2025-12-30,2026-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102049,2025-08-29 23:47:06.110,114,Bentley Brook Resort,2,Wyndham,2025-12-30,2026-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92578,2025-01-13 22:43:57.623,114,Bentley Brook Resort,2,Wyndham,2026-01-01,2026-01-04,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94245,2025-02-17 23:17:02.690,114,Bentley Brook Resort,2,Wyndham,2026-01-16,2026-01-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+93215,2025-01-26 19:04:03.173,114,Bentley Brook Resort,2,Wyndham,2026-01-17,2026-01-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102047,2025-08-29 23:01:55.457,114,Bentley Brook Resort,2,Wyndham,2026-01-21,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100667,2025-07-21 13:57:29.080,114,Bentley Brook Resort,2,Wyndham,2026-01-23,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100669,2025-07-21 14:12:14.557,114,Bentley Brook Resort,2,Wyndham,2026-01-23,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102718,2025-09-15 15:06:18.120,114,Bentley Brook Resort,2,Wyndham,2026-02-06,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101814,2025-08-24 00:54:48.640,114,Bentley Brook Resort,2,Wyndham,2026-02-06,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102369,2025-09-06 17:19:28.660,114,Bentley Brook Resort,2,Wyndham,2026-02-07,2026-02-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94312,2025-02-19 10:39:21.020,114,Bentley Brook Resort,2,Wyndham,2026-02-15,2026-02-18,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94597,2025-02-23 17:23:06.530,114,Bentley Brook Resort,2,Wyndham,2026-02-16,2026-02-20,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+92699,2025-01-16 19:42:55.927,114,Bentley Brook Resort,2,Wyndham,2026-12-29,2027-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102002,2025-08-28 17:21:44.983,114,Bentley Brook Resort,2,Wyndham,2026-12-30,2027-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99196,2025-06-05 12:59:24.557,115,Cypress Palms,2,Wyndham,2026-01-31,2026-02-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+98681,2025-05-21 01:01:52.643,117,Skyline Tower Resort,2,Wyndham,2026-01-09,2026-01-12,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94665,2025-02-24 12:50:18.157,118,Shawnee Village Resort,2,Wyndham,2026-02-15,2026-02-18,Villa,9,Deluxe,2,False,False,True,False,False,Searching,0
+96024,2025-03-17 14:38:38.867,119,Avenue Plaza Resort,2,Wyndham,2026-02-12,2026-02-14,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100939,2025-07-29 22:15:12.283,121,Panama City Beach Resort,2,Wyndham,2025-10-12,2025-10-18,None,12,Standard,1,False,False,True,False,False,Searching,0
+90988,2024-12-06 13:31:30.843,123,Majestic Sun Resort,2,Wyndham,2025-10-23,2025-10-26,None,12,Suite,3,False,True,False,False,False,Searching,0
+100069,2025-07-02 17:00:43.073,123,Majestic Sun Resort,2,Wyndham,2026-04-08,2026-04-14,None,12,Suite,3,False,True,False,False,False,Searching,0
+100305,2025-07-11 16:18:39.813,123,Majestic Sun Resort,2,Wyndham,2026-04-09,2026-04-13,None,12,Suite,3,False,True,False,False,False,Searching,0
+102849,2025-09-18 14:47:17.977,126,Margaritaville - Nashville,2,Wyndham,2025-11-02,2025-11-04,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+98502,2025-05-15 13:19:41.187,126,Margaritaville - Nashville,2,Wyndham,2025-11-14,2025-11-17,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100279,2025-07-10 19:30:48.900,126,Margaritaville - Nashville,2,Wyndham,2026-07-10,2026-07-14,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100262,2025-07-10 06:06:45.500,139,Dolphin's Cove Resort,2,Wyndham,2025-10-13,2025-10-17,None,12,Suite,3,False,True,False,False,False,Searching,0
+96051,2025-03-17 20:41:33.980,139,Dolphin's Cove Resort,2,Wyndham,2025-11-22,2025-11-29,None,12,Suite,3,False,True,False,False,False,Searching,0
+102616,2025-09-12 15:53:58.000,139,Dolphin's Cove Resort,2,Wyndham,2025-12-06,2025-12-10,None,12,Suite,3,False,True,False,False,False,Searching,0
+101825,2025-08-24 14:51:15.783,139,Dolphin's Cove Resort,2,Wyndham,2025-12-13,2025-12-17,None,12,Suite,3,False,True,False,False,False,Searching,0
+101832,2025-08-24 18:41:21.960,139,Dolphin's Cove Resort,2,Wyndham,2025-12-23,2025-12-28,None,12,Suite,3,False,True,False,False,False,Searching,0
+98284,2025-05-09 01:39:07.817,139,Dolphin's Cove Resort,2,Wyndham,2025-12-30,2026-01-01,None,12,Suite,3,False,True,False,False,False,Searching,0
+100727,2025-07-23 12:36:29.300,139,Dolphin's Cove Resort,2,Wyndham,2026-03-02,2026-03-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+97209,2025-04-10 01:54:05.173,139,Dolphin's Cove Resort,2,Wyndham,2026-03-03,2026-03-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+96795,2025-03-31 00:07:39.797,139,Dolphin's Cove Resort,2,Wyndham,2026-03-03,2026-03-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+95378,2025-03-07 03:50:10.087,141,Waikiki Beach Walk Resort,2,Wyndham,2025-11-28,2025-12-08,None,12,Suite,3,False,True,False,False,False,Searching,0
+95640,2025-03-11 06:11:18.973,141,Waikiki Beach Walk Resort,2,Wyndham,2025-11-30,2025-12-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+103303,2025-09-29 19:09:36.983,141,Waikiki Beach Walk Resort,2,Wyndham,2026-02-12,2026-02-21,None,12,Suite,3,False,True,False,False,False,Searching,0
+103222,2025-09-27 12:09:28.063,150,Royal Vista Resort,2,Wyndham,2025-12-27,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103220,2025-09-27 12:04:03.710,152,Sea Gardens Resort,2,Wyndham,2025-11-10,2025-11-20,Condo,20,Standard,1,True,False,False,False,False,Searching,0
+102401,2025-09-07 20:00:55.887,152,Sea Gardens Resort,2,Wyndham,2025-12-02,2025-12-07,Condo,20,Standard,1,True,False,False,False,False,Searching,0
+101611,2025-08-16 15:34:18.833,152,Sea Gardens Resort,2,Wyndham,2025-12-04,2025-12-08,Condo,20,Deluxe,2,False,True,False,False,False,Searching,0
+103012,2025-09-22 15:46:54.043,152,Sea Gardens Resort,2,Wyndham,2025-12-08,2025-12-14,Condo,20,Deluxe,2,False,True,False,False,False,Searching,0
+92082,2025-01-04 17:54:39.970,152,Sea Gardens Resort,2,Wyndham,2026-01-01,2026-02-28,Condo,20,Deluxe,2,False,True,False,False,False,Searching,0
+92271,2025-01-08 15:33:08.980,152,Sea Gardens Resort,2,Wyndham,2026-01-01,2026-01-31,Condo,20,Standard,1,True,False,False,False,False,Searching,0
+93741,2025-02-07 16:28:02.470,152,Sea Gardens Resort,2,Wyndham,2026-01-28,2026-02-25,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+101790,2025-08-23 12:47:53.897,152,Sea Gardens Resort,2,Wyndham,2026-02-01,2026-02-28,Condo,20,Standard,1,True,False,False,False,False,Searching,0
+99702,2025-06-22 19:57:11.457,152,Sea Gardens Resort,2,Wyndham,2026-02-23,2026-03-09,Condo,20,Standard,1,True,False,False,False,False,Searching,0
+100945,2025-07-29 23:30:55.717,152,Sea Gardens Resort,2,Wyndham,2026-02-26,2026-03-01,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+99102,2025-06-02 14:18:40.623,152,Sea Gardens Resort,2,Wyndham,2026-03-23,2026-03-27,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+98938,2025-05-28 17:55:04.410,152,Sea Gardens Resort,2,Wyndham,2026-03-27,2026-04-04,Condo,20,Deluxe,2,False,False,True,False,False,Searching,0
+102707,2025-09-14 22:56:05.327,153,Margaritaville - St. Thomas,2,Wyndham,2025-12-20,2025-12-27,None,12,Standard,1,True,False,False,False,False,Searching,0
+99031,2025-05-31 12:29:56.490,153,Margaritaville - St. Thomas,2,Wyndham,2025-12-30,2026-01-06,None,12,Standard,1,True,False,False,False,False,Searching,0
+95607,2025-03-10 19:08:40.377,153,Margaritaville - St. Thomas,2,Wyndham,2026-01-04,2026-01-10,None,12,Standard,1,True,False,False,False,False,Searching,0
+101705,2025-08-18 19:25:12.453,153,Margaritaville - St. Thomas,2,Wyndham,2026-01-06,2026-01-09,None,12,Standard,1,True,False,False,False,False,Searching,0
+99889,2025-06-27 22:24:42.180,153,Margaritaville - St. Thomas,2,Wyndham,2026-01-11,2026-01-13,None,12,Standard,1,True,False,False,False,False,Searching,0
+103089,2025-09-24 14:36:04.817,153,Margaritaville - St. Thomas,2,Wyndham,2026-01-18,2026-01-22,None,12,Standard,1,True,False,False,False,False,Searching,0
+99858,2025-06-27 04:45:44.507,153,Margaritaville - St. Thomas,2,Wyndham,2026-02-04,2026-02-06,None,12,Standard,1,True,False,False,False,False,Searching,0
+97563,2025-04-19 18:13:56.290,153,Margaritaville - St. Thomas,2,Wyndham,2026-02-21,2026-02-24,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+100137,2025-07-05 20:09:52.763,153,Margaritaville - St. Thomas,2,Wyndham,2026-03-22,2026-03-24,None,12,Standard,1,True,False,False,False,False,Searching,0
+98310,2025-05-10 01:15:16.520,153,Margaritaville - St. Thomas,2,Wyndham,2026-04-15,2026-04-22,None,12,Standard,1,True,False,False,False,False,Searching,0
+98312,2025-05-10 01:53:56.237,153,Margaritaville - St. Thomas,2,Wyndham,2026-04-15,2026-04-22,None,12,Standard,1,True,False,False,False,False,Searching,0
+95951,2025-03-16 14:04:50.780,153,Margaritaville - St. Thomas,2,Wyndham,2026-04-16,2026-04-21,None,12,Standard,1,True,False,False,False,False,Searching,0
+102311,2025-09-05 10:54:11.393,153,Margaritaville - St. Thomas,2,Wyndham,2026-06-09,2026-06-11,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+102437,2025-09-08 13:54:42.537,159,Harbour Lights Resort,2,Wyndham,2025-11-14,2025-11-20,None,12,Standard,1,True,False,False,False,False,Searching,0
+102570,2025-09-11 11:16:11.893,159,Harbour Lights Resort,2,Wyndham,2025-11-14,2025-11-20,None,12,Standard,1,True,False,False,False,False,Searching,0
+102305,2025-09-05 09:49:43.030,159,Harbour Lights Resort,2,Wyndham,2025-11-15,2025-11-19,None,12,Standard,1,True,False,False,False,False,Searching,0
+102715,2025-09-15 12:28:44.613,159,Harbour Lights Resort,2,Wyndham,2025-11-15,2025-11-19,None,12,Standard,1,True,False,False,False,False,Searching,0
+100257,2025-07-10 00:48:36.800,159,Harbour Lights Resort,2,Wyndham,2026-08-11,2026-08-13,None,12,Standard,1,True,False,False,False,False,Searching,0
+102322,2025-09-05 16:59:26.663,161,Oceanside Pier Resort,2,Wyndham,2025-11-23,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102041,2025-08-29 20:36:28.643,161,Oceanside Pier Resort,2,Wyndham,2025-12-23,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+98838,2025-05-25 17:31:30.457,161,Oceanside Pier Resort,2,Wyndham,2026-07-26,2026-07-31,None,12,Deluxe,2,False,True,False,False,False,Searching,0
+101916,2025-08-26 18:10:34.933,167,Margaritaville - Desert Blue,2,Wyndham,2025-12-06,2025-12-08,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99012,2025-05-30 20:05:25.080,167,Margaritaville - Desert Blue,2,Wyndham,2026-05-14,2026-05-19,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100768,2025-07-24 04:25:14.887,170,Anaheim Resort,2,Wyndham,2026-03-03,2026-03-06,None,12,Standard,1,False,False,True,False,False,Searching,0
+100751,2025-07-23 19:04:01.873,170,Anaheim Resort,2,Wyndham,2026-03-03,2026-03-06,None,12,Standard,1,False,True,False,False,False,Searching,0
+99129,2025-06-03 13:56:13.987,176,Riverside Suites Resort,2,Wyndham,2025-12-07,2025-12-11,None,12,Standard,1,False,False,True,False,False,Searching,0
+98200,2025-05-06 18:06:58.863,176,Riverside Suites Resort,2,Wyndham,2026-01-12,2026-01-14,None,12,Standard,1,False,False,True,False,False,Searching,0
+101410,2025-08-11 15:36:46.550,176,Riverside Suites Resort,2,Wyndham,2026-12-16,2026-12-20,None,12,Standard,1,False,False,True,False,False,Searching,0
+100519,2025-07-17 14:01:01.510,184,Vino Bello Resort,2,Wyndham,2025-10-11,2025-10-13,None,12,Standard,1,True,False,False,False,False,Searching,0
+96296,2025-03-21 23:54:58.777,184,Vino Bello Resort,2,Wyndham,2025-10-26,2025-11-01,None,12,Standard,1,True,False,False,False,False,Searching,0
+98864,2025-05-26 16:11:57.363,184,Vino Bello Resort,2,Wyndham,2026-05-22,2026-05-25,None,12,Standard,1,True,False,False,False,False,Searching,0
+100749,2025-07-23 16:59:16.570,184,Vino Bello Resort,2,Wyndham,2026-05-22,2026-05-25,None,12,Standard,1,True,False,False,False,False,Searching,0
+98892,2025-05-27 13:26:02.897,184,Vino Bello Resort,2,Wyndham,2026-05-22,2026-05-25,None,12,Standard,1,True,False,False,False,False,Searching,0
+102097,2025-08-31 15:46:34.837,184,Vino Bello Resort,2,Wyndham,2026-09-04,2026-09-06,None,12,Standard,1,True,False,False,False,False,Searching,0
+103018,2025-09-22 17:44:35.237,186,Pinetop Resort,2,Wyndham,2025-12-23,2025-12-26,None,12,Standard,1,False,True,False,False,False,Searching,0
+93578,2025-02-03 23:59:57.307,187,Club Wyndham Mauna Loa Village,2,Wyndham,2026-01-10,2026-01-19,None,12,Standard,1,False,False,True,False,False,Searching,0
+94009,2025-02-12 23:53:59.520,187,Club Wyndham Mauna Loa Village,2,Wyndham,2026-02-01,2026-02-28,None,12,Standard,1,False,False,True,False,False,Searching,0
+102029,2025-08-29 15:12:37.450,199,Rancho Vistoso Resort,2,Wyndham,2026-01-25,2026-02-21,None,12,Standard,1,False,False,True,False,False,Searching,0
+100996,2025-07-31 11:23:51.960,199,Rancho Vistoso Resort,2,Wyndham,2026-02-22,2026-03-14,None,12,Standard,1,False,False,True,False,False,Searching,0
+98888,2025-05-27 10:18:51.217,202,Limetree Beach Resort,2,Wyndham,2025-11-13,2025-11-18,None,12,Standard,1,True,False,False,False,False,Searching,0
+99097,2025-06-02 11:46:17.010,202,Limetree Beach Resort,2,Wyndham,2025-12-03,2025-12-10,None,12,Standard,1,True,False,False,False,False,Searching,0
+101360,2025-08-10 15:04:18.433,202,Limetree Beach Resort,2,Wyndham,2025-12-17,2025-12-27,None,12,Standard,1,True,False,False,False,False,Searching,0
+96571,2025-03-26 16:27:20.783,202,Limetree Beach Resort,2,Wyndham,2025-12-29,2025-12-31,None,12,Standard,1,True,False,False,False,False,Searching,0
+101183,2025-08-05 08:47:30.660,202,Limetree Beach Resort,2,Wyndham,2025-12-31,2026-01-06,None,12,Suite,3,False,True,False,False,False,Searching,0
+96343,2025-03-22 19:05:00.437,202,Limetree Beach Resort,2,Wyndham,2026-01-01,2026-01-07,None,12,Standard,1,True,False,False,False,False,Searching,0
+93950,2025-02-11 22:39:36.830,202,Limetree Beach Resort,2,Wyndham,2026-01-17,2026-01-24,None,12,Standard,1,True,False,False,False,False,Searching,0
+96308,2025-03-22 10:13:19.453,202,Limetree Beach Resort,2,Wyndham,2026-01-18,2026-01-23,None,12,Standard,1,True,False,False,False,False,Searching,0
+96774,2025-03-30 19:27:40.357,202,Limetree Beach Resort,2,Wyndham,2026-01-18,2026-01-23,None,12,Suite,3,False,True,False,False,False,Searching,0
+99355,2025-06-10 20:24:18.863,202,Limetree Beach Resort,2,Wyndham,2026-01-24,2026-01-31,None,12,Standard,1,True,False,False,False,False,Searching,0
+103299,2025-09-29 16:38:00.407,202,Limetree Beach Resort,2,Wyndham,2026-02-25,2026-02-27,None,12,Standard,1,True,False,False,False,False,Searching,0
+103197,2025-09-26 20:44:32.027,202,Limetree Beach Resort,2,Wyndham,2026-04-01,2026-04-05,None,12,Standard,1,True,False,False,False,False,Searching,0
+103201,2025-09-26 22:49:49.440,202,Limetree Beach Resort,2,Wyndham,2026-04-01,2026-04-05,None,12,Standard,1,True,False,False,False,False,Searching,0
+103230,2025-09-27 16:54:21.763,202,Limetree Beach Resort,2,Wyndham,2026-04-19,2026-04-22,None,12,Standard,1,True,False,False,False,False,Searching,0
+103232,2025-09-27 17:24:22.790,202,Limetree Beach Resort,2,Wyndham,2026-04-19,2026-04-22,None,12,Standard,1,True,False,False,False,False,Searching,0
+101589,2025-08-15 20:16:31.473,202,Limetree Beach Resort,2,Wyndham,2026-06-21,2026-06-30,None,12,Standard,1,True,False,False,False,False,Searching,0
+99191,2025-06-05 09:53:31.393,208,Peacock Suites,2,Wyndham,2025-11-16,2025-11-20,None,12,Standard,1,False,True,False,False,False,Searching,0
+103046,2025-09-23 11:59:47.880,251,Indio Resort,2,Wyndham,2025-12-14,2025-12-22,None,12,Standard,1,False,False,True,False,False,Searching,0
+102949,2025-09-20 21:48:12.547,251,Indio Resort,2,Wyndham,2026-01-14,2026-01-19,None,12,Standard,1,False,True,False,False,False,Searching,0
+102584,2025-09-11 19:01:18.657,251,Indio Resort,2,Wyndham,2026-01-16,2026-01-19,None,12,Standard,1,False,False,True,False,False,Searching,0
+100337,2025-07-13 00:42:35.220,251,Indio Resort,2,Wyndham,2026-01-22,2026-01-29,None,12,Standard,1,False,True,False,False,False,Searching,0
+98672,2025-05-20 20:31:29.080,251,Indio Resort,2,Wyndham,2026-02-01,2026-03-07,None,12,Standard,1,False,False,True,False,False,Searching,0
+98672,2025-05-20 20:31:29.080,251,Indio Resort,2,Wyndham,2026-02-01,2026-03-07,None,12,Standard,1,False,False,True,False,False,Searching,0
+98169,2025-05-05 21:32:45.033,251,Indio Resort,2,Wyndham,2026-04-09,2026-04-13,None,12,Standard,1,False,True,False,False,False,Searching,0
+103161,2025-09-26 01:24:51.857,251,Indio Resort,2,Wyndham,2026-04-17,2026-04-20,None,12,Standard,1,False,True,False,False,False,Searching,0
+103165,2025-09-26 02:34:17.670,251,Indio Resort,2,Wyndham,2026-04-18,2026-04-20,None,12,Standard,1,False,True,False,False,False,Searching,0
+98686,2025-05-21 04:16:23.253,251,Indio Resort,2,Wyndham,2026-04-22,2026-04-29,None,12,Standard,1,False,False,True,False,False,Searching,0
+99467,2025-06-14 05:59:30.980,251,Indio Resort,2,Wyndham,2026-04-23,2026-04-27,None,12,Standard,1,False,False,True,False,False,Searching,0
+103265,2025-09-28 16:25:02.020,259,Grand Palms Resort,2,Wyndham,2026-07-12,2026-07-23,None,12,Standard,1,False,False,False,True,False,Searching,0
+103194,2025-09-26 20:02:15.953,439,Atlanta Resort,2,Wyndham,2026-01-10,2026-01-15,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100587,2025-07-19 17:37:46.273,439,Atlanta Resort,2,Wyndham,2026-01-11,2026-01-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103187,2025-09-26 16:29:00.507,439,Atlanta Resort,2,Wyndham,2026-01-11,2026-01-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+101643,2025-08-17 16:21:54.223,439,Atlanta Resort,2,Wyndham,2026-02-13,2026-02-15,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100676,2025-07-21 16:43:48.143,439,Atlanta Resort,2,Wyndham,2026-03-11,2026-03-13,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+96042,2025-03-17 17:34:32.407,439,Atlanta Resort,2,Wyndham,2026-04-10,2026-04-17,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100617,2025-07-20 12:55:18.410,439,Atlanta Resort,2,Wyndham,2026-06-07,2026-06-14,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+99465,2025-06-14 02:02:15.747,439,Atlanta Resort,2,Wyndham,2026-06-13,2026-06-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+95453,2025-03-08 08:39:46.980,439,Atlanta Resort,2,Wyndham,2026-06-14,2026-06-16,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+100080,2025-07-03 01:21:38.433,439,Atlanta Resort,2,Wyndham,2026-06-14,2026-06-21,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+100625,2025-07-20 14:04:10.730,439,Atlanta Resort,2,Wyndham,2026-06-20,2026-06-23,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+101109,2025-08-03 14:19:56.000,439,Atlanta Resort,2,Wyndham,2026-06-30,2026-07-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102520,2025-09-09 22:21:37.357,439,Atlanta Resort,2,Wyndham,2026-07-04,2026-07-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102486,2025-09-09 14:03:12.287,439,Atlanta Resort,2,Wyndham,2026-07-05,2026-07-08,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+102804,2025-09-17 20:11:56.863,439,Atlanta Resort,2,Wyndham,2026-07-05,2026-07-07,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+102492,2025-09-09 16:11:01.437,439,Atlanta Resort,2,Wyndham,2026-07-07,2026-07-09,None,12,Suite,3,False,True,False,False,False,Searching,0
+103144,2025-09-25 16:17:19.207,439,Atlanta Resort,2,Wyndham,2026-07-07,2026-07-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102521,2025-09-09 22:27:06.487,439,Atlanta Resort,2,Wyndham,2026-07-07,2026-07-09,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+95413,2025-03-07 16:19:22.773,439,Atlanta Resort,2,Wyndham,2026-07-13,2026-07-16,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+96748,2025-03-30 10:14:44.120,439,Atlanta Resort,2,Wyndham,2026-07-14,2026-07-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+101194,2025-08-05 16:50:34.443,439,Atlanta Resort,2,Wyndham,2026-07-14,2026-07-16,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+103056,2025-09-23 15:31:04.700,439,Atlanta Resort,2,Wyndham,2026-07-15,2026-07-17,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102197,2025-09-02 20:08:33.590,439,Atlanta Resort,2,Wyndham,2026-09-01,2026-09-08,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+102360,2025-09-06 13:55:34.857,439,Atlanta Resort,2,Wyndham,2026-09-03,2026-09-07,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+94169,2025-02-16 13:53:25.783,465,Kaua'i Beach Villas,2,Wyndham,2025-11-09,2025-11-16,None,12,Suite,3,False,True,False,False,False,Searching,0
+102379,2025-09-06 21:52:12.277,465,Kaua'i Beach Villas,2,Wyndham,2026-01-04,2026-01-18,None,12,Suite,3,False,True,False,False,False,Searching,0
+99851,2025-06-26 23:20:51.307,465,Kaua'i Beach Villas,2,Wyndham,2026-01-23,2026-01-28,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+99796,2025-06-25 10:34:28.063,465,Kaua'i Beach Villas,2,Wyndham,2026-03-28,2026-04-02,None,12,Deluxe,2,False,False,True,False,False,Searching,0
+102454,2025-09-08 18:26:19.763,528,Club Wyndham Elysian Beach Resort,2,Wyndham,2026-05-02,2026-05-07,None,12,Deluxe,2,True,False,False,False,False,Searching,0
+102728,2025-09-15 19:46:32.220,568,Club Wyndham Moab,2,Wyndham,2026-03-26,2026-03-29,None,12,Presidential,4,False,False,False,False,True,Searching,0
