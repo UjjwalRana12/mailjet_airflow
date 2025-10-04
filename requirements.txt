@@ -6,9 +6,18 @@ python-dotenv
 requests
 dotenv
 pandas
-
+selenium 
+requests
+dotenv
+webdriver-manager
 
 
 # Additional Airflow providers if needed
 # apache-airflow-providers-http==4.5.1
 # apache-airflow-providers-postgres==5.6.1
+
+#  main.py will give me the csv file for the availability count in csv folder
+#  api_call/login_Wyndham.py
+#  api_call/extraction.py
+#  api_call/generate_tid.py
+#  api_call/fetch_data.py

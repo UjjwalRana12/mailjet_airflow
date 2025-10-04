@@ -1,2 +1,7 @@
 .env
 venv
+auth_data
+logs
+test_results
+results
+csvs
