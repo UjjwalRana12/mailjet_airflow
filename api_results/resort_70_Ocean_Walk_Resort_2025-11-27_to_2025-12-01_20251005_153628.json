@@ -1,0 +1,501 @@
+{
+  "request_info": {
+    "resort_id": 70,
+    "resort_name": "Ocean Walk Resort",
+    "product_id": "PI|R000000000005",
+    "check_in": "2025-11-27",
+    "check_out": "2025-12-01",
+    "fetch_timestamp": "2025-10-05T15:36:28.339733",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "CENTRAL FLORIDA",
+        "count": "1"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Accessible route from the accessible entrance to the accessible guestrooms",
+        "count": "1"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "1"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Bar/Lounge",
+        "count": "1"
+      },
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Children's Activities",
+        "count": "1"
+      },
+      {
+        "name": "Elevators",
+        "count": "1"
+      },
+      {
+        "name": "Family Vacation",
+        "count": "1"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Organized Activities",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "1"
+      },
+      {
+        "name": "Theme Parks",
+        "count": "1"
+      },
+      {
+        "name": "Van-accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Visual alarms for hearing impaired in hallways",
+        "count": "1"
+      },
+      {
+        "name": "Visual alarms for hearing impaired in public areas",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "1"
+    },
+    "resortAmenities": [
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "nextGeographicName": "Regions",
+    "hasInEligibleProducts": false,
+    "lowestAvailablePoints": "25200",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "minPointsPerTrip": 25200,
+    "unitTypes": [
+      {
+        "name": "1 BEDROOM",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 25200,
+    "areaActivities": [
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Theme Parks",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "4",
+        "count": "1"
+      },
+      {
+        "name": "8",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "0"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "0",
+      "recordPerPage": "1",
+      "recordOffset": "0",
+      "totalRecordCount": "1"
+    },
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "1002"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Cypress Palms",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000049|Cypress Palms",
+            "offeringLabel": "Cypress Palms",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "25200",
+                "totalPointsBeforeDiscount": "63000",
+                "unitName": "1 Bedroom",
+                "accomodationClassId": "REF|1 Bedroom",
+                "calendarDays": [
+                  {
+                    "date": "2025-11-27",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "10500",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "4200",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-11-28",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "21000",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "8400",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-11-29",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "36",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "21000",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "8400",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-11-30",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "10",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "10500",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "4200",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjI1MjAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDkiLCJ1bml0TmFtZSI6IjEgQmVkcm9vbSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5NCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNS0xMS0yNyIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjYzMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNS0xMi0wMSIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4Nzg5LCJleHAiOjE3NTk2NjIzODl9.SgvIi2dBX6uTkcZsLBBHYFF8uwbc36Oh0d7j1fOvo_88nJVfcRmYCR-o6puw-qvs7mYlb485ogfzTAAzFQ3tIX8bvl8PzHknAwsWJ3KIGjRVMNQP2iG8XAdVh6_FOGsiu65EV6rbbcLD-6ZiIYBZ2PDP-fRJ5G0S8MVsvAL059qUCTqlN6XSFQELzTcb3zl_qTPNYNxFC1KfeMwYmkFlBqNohF__jeo7ygK1r2L63_3u29jDsOr8tt4H7VrKylnLL50iC7MI9kiyVEYhbY_YuOrAkjDvOlTW7awPSoZdd8IXFfx1v5PcxaDZDnGf5S1RPvN1XoNxG9BFaHw-4glN-w",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1002,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CLUB WYNDHAM Founders Discount",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 2 Months",
+                        "bkgWndwId": 10
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.329921",
+        "description": "Relax at this cozy Orlando resort, close to the theme parks. Family-friendly pools and activity center keep tots to teens happily entertained.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Owner Lounge",
+          "Boating",
+          "Children's Activities",
+          "Elevators",
+          "Fitness Center",
+          "Miniature Golf",
+          "Golf",
+          "Horseback Riding",
+          "Hot Tub (Outdoor)",
+          "Live Entertainment",
+          "Organized Activities",
+          "Barbecue Area",
+          "Picnic Area",
+          "Swimming Pool (Heated/Outdoor)",
+          "SeaWorldÂ® Orlando",
+          "Walt Disney WorldÂ® Resort",
+          "Universal OrlandoÂ® Resort",
+          "Theme Parks",
+          "Water-Skiing",
+          "Jet Skiing",
+          "Wi-Fi Internet Access",
+          "Lake",
+          "Activities Center",
+          "Activities Desk",
+          "Concierge Services",
+          "24-Hour Security Access"
+        ],
+        "minPointsPerTrip": 25200,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/New_York",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "360",
+        "brand": "WVR",
+        "longitude": "-81.49564",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          },
+          {
+            "alertMessage": "A%20limited%20number%20of%20suites%20have%20been%20designated%20for%20use%20by%20WorldMark%20owners%20at%20this%20resort.%20All%20suites%20will%20feature%20Club%20Wyndham%20amenities%20(housewares%20and%20coffee)%2C%20and%20Club%20Wyndham%20guidelines%20will%20apply%20to%20checkout%20time%20(10%20a.m.)%20and%20Wi-Fi%20availability.%20Because%20this%20resort%20remains%20Club%20Wyndham-branded%2C%20be%20sure%20to%20use%20the%20Club%20Wyndham%20resort%20name%20when%20navigating%20to%20the%20property.%20WorldMark%20spice%20packets%20will%20be%20available%20upon%20request.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation On-Site Activity Information",
+            "templateCreatedDate": "2025-07-25T00:00:00-04:00",
+            "alertTitle": "WM Club Direct Notice"
+          },
+          {
+            "alertMessage": "The%20neighboring%20housing%20community%20is%20expanding%2C%20and%20a%20major%20construction%20project%20is%20happening%20near%20the%20resort.%20The%20nearby%20construction%20may%20affect%20your%20experience.%20As%20a%20result%2C%20you%20may%20encounter%20noise%2C%20dust%2C%20odor%2C%20and%20work%20crews%20nearby.%20Please%20contact%20the%20resort%20for%20further%20details.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Construction Alert",
+            "templateCreatedDate": "2025-08-04T00:00:00-04:00",
+            "alertTitle": "CW Cypress Palm Neighboring Construction"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Kissimmee",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "34746",
+          "region": "CENTRAL FLORIDA",
+          "line1": "5324 Fairfield Lake Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000049",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in.",
+          "This is a cashless resort. A credit or debit card is required for on-site purchases."
+        ],
+        "resortId": "SUR0000000294",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Kissimmee",
+          "stateOrProvince": "FL",
+          "city": "Kissimmee",
+          "postalCode": "34746",
+          "line1": "5324 Fairfield Lake Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 397-1600",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Cypress Palms",
+        "wish-list": false,
+        "resortName": "Club Wyndham Cypress Palms",
+        "resortCity": "Kissimmee",
+        "resortState": "FLORIDA"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "CLUB WYNDHAM® ACCESS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "CLUB WYNDHAM® PLUS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "WORLDMARK CLUB PASS RESORT",
+        "count": "1"
+      }
+    ],
+    "vacationExperiences": [
+      {
+        "name": "Family Vacation",
+        "count": "1"
+      }
+    ],
+    "nextGeographicValue": "CENTRAL FLORIDA",
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "0"
+    },
+    "managedResortsCount": "1",
+    "unitFeatures": [
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Washer/Dryer",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "1"
+      },
+      {
+        "name": "Balcony/Patio",
+        "count": "1"
+      },
+      {
+        "name": "Kitchen",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": false,
+    "status": "OK"
+  }
+}

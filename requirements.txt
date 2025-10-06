@@ -16,8 +16,10 @@ webdriver-manager
 # apache-airflow-providers-http==4.5.1
 # apache-airflow-providers-postgres==5.6.1
 
-#  main.py will give me the csv file for the availability count in csv folder
+#  main.py will give me the csv file for the availability count in csv folder -> it requires tr db
 #  api_call/login_Wyndham.py
 #  api_call/extraction.py
 #  api_call/generate_tid.py
-#  api_call/fetch_data.py
+#  api_call/fetch_data.py -> this will get the details from the api
+# 
+

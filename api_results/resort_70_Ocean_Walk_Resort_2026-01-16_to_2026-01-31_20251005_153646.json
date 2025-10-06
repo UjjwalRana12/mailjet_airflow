@@ -1,0 +1,12 @@
+{
+  "request_info": {
+    "resort_id": 70,
+    "resort_name": "Ocean Walk Resort",
+    "product_id": "PI|R000000000005",
+    "check_in": "2026-01-16",
+    "check_out": "2026-01-31",
+    "fetch_timestamp": "2025-10-05T15:36:46.173988",
+    "success": false
+  },
+  "api_response": null
+}

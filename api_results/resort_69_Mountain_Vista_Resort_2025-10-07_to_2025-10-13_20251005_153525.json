@@ -1,0 +1,12 @@
+{
+  "request_info": {
+    "resort_id": 69,
+    "resort_name": "Mountain Vista Resort",
+    "product_id": "PI|R000000000067",
+    "check_in": "2025-10-07",
+    "check_out": "2025-10-13",
+    "fetch_timestamp": "2025-10-05T15:35:25.286833",
+    "success": false
+  },
+  "api_response": null
+}

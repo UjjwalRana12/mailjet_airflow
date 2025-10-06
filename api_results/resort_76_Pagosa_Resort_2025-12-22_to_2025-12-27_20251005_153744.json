@@ -1,0 +1,511 @@
+{
+  "request_info": {
+    "resort_id": 76,
+    "resort_name": "Pagosa Resort",
+    "product_id": "PI|R000000000073",
+    "check_in": "2025-12-22",
+    "check_out": "2025-12-27",
+    "fetch_timestamp": "2025-10-05T15:37:44.248117",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "MOUNTAIN REGION",
+        "count": "1"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Accessible route from the accessible entrance to the accessible guestrooms",
+        "count": "1"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "1"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Children's Activities",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      },
+      {
+        "name": "Organized Activities",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Indoor",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "1"
+    },
+    "resortAmenities": [
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Indoor",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "0"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "0",
+      "recordPerPage": "1",
+      "recordOffset": "0",
+      "totalRecordCount": "1"
+    },
+    "hasInEligibleProducts": false,
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "111"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Peregrine",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000073|Peregrine",
+            "offeringLabel": "Peregrine",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "70500",
+                "totalPointsBeforeDiscount": "70500",
+                "unitName": "1 Bedroom Deluxe",
+                "accomodationClassId": "REF|1 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2025-12-22",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "843002926",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-23",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "843002926",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-24",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "843002926",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-25",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "843002926",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-26",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "843002926",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "22500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfFBlcmVncmluZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNzA1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMSBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5MCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNS0xMi0yMiIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjcwNTAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNS0xMi0yNyIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODg2NSwiZXhwIjoxNzU5NjYyNDY1fQ.DUPuqzRCbWGmvyWFlHz55oNhEOJShUZS0hVXO3iTBMmfTikcu5-ghAR6JgKEa3KPYfm9HvVRz2oq3Iq5eii6XVbMIl8lvvVwkkI5bDdcReaVyP9zqVzXJ2sTsB3utRxTZmN86EZ4R_3UDzr2SKM3KIxPyMQW0F_oaC2bn7BAs6un9eu-Hv1vRUOZ3G_7tlkf_IbzqsHQj2XHLAdHwKI8qEEJqrAuhAY4lH1pXFYpXBjUs2QXVQEi2pkpsihCvGsae3lYEkH7j4ghDkfSY5HLcOfJtmolO-Uf_GKmDDsS6EYCu1y49zaxTOVVHnZxoJ0r50VkZGEW4zTZpHjR7X0pfg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "37.259131",
+        "description": "Explore 18,000 acres of Rocky Mountain playground, west of Pagosa Springs: year-round adventure beneath brilliant blue skies and crisp mountain air.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Mountain Biking",
+          "Bicycle Rentals",
+          "Children's Activities",
+          "Fishing",
+          "Golf Course (18-Hole)",
+          "Golf",
+          "Golf Driving Range",
+          "Hiking",
+          "Horseback Riding",
+          "Live Entertainment",
+          "Organized Activities",
+          "Barbecue Area",
+          "Swimming Pool (Heated/Indoor)",
+          "Downhill Skiing",
+          "Sledding",
+          "Snowboarding",
+          "Cross-Country Skiing",
+          "Basketball",
+          "Volleyball Court",
+          "Tennis Court",
+          "Miniature Golf (Outdoor)",
+          "Horseshoes",
+          "Wi-Fi Internet Access",
+          "Activities Center",
+          "Lake",
+          "Ski/Mountain Bike Storage",
+          "Concierge Services",
+          "Activities Desk"
+        ],
+        "minPointsPerTrip": 70500,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/Denver",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "650",
+        "brand": "WVR",
+        "longitude": "-107.070717",
+        "alertMessages": [
+          {
+            "alertMessage": "The%20Pagosa%20Lakes%20Recreation%20Center%20will%20be%20closed%20on%20Thanksgiving%20Day%2C%20Christmas%20Day%2C%20and%20New%20Year's%20Day%2C%20and%20will%20close%20early%20on%20Christmas%20Eve%20and%20New%20Year's%20Eve.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Area Event Information",
+            "templateCreatedDate": "2025-09-15T00:00:00-04:00",
+            "alertTitle": "WM/CW Pagosa Facilities Closure"
+          },
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "The Legacy Collection",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Pagosa Springs",
+          "stateOrProvince": "CO",
+          "city": "PAGOSA SPRINGS",
+          "postalCode": "81147",
+          "region": "MOUNTAIN REGION",
+          "line1": "42 Pinon Causeway",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "productId": "PI|R000000000073",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in."
+        ],
+        "resortId": "SUR0000000290",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Pagosa Springs",
+          "stateOrProvince": "CO",
+          "city": "Pagosa Springs",
+          "postalCode": "81147",
+          "line1": "42 Pinon Causeway",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "displayOfferingName": "true",
+        "vacationExperiences": [
+          "Golf Getaway",
+          "Mountain Adventure"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(970) 731-8000",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Pagosa",
+        "wish-list": false,
+        "resortName": "Club Wyndham Pagosa",
+        "resortCity": "Pagosa Springs",
+        "resortState": "COLORADO"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "CLUB WYNDHAM® ACCESS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "CLUB WYNDHAM® PLUS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "WORLDMARK CLUB PASS RESORT",
+        "count": "1"
+      }
+    ],
+    "lowestAvailablePoints": "70500",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "vacationExperiences": [
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      },
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      }
+    ],
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "minPointsPerTrip": 70500,
+    "unitTypes": [
+      {
+        "name": "1 BEDROOM",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 70500,
+    "areaActivities": [
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "4",
+        "count": "1"
+      },
+      {
+        "name": "6",
+        "count": "1"
+      },
+      {
+        "name": "8",
+        "count": "1"
+      },
+      {
+        "name": "10",
+        "count": "1"
+      }
+    ],
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "0"
+    },
+    "managedResortsCount": "1",
+    "unitFeatures": [
+      {
+        "name": "Washer/Dryer",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "1"
+      },
+      {
+        "name": "Balcony/Patio",
+        "count": "1"
+      },
+      {
+        "name": "Kitchen",
+        "count": "1"
+      },
+      {
+        "name": "Fireplace",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": true,
+    "status": "OK"
+  }
+}

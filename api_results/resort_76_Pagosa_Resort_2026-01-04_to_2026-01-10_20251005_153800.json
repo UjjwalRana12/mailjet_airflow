@@ -1,0 +1,1621 @@
+{
+  "request_info": {
+    "resort_id": 76,
+    "resort_name": "Pagosa Resort",
+    "product_id": "PI|R000000000073",
+    "check_in": "2026-01-04",
+    "check_out": "2026-01-10",
+    "fetch_timestamp": "2025-10-05T15:38:00.140323",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "MOUNTAIN REGION",
+        "count": "1"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Accessible route from the accessible entrance to the accessible guestrooms",
+        "count": "1"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "1"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Children's Activities",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      },
+      {
+        "name": "Organized Activities",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Indoor",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "1"
+    },
+    "resortAmenities": [
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Indoor",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "0"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "0",
+      "recordPerPage": "1",
+      "recordOffset": "0",
+      "totalRecordCount": "1"
+    },
+    "hasInEligibleProducts": false,
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "111"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Eagle Loft, Elk Run, Master Place, Mountain Meadows, Ptarmigan, Village Pointe",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000073|Eagle Loft, Elk Run, Master Place, Mountain Meadows, Ptarmigan, Village Pointe",
+            "offeringLabel": "Eagle Loft, Elk Run, Master Place, Mountain Meadows, Ptarmigan, Village Pointe",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "58500",
+                "totalPointsBeforeDiscount": "58500",
+                "unitName": "1 Bedroom",
+                "accomodationClassId": "REF|1 Bedroom",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "8000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "8000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3654243749",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "18500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "18500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1363824061",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "18500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "18500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfEVhZ2xlIExvZnQsIEVsayBSdW4sIE1hc3RlciBQbGFjZSwgTW91bnRhaW4gTWVhZG93cywgUHRhcm1pZ2FuLCBWaWxsYWdlIFBvaW50ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNTg1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMSBCZWRyb29tIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwMjkwIiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTAxLTA0IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiNTg1MDAiLCJjaGVja091dERhdGUiOiIyMDI2LTAxLTEwIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MSBCZWRyb29tIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4ODEsImV4cCI6MTc1OTY2MjQ4MX0.WqDbMOx5r6vRemn1NIySTHUom7jbGbyu0ZqKhppcOFRm94Lt_lahoHF6KbP3TLobHlSfOK8lKLzoWg-WnNrlI86ZtIPtKjRLHmVBU6LitNT2bRDKgbiCtf_sJhwgj7RmNDX-PCzVFDlNoR2bDq97T1ufMAyJQ-YsA61L0ZM-FFXShHiMk3NXleZdR6ig0-m1Jj6G5I47Z92OunkDA6oyFi5ewHd8NCKoKQWPftqFdA78aH1eCtAT_TiaFF-2c7hGKnlXnuFIrbYEKPyJFy4lQk_djIigtQ1tbvW9TJ6rKgPoTz2vr4SOeTh9V2qqHuL654B2pCwpEpv1QIX8hmTfZA",
+                "unitDescription": "One Bedroom   Village Pointe: King in master, sleeper sofa in living area. No fireplace. May require stairs for entry. Maximum occupancy 4.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "39500",
+                "totalPointsBeforeDiscount": "39500",
+                "unitName": "1 Bedroom Suite",
+                "accomodationClassId": "REF|1 Bedroom Suite",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "8",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "8",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "6000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "6000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2122324596",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "9500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "9500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1050616125",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "9500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "9500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfEVhZ2xlIExvZnQsIEVsayBSdW4sIE1hc3RlciBQbGFjZSwgTW91bnRhaW4gTWVhZG93cywgUHRhcm1pZ2FuLCBWaWxsYWdlIFBvaW50ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiMzk1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMSBCZWRyb29tIFN1aXRlIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwMjkwIiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTAxLTA0IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMzk1MDAiLCJjaGVja091dERhdGUiOiIyMDI2LTAxLTEwIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MSBCZWRyb29tIFN1aXRlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4ODEsImV4cCI6MTc1OTY2MjQ4MX0.VyjYg4IwneMXj1QlXR89p3IIwccm11h9lgRVIqT-oBtRNlm0wVEjKJQg4JEfT3uvw62uKUGqzGaWRfeLuE-RHMNozAuBulrauvRzW67pm2NgRGgFrqzoBDGGdFrgnIn4yO2ed4CIfjkrGUfqvQ-t5VKuBU-09zVYHk-HQfMiGK4xeSgIpcUFye8rvedyS-UEUbMxuRYfweEPJ5_G5blI4EXJrKdyTNPtnWHgeYsPFmzfLQKxFS9Qz-PhXb03ECCjmzB7t-Z5aVpjph_JFXxaox9g6eSeci9mDo58Zv4iq-w5d1DWAl4iLeyBYB7K2JvEHw8Fp5Dm2SP_ie9ikfaiQg",
+                "unitDescription": "One Bedroom Suite   Village Pointe: King in master, sleeper sofa in living area. Mini kitchen with smaller than normal appliances. No fireplace or jetted tub. Smaller than typical suite and may require stairs for entry. Maximum occupancy 4.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "82500",
+                "totalPointsBeforeDiscount": "82500",
+                "unitName": "2 Bedroom Deluxe",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "12000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "12000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1164603228",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "22500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "2597391148",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "22500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfEVhZ2xlIExvZnQsIEVsayBSdW4sIE1hc3RlciBQbGFjZSwgTW91bnRhaW4gTWVhZG93cywgUHRhcm1pZ2FuLCBWaWxsYWdlIFBvaW50ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiODI1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMiBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5MCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wMS0wNCIsInVuaXRUeXBlIjoiMiBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjgyNTAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wMS0xMCIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDIgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODg4MSwiZXhwIjoxNzU5NjYyNDgxfQ.F0J351ZwjJCGAB6h99IQCa9cC3UbSqX_eVogCTzob8p-yXnElwpodr1_nv6RJ_dZXaphucCLxx0queao8ygu55WfvZaVSffN0iPALkNAQsNF6bwIiTbrg5ubAegV-YN9b02LkLN7uswuJ3kkxDnGyyYHTAc7en6O44gfOjGsTV2lIOE2HfhgLL7YYGy8i1baUfPaYEPvonQnvfTQxPusyg-LBYP0la5dDjq5ysT8mh-ceXVd3bAU8aI6R8A-8Dv_-a3srIYycIArnnOPhzTh6O39u8q2BF43Wbiq0kQdeXYZAljL4Z_8efr-1sjt8WU9uBRA1xRrGNP9jwrXOanA9w",
+                "unitDescription": "Two Bedroom Deluxe   Masters Place: King in master, queen in second bedroom, sleeper sofa in living area. May require stairs for entry. Maximum occupancy 6.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "98000",
+                "totalPointsBeforeDiscount": "98000",
+                "unitName": "2 Bedroom Lockoff",
+                "accomodationClassId": "REF|2 Bedroom Lockoff",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "8",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "8",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "13",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "1673012143",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "28000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "28000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "FIXED",
+                        "invenOfrngHashKey": "3714685518",
+                        "allocationType": "CFXW",
+                        "points": {
+                          "beforeDiscount": "28000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "28000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfEVhZ2xlIExvZnQsIEVsayBSdW4sIE1hc3RlciBQbGFjZSwgTW91bnRhaW4gTWVhZG93cywgUHRhcm1pZ2FuLCBWaWxsYWdlIFBvaW50ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiOTgwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMiBCZWRyb29tIExvY2tvZmYiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDAyOTAiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDEtMDQiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI5ODAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDEtMTAiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gTG9ja29mZiIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODgxLCJleHAiOjE3NTk2NjI0ODF9.Id0rIaG2YrEf1pO1oh-4UAx7OeUkl4ZCyQRbNit7JCktfFokWafW4KiPeChM_xo7pO2WFn1qO7bwEd0GEBUSQWq0y0P_HxZYTUxSjt7duPwS0yWSHqi5hO8qpvnHbxKmpOCHPhswRITqInT3v279dPY7KpUATJ_2KezZfL_4w0ZJAFeSNmjsfK_7SdOHkMRIHAUoqKQVWJWa2MX2t5HZI47ZydnrfT7D0nOGTGS3Z2nGp3_QUuZ0JmvINClGTMDXKIYGebLURtOkn7Ho5sQxifeUwyIrqKT444yP4KITpKnHqhhq4XlpouDvjvLGUzdlwnPtwAtJw4KyYawQpsbT_g",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          },
+          {
+            "offeringName": "Teal Landing",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000073|Teal Landing",
+            "offeringLabel": "Teal Landing",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "52500",
+                "totalPointsBeforeDiscount": "52500",
+                "unitName": "1 Bedroom Suite",
+                "accomodationClassId": "REF|1 Bedroom Suite",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "7000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "7000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "12",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "7000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "7000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "7000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "7000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "7000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "7000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "7000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "7000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3206375947",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "17500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "17500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfFRlYWwgTGFuZGluZyIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNTI1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA3MyIsInVuaXROYW1lIjoiMSBCZWRyb29tIFN1aXRlIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwMjkwIiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTAxLTA0IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiNTI1MDAiLCJjaGVja091dERhdGUiOiIyMDI2LTAxLTEwIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MSBCZWRyb29tIFN1aXRlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4ODEsImV4cCI6MTc1OTY2MjQ4MX0.ySQ8k0AzTnySOZGjZaApvj4w3YSkJwJoP2vICnMAN04oty_gbpGRWuJL4-8N5vhIyJCboUVsBm0FwLFJfhSDHAeb_Pck3K1cmSSnB4SiJ5LQ3abl7WLwNXX79KeyIhbEppHrLEDG67iBQMByoq8SCL4cPjS91wo2tnuUIseC8K_UoAqRGoBVlfmQ5YwXYnd-f2Bow7t8bMHefP6AuW0bN_VOaG08J_aHTC7C7ocd-S55tyyeIv8nxc-gktiTBfEWANFqjqtn6NByg6yJ2f25vH2yOZFg4ApXLjR3jy93RWkg1SGnX1ur1z7AUglPUz08oGKnk2n1A8lKEaf7X9yQUw",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "100500",
+                "totalPointsBeforeDiscount": "100500",
+                "unitName": "2 Bedroom Deluxe",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-01-04",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "9",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-05",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-06",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-07",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-08",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-01-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "24",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "1787515438",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "25500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "25500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDczfFRlYWwgTGFuZGluZyIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiMTAwNTAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNzMiLCJ1bml0TmFtZSI6IjIgQmVkcm9vbSBEZWx1eGUiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDAyOTAiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDEtMDQiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiIxMDA1MDAiLCJjaGVja091dERhdGUiOiIyMDI2LTAxLTEwIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MiBCZWRyb29tIERlbHV4ZSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODgxLCJleHAiOjE3NTk2NjI0ODF9.mcV0GYpXtYWLMfbG4FKOmn2aA0KoS1M0dS2QFn1hGneKLonKTDKzxI0fdu7HYJkwn_Q1h7nFUfaW32dNWcRxQvsx41cg5SwVmbKmpgg-6Hav3rNRy-VoMq3YGm--iSZSNdxArkYTZdFg16j-fF3dqyWicNN7RbXy7dsCkIC-UvlJkiHI1jybcNmgLvbPz2v3viJq0QlTl5DfrZoUz_PxDrMx9Gl69iGB1Bug76rkW4xa4toH9Fpho0o3hzwxKxtZ8Algkbc9gE9BLPqo_k1aSNtws4kfQmpGx-3hAygYULnS0e7GvHExeTf8BMEdjLMzNiqEZ9HvgP1M6QEeCC7UnQ",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 111,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Express",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 11
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "37.259131",
+        "description": "Explore 18,000 acres of Rocky Mountain playground, west of Pagosa Springs: year-round adventure beneath brilliant blue skies and crisp mountain air.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Mountain Biking",
+          "Bicycle Rentals",
+          "Children's Activities",
+          "Fishing",
+          "Golf Course (18-Hole)",
+          "Golf",
+          "Golf Driving Range",
+          "Hiking",
+          "Horseback Riding",
+          "Live Entertainment",
+          "Organized Activities",
+          "Barbecue Area",
+          "Swimming Pool (Heated/Indoor)",
+          "Downhill Skiing",
+          "Sledding",
+          "Snowboarding",
+          "Cross-Country Skiing",
+          "Basketball",
+          "Volleyball Court",
+          "Tennis Court",
+          "Miniature Golf (Outdoor)",
+          "Horseshoes",
+          "Wi-Fi Internet Access",
+          "Activities Center",
+          "Lake",
+          "Ski/Mountain Bike Storage",
+          "Concierge Services",
+          "Activities Desk"
+        ],
+        "minPointsPerTrip": 39500,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/Denver",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "650",
+        "brand": "WVR",
+        "longitude": "-107.070717",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "The Legacy Collection",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Pagosa Springs",
+          "stateOrProvince": "CO",
+          "city": "PAGOSA SPRINGS",
+          "postalCode": "81147",
+          "region": "MOUNTAIN REGION",
+          "line1": "42 Pinon Causeway",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "productId": "PI|R000000000073",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in."
+        ],
+        "resortId": "SUR0000000290",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Pagosa Springs",
+          "stateOrProvince": "CO",
+          "city": "Pagosa Springs",
+          "postalCode": "81147",
+          "line1": "42 Pinon Causeway",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "displayOfferingName": "true",
+        "vacationExperiences": [
+          "Golf Getaway",
+          "Mountain Adventure"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(970) 731-8000",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Pagosa",
+        "wish-list": false,
+        "resortName": "Club Wyndham Pagosa",
+        "resortCity": "Pagosa Springs",
+        "resortState": "COLORADO"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "CLUB WYNDHAM® ACCESS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "CLUB WYNDHAM® PLUS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "WORLDMARK CLUB PASS RESORT",
+        "count": "1"
+      }
+    ],
+    "lowestAvailablePoints": "39500",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "vacationExperiences": [
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      },
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      }
+    ],
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "minPointsPerTrip": 39500,
+    "unitTypes": [
+      {
+        "name": "1 BEDROOM",
+        "count": "1"
+      },
+      {
+        "name": "2 BEDROOM",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 100500,
+    "areaActivities": [
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "4",
+        "count": "1"
+      },
+      {
+        "name": "6",
+        "count": "1"
+      },
+      {
+        "name": "8",
+        "count": "1"
+      },
+      {
+        "name": "10",
+        "count": "1"
+      }
+    ],
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "0"
+    },
+    "managedResortsCount": "1",
+    "unitFeatures": [
+      {
+        "name": "Washer/Dryer",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "1"
+      },
+      {
+        "name": "Balcony/Patio",
+        "count": "1"
+      },
+      {
+        "name": "Kitchen",
+        "count": "1"
+      },
+      {
+        "name": "Fireplace",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": true,
+    "status": "OK"
+  }
+}

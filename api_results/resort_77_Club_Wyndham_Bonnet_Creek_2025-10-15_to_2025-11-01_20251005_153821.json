@@ -1,0 +1,12 @@
+{
+  "request_info": {
+    "resort_id": 77,
+    "resort_name": "Club Wyndham Bonnet Creek",
+    "product_id": "PI|R000000000045",
+    "check_in": "2025-10-15",
+    "check_out": "2025-11-01",
+    "fetch_timestamp": "2025-10-05T15:38:21.815265",
+    "success": false
+  },
+  "api_response": null
+}

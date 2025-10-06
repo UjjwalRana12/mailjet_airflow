@@ -1,0 +1,518 @@
+{
+  "request_info": {
+    "resort_id": 76,
+    "resort_name": "Pagosa Resort",
+    "product_id": "PI|R000000000073",
+    "check_in": "2025-12-26",
+    "check_out": "2025-12-30",
+    "fetch_timestamp": "2025-10-05T15:37:49.626596",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "MOUNTAIN REGION",
+        "count": "1"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Accessible route from the accessible entrance to the accessible guestrooms",
+        "count": "1"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "1"
+      },
+      {
+        "name": "Accessible route from the resort's accessible entrance to the shops and/or restaurants",
+        "count": "1"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Accessible shops and/or restaurant",
+        "count": "1"
+      },
+      {
+        "name": "Adventure Sports",
+        "count": "1"
+      },
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Business Center",
+        "count": "1"
+      },
+      {
+        "name": "Common Area Guest Kitchen",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Laundry Facilities",
+        "count": "1"
+      },
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "1"
+      },
+      {
+        "name": "TTY Phones (Available upon request)",
+        "count": "1"
+      },
+      {
+        "name": "Van-accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Visual alarms for hearing impaired in public areas",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "1"
+    },
+    "resortAmenities": [
+      {
+        "name": "Business Center",
+        "count": "1"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Laundry Facilities",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "1"
+      }
+    ],
+    "nextGeographicName": "State",
+    "hasInEligibleProducts": false,
+    "lowestAvailablePoints": "74000",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "minPointsPerTrip": 74000,
+    "unitTypes": [
+      {
+        "name": "STUDIO",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 74000,
+    "areaActivities": [
+      {
+        "name": "Adventure Sports",
+        "count": "1"
+      },
+      {
+        "name": "Biking",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "1"
+      },
+      {
+        "name": "Snow Skiing/Snow Sports",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "2",
+        "count": "1"
+      },
+      {
+        "name": "4",
+        "count": "1"
+      },
+      {
+        "name": "6",
+        "count": "1"
+      },
+      {
+        "name": "8",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "0"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "0",
+      "recordPerPage": "1",
+      "recordOffset": "0",
+      "totalRecordCount": "1"
+    },
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "183"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "WbW Estes Park",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Do Not Apply",
+            "offeringId": "PI|R000000000031|WbW Estes Park",
+            "offeringLabel": "Estes Park",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "STUDIO",
+                "totalPointsAfterDiscount": "74000",
+                "totalPointsBeforeDiscount": "74000",
+                "unitName": "Studio Hotel",
+                "accomodationClassId": "REF|Studio Hotel",
+                "calendarDays": [
+                  {
+                    "date": "2025-12-26",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207089",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "23000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-27",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207089",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "23000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-28",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207089",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-12-29",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207089",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "14000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "14000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDMxfFdiVyBFc3RlcyBQYXJrIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiI3NDAwMCIsInJhdGVQbGFuSWRzIjpudWxsLCJwcm9kdWN0SWQiOiJQSXxSMDAwMDAwMDAwMDMxIiwidW5pdE5hbWUiOiJTdHVkaW8gSG90ZWwiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDA4NDciLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjUtMTItMjYiLCJ1bml0VHlwZSI6IlNUVURJTyIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI3NDAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjUtMTItMzAiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnxTdHVkaW8gSG90ZWwiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODg3MCwiZXhwIjoxNzU5NjYyNDcwfQ.uBFC21KQBlPtdBToQynqY91yyb4zv7shvG11pcVc1Dmbgujmv4m_-H_VG5sjbz8BS6P0t3QDGYQs1-AHW5V7_7qlmmcTNUEPRJFpIoA9RJ3QFkYN0-brPO3mwYpKJWFoeKvnV8_VAMTUZhx-Y4rKpozW3BRMmoZ-g7TpQc5bTa-hQRLM8CnuKRliXEmK3cUVrboqi50tQTwtwceIoozTcRSa3w_JRMuOg6S5H-ejwVXLoiCnUfVNNbZtRfHUJ8RjB8H4ChBNVgfnkwL6dzb4Ua2PeudLqg0qC2bvXLxqmDOInweMF74_i1EHXzUhypl1_XY6l6aJOdGdg60zfT926Q",
+                "unitDescription": "Studio Hotel: Queen bed in living area. Mini kitchen with 2 burner stovetop, mini fridge and microwave. No washer dryer, fireplace or oven in suite.  Smaller than typical suite. Maximum occupancy 2.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "15 Days To 3 Months",
+                        "bkgWndwId": 104
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "40.364532",
+        "description": "Enjoy the charming town of Estes Park and head to the hills from your cozy resort for outdoor adventures - from river rafting to cross-country skiing.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Rock Climbing",
+          "Mountain Biking",
+          "Computer With Internet (Shared)",
+          "Common Area Guest Kitchen",
+          "Fishing",
+          "Fitness Center",
+          "Miniature Golf",
+          "Golf",
+          "Hiking",
+          "Horseback Riding",
+          "Hot Tub (Indoor)",
+          "Laundry Facilities",
+          "Barbecue Area",
+          "Swimming Pool (Outdoor/Seasonal)",
+          "Museums",
+          "Snow Sports",
+          "Cross-Country Skiing",
+          "Wi-Fi Internet Access (Fee)",
+          "Gift Shop",
+          "Children's Playground",
+          "Movie Rentals",
+          "Activities Center"
+        ],
+        "minPointsPerTrip": 74000,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/Denver",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "3210",
+        "brand": "WBW",
+        "longitude": "-105.536763",
+        "alertMessages": [
+          {
+            "alertMessage": "High%20elevation%20of%207%2C500%20feet.%20Only%20two%20buildings%20with%20elevators%20and%20stairs%20are%20required%20to%20most%20units.%20Some%20units%20have%20smaller%20kitchens%20and%20no%20washer%2Fdryer%20in%20the%20unit.%20Complimentary%20guest%20laundry%20is%20available.%20Not%20all%20units%20have%20a%20patio%20or%20deck.%20Seasonal%20pool%20closure%20is%20Oct.%20through%20late%20May%20and%20dependent%20on%20weather.%20No%20RV%2C%20boat%2C%20or%20trailer%20parking%20onsite.%26nbsp%3BFront%20desk%20hours%20are%207%20a.m.-11%20p.m.%20If%20you%20plan%20to%20arrive%20at%20the%20resort%20after%2011%20p.m.%2C%20please%20call%20the%20resort%20to%20make%20alternative%20check-in%20arrangements%20prior%20to%20arrival.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Area Event Information",
+            "templateCreatedDate": "2023-05-19T15:26:20.532-04:00",
+            "alertTitle": "WM Estes Park Resort Alert"
+          },
+          {
+            "alertMessage": "CLUB%20PASS%20ONLY%20-%20All%20suites%20will%20feature%20WorldMark%20amenities%20(housewares%20and%20coffee)%2C%20and%20WorldMark%20guidelines%20will%20apply%20to%20checkout%20time%20(11%20a.m.)%20and%20Wi-Fi%20is%20available%20for%20a%20fee.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation On-Site Activity Information",
+            "templateCreatedDate": "2025-07-29T00:00:00-04:00",
+            "alertTitle": "ALL CP WM Alert"
+          }
+        ],
+        "isWorldMarkResort": true,
+        "types": [
+          "WorldMark Resort",
+          "WYNDHAM Club Pass Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Estes Park",
+          "stateOrProvince": "CO",
+          "city": "ESTES PARK",
+          "postalCode": "80517",
+          "region": "MOUNTAIN REGION",
+          "line1": "701 Riverside Drive",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "productId": "PI|R000000000031",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in."
+        ],
+        "resortId": "SUR0000000847",
+        "checkInTime": "16:00",
+        "clubPassResort": true,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Estes Park",
+          "stateOrProvince": "CO",
+          "city": "Estes Park",
+          "postalCode": "80517",
+          "line1": "701 Riverside Drive",
+          "stateOrProvinceName": "COLORADO"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Mountain Adventure"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(970) 577-7517",
+        "checkOutTime": "11:00",
+        "fastFacts": [
+          "Limited Number of Accommodations",
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Do Not Apply"
+        ],
+        "name": "WorldMark Estes Park",
+        "wish-list": false,
+        "resortName": "WorldMark Estes Park",
+        "resortCity": "Estes Park",
+        "resortState": "COLORADO"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "WORLDMARK RESORT",
+        "count": "1"
+      }
+    ],
+    "vacationExperiences": [
+      {
+        "name": "Mountain Adventure",
+        "count": "1"
+      }
+    ],
+    "nextGeographicValue": "COLORADO",
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "1"
+    },
+    "managedResortsCount": "1",
+    "unitFeatures": [
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "1"
+      },
+      {
+        "name": "Fireplace",
+        "count": "1"
+      },
+      {
+        "name": "Balcony/Patio",
+        "count": "1"
+      },
+      {
+        "name": "Washer/Dryer",
+        "count": "1"
+      },
+      {
+        "name": "Kitchen",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": false,
+    "status": "OK"
+  }
+}

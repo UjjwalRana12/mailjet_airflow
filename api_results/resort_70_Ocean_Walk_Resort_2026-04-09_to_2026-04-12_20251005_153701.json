@@ -1,0 +1,3388 @@
+{
+  "request_info": {
+    "resort_id": 70,
+    "resort_name": "Ocean Walk Resort",
+    "product_id": "PI|R000000000005",
+    "check_in": "2026-04-09",
+    "check_out": "2026-04-12",
+    "fetch_timestamp": "2025-10-05T15:37:01.178857",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "CENTRAL FLORIDA",
+        "count": "6"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Bar/Lounge",
+        "count": "6"
+      },
+      {
+        "name": "Elevators",
+        "count": "6"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "6"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "6"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "6"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "6"
+      },
+      {
+        "name": "Theme Parks",
+        "count": "6"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "6"
+      },
+      {
+        "name": "Family Vacation",
+        "count": "5"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the accessible guestrooms",
+        "count": "4"
+      },
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "4"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "4"
+      },
+      {
+        "name": "Organized Activities",
+        "count": "4"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "4"
+      },
+      {
+        "name": "Visual alarms for hearing impaired in hallways",
+        "count": "4"
+      },
+      {
+        "name": "Visual alarms for hearing impaired in public areas",
+        "count": "4"
+      },
+      {
+        "name": "Business Center",
+        "count": "5"
+      },
+      {
+        "name": "Children's Pool",
+        "count": "5"
+      },
+      {
+        "name": "Golf",
+        "count": "5"
+      },
+      {
+        "name": "Van-accessible self-parking",
+        "count": "3"
+      },
+      {
+        "name": "Children's Activities",
+        "count": "2"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "2"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "4"
+      },
+      {
+        "name": "Automatic Door Opener",
+        "count": "2"
+      },
+      {
+        "name": "Automatic Lobby Doors",
+        "count": "2"
+      },
+      {
+        "name": "Laundry Facilities",
+        "count": "2"
+      },
+      {
+        "name": "Luggage Storage Room",
+        "count": "2"
+      },
+      {
+        "name": "Main entrance on ground level",
+        "count": "2"
+      },
+      {
+        "name": "Casual Dining",
+        "count": "3"
+      },
+      {
+        "name": "Lazy River",
+        "count": "3"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "3"
+      },
+      {
+        "name": "Accessible route from the resort's accessible entrance to the shops and/or restaurants",
+        "count": "1"
+      },
+      {
+        "name": "Accessible shops and/or restaurant",
+        "count": "1"
+      },
+      {
+        "name": "Electric Vehicle Charger",
+        "count": "1"
+      },
+      {
+        "name": "RV and Snowmobile/Boat Trailer Parking",
+        "count": "1"
+      },
+      {
+        "name": "Self Parking (Covered/No Fee)",
+        "count": "1"
+      },
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      },
+      {
+        "name": "Self Parking (Uncovered/No Fee)",
+        "count": "2"
+      },
+      {
+        "name": "TTY Phones (Available upon request)",
+        "count": "2"
+      },
+      {
+        "name": "Water Park",
+        "count": "2"
+      },
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "6"
+    },
+    "resortAmenities": [
+      {
+        "name": "Fitness Center",
+        "count": "6"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "6"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "6"
+      },
+      {
+        "name": "Wi-Fi",
+        "count": "6"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "4"
+      },
+      {
+        "name": "Business Center",
+        "count": "5"
+      },
+      {
+        "name": "Children's Pool",
+        "count": "5"
+      },
+      {
+        "name": "Laundry Facilities",
+        "count": "2"
+      },
+      {
+        "name": "Casual Dining",
+        "count": "3"
+      },
+      {
+        "name": "Lazy River",
+        "count": "3"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "3"
+      },
+      {
+        "name": "Golf",
+        "count": "2"
+      },
+      {
+        "name": "Water Park",
+        "count": "2"
+      }
+    ],
+    "nonManagedResortsCount": "2",
+    "nextGeographicName": "Regions",
+    "hasInEligibleProducts": false,
+    "lowestAvailablePoints": "52500",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "6"
+    },
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "6"
+    },
+    "minPointsPerTrip": 52500,
+    "unitTypes": [
+      {
+        "name": "2 BEDROOM",
+        "count": "4"
+      },
+      {
+        "name": "1 BEDROOM",
+        "count": "4"
+      },
+      {
+        "name": "3 BEDROOM",
+        "count": "5"
+      },
+      {
+        "name": "4 BEDROOM",
+        "count": "2"
+      },
+      {
+        "name": "STUDIO",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 312000,
+    "areaActivities": [
+      {
+        "name": "Theme Parks",
+        "count": "6"
+      },
+      {
+        "name": "Golf",
+        "count": "5"
+      },
+      {
+        "name": "Live Entertainment",
+        "count": "2"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "4"
+      },
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Horseback Riding",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "2",
+        "count": "1"
+      },
+      {
+        "name": "4",
+        "count": "4"
+      },
+      {
+        "name": "6",
+        "count": "3"
+      },
+      {
+        "name": "8",
+        "count": "6"
+      },
+      {
+        "name": "10",
+        "count": "2"
+      },
+      {
+        "name": "12",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "2"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "5",
+      "recordPerPage": "6",
+      "recordOffset": "0",
+      "totalRecordCount": "6"
+    },
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "1"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Bonnet Creek",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000045|Bonnet Creek",
+            "offeringLabel": "Bonnet Creek",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "59000",
+                "totalPointsBeforeDiscount": "59000",
+                "unitName": "1 Bedroom Deluxe",
+                "accomodationClassId": "REF|1 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "80",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "167750585",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "20000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "20000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "87",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "167750585",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "19500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "19500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "111",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "167750585",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "19500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "19500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ1fEJvbm5ldCBDcmVlayIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNTkwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA0NSIsInVuaXROYW1lIjoiMSBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDMzNSIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjU5MDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.mnOY15-FScWt3QwcFoNowY3Bzu-km4n7JTgY3P6JVttc-P3LZr_-ke_8d-WnHxOLCP0FmNFLIYeV7VMMooRTKva497-EMXnDnD5-BQ5Hn8RFhLNQ-Al0HhdUIbAYRoByVjNUcY5DaxSrUEEoeCEvuSGxzxypvMlzx7mUaAzauKZ3Z2Y61LTZSz8GhjcDBnFI1Qpm9tx39z91otnE2gUoRQ2s6Dtx9Pnn7n6EGb-_oFmVobSH-r2OO9o7SmDl2uT432aiAP6ZLRwDSL341lFBgwfJmtyhTZ7r_BZC2ZFgNKCtPJgaRpfd5UnYC77Nw0X7pA_IILytNRQ5iIaoq1MCag",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "74000",
+                "totalPointsBeforeDiscount": "74000",
+                "unitName": "2 Bedroom Deluxe",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "331",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "671850298",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "27000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "27000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "366",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "671850298",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "420",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "671850298",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ1fEJvbm5ldCBDcmVlayIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNzQwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA0NSIsInVuaXROYW1lIjoiMiBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDMzNSIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMiBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6Ijc0MDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDIgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.SlR88J395LZCBqrQ8TJSUwrEZrlD474iopEV7RCa4bGwaiD8w1WHO25zp7bR6hLE8m05NDx4ZLZntSM9vHdWYEBq-WNS9Vc5AkMPLazBg2ElBFK9wr6gWNEXoSSqjwkOpRVW54KkLi-PtpGPfudjr_eBPyYRzapKSsckdplANRZj39VOVdkKbeUiTNzawlw3vm06XSjSKvcsWk6e01wZHxCuITHHL0jtihnI-Sk9jD9EbUPZQ3xyA-fCwPBHPpF5Tx6TyUpBQz-CQYAbA9MEseaRRu6U6CJJz7pZnCZ_4iKOeMxhQqkqNtM5QMgygk7jQ8-G1ABWEn0H_TLVeBwWSg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          },
+          {
+            "offeringName": "Bonnet Creek Presidential Reserve",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000045|Bonnet Creek Presidential Reserve",
+            "offeringLabel": "Bonnet Creek Presidential Reserve",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "74000",
+                "totalPointsBeforeDiscount": "74000",
+                "unitName": "1 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|1 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3908277644",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "27000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "27000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3908277644",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3908277644",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ1fEJvbm5ldCBDcmVlayBQcmVzaWRlbnRpYWwgUmVzZXJ2ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNzQwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDA0NSIsInVuaXROYW1lIjoiMSBCZWRyb29tIFByZXNpZGVudGlhbCAoUHJlc2lkZW50aWFsIFJlc2VydmUpIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwMzM1IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiNzQwMDAiLCJjaGVja091dERhdGUiOiIyMDI2LTA0LTEyIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MSBCZWRyb29tIFByZXNpZGVudGlhbCIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.Hz-C1eGEC0G3D6iW1GMmcEDoLKjWcttLzFSqHkEnXNVTSDx5EVw4QpDd45GGjBu4q4NO3o9EcMwA11NQhFnFpq_Kom1elRY8TRIdxepbHNTaD2BNF_5CGu6RPHQox59VaUiUJmRp5J6SvYBZj52gAeWVGt_3Lvkv5ly-XXhhey0nj_sceBiAbEOMjpuZgbjwjVgqtnsa-t064AryBGIxHp21zVUMcsJA48jgtJxsdGiErHt3WbBg1cHfyh6CbRRy0D6RODBziw2z89Do1v7kVq_uESmLgOXAuhJhpxf39IqsbP6xXTd7zBGs7r250RAmXR6bZSvBEIooTbWptEL2OQ",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "106000",
+                "totalPointsBeforeDiscount": "106000",
+                "unitName": "2 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|2 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "115962178",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "36000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "115962178",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "35000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "35000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "115962178",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "35000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "35000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ1fEJvbm5ldCBDcmVlayBQcmVzaWRlbnRpYWwgUmVzZXJ2ZSIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiMTA2MDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDUiLCJ1bml0TmFtZSI6IjIgQmVkcm9vbSBQcmVzaWRlbnRpYWwgKFByZXNpZGVudGlhbCBSZXNlcnZlKSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDMzNSIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMiBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjEwNjAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gUHJlc2lkZW50aWFsIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.YsZ3ZmMRHM_QzAXkCCrFGkTuHZQqu7Y5l5LXsLD6TOaaEp3yHLVVZWcNoJzWhqfys7S0UWeBxGxYCjJcRN45fzhSTmJlZSiFGMKtdI3K0Z3rLNri58A9owWzUaCFM7m44ckGZV4zZTc-7-wiiiJALgY6sBS5EsH7zxwCjnWvYk7bZMTndM5ZSF1Agb6pQTUEPEII5CKnNqPIX-LSdJTPOSr5s7AZUHZRIYwAWbBQxXReGgEet8Jdbvt_8Y0pID7GjW2ssZZNQ1l4P1iG0G2Lv9Q1CLloqrJpXDrdb2m9KtHyEkfbyZxOogaiHqFys3u9OEPCzSJqdClu1FfFf2xvRA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.369537",
+        "description": "Stay close to the Disney magic at our bright, breezy resort, just minutes from the parks with plenty of picturesque pleasures and family fun on site.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Bar",
+          "Pool Bar",
+          "Live Entertainment",
+          "Computer With Internet (Shared)",
+          "Cafe",
+          "Casual Dining",
+          "Children's Activities",
+          "Children's Pool (Outdoor)",
+          "Electric Vehicle Charger",
+          "Elevators",
+          "Fitness Center",
+          "Hot Tub (Outdoor)",
+          "Lazy River",
+          "Live Entertainment",
+          "Organized Activities",
+          "Barbecue Area",
+          "Swimming Pool (Heated/Outdoor)",
+          "RV and Snowmobile/Boat Trailer Parking",
+          "Self Parking (Covered/No Fee)",
+          "Miniature Golf (Outdoor)",
+          "Shuffleboard",
+          "Pickleball",
+          "SeaWorldÂ® Orlando",
+          "Theme Parks",
+          "Universal OrlandoÂ® Resort",
+          "Walt Disney WorldÂ® Resort",
+          "Wi-Fi Internet Access",
+          "Deli/Snack-Bar",
+          "Convenience Store",
+          "Concierge Services",
+          "Children's Playground",
+          "Activities Desk",
+          "Activities Center",
+          "24-Hour Security Access",
+          "Sunbathing Area",
+          "Arcade Games",
+          "Presidential Reserve Owner Lounge",
+          "Pool Cabana",
+          "Locker Rooms",
+          "Lake",
+          "Gift Shop",
+          "Fire Pit"
+        ],
+        "minPointsPerTrip": 59000,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/New_York",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "10",
+        "brand": "WVR",
+        "longitude": "-81.540847",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          },
+          {
+            "alertMessage": "Renovations%20will%20occur%20at%20the%20resort%20from%20September%202025%20through%20September%202026%2C%20affecting%20operations%20at%20the%20check-in%20desk%20and%20other%20departments%3B%20expect%20signage%2C%20noise%2C%20dust%2C%20odors%2C%20and%20work%20crews%E2%80%94specific%20areas%20and%20dates%20include%20Village%20Center%20(Sep%203%2C%202025%E2%80%93May%2031%2C%202026)%2C%20Tower%204%20(Sep%203%2C%202025%E2%80%93Sep%2030%2C%202026)%2C%20Tower%203%20roof%20(Sep%201%E2%80%93Oct%2031%2C%202025)%2C%20and%20Tower%204%20parking%20areas%20(Sep%2015%E2%80%93Oct%2031%2C%202025)%3B%20dates%20may%20change.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-09-03T00:00:00-04:00",
+            "alertTitle": "CW Bonnet Creek Renovations"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "CLUB WYNDHAM® Presidential Reserve Resort",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Lake Buena Vista",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "32830",
+          "region": "CENTRAL FLORIDA",
+          "line1": "9560 Via Encinas",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000045",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in.",
+          "This is a cashless resort. A credit or debit card is required for on-site purchases."
+        ],
+        "resortId": "SUR0000000335",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Lake Buena Vista",
+          "stateOrProvince": "FL",
+          "city": "Lake Buena Vista",
+          "postalCode": "32830",
+          "line1": "9560 Via Encinas",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "true",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 238-3500",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Gold Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Bonnet Creek",
+        "wish-list": false,
+        "resortName": "Club Wyndham Bonnet Creek",
+        "resortCity": "Lake Buena Vista",
+        "resortState": "FLORIDA"
+      },
+      {
+        "ratePlanIds": [
+          "1"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Cypress Palms",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000049|Cypress Palms",
+            "offeringLabel": "Cypress Palms",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "60000",
+                "totalPointsBeforeDiscount": "60000",
+                "unitName": "1 Bedroom",
+                "accomodationClassId": "REF|1 Bedroom",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "35",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "13000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "13000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "45",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "46",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "57450575",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "23500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "23500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjYwMDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDkiLCJ1bml0TmFtZSI6IjEgQmVkcm9vbSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5NCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjYwMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.2yqd9GEf77UdCsx0Dx37xlGl6l_6-VumvZQskWcusLhQ2GbSC_p3nAtf6Huv7LiL406f0RyZ3TDIhFOrOnZ1VrpmewlNqe8YAEd-nABdJJ4oSROXzC04PBOCtULZbXoUQvS5DaYCC0AsY1hoDEbr-KHLWyTrz69TvalOc1a-vCFKXWoOUeJWaEhCwVL6Wq6Hw4BgkVCTyhWRZUk40s_-EnNS6xQznipAs2Egqqlb40DWARtO4pjFw2qA038oe-WSCQrWHUhk-yNMJLaheGTvf7FqUkOIqrcYTFsbZ3EHGMbaJ-KWyZcaZuib_61OD7_dILk_P-QJHixUArg9aR68pg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "68000",
+                "totalPointsBeforeDiscount": "68000",
+                "unitName": "1 Bedroom Deluxe",
+                "accomodationClassId": "REF|1 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3122847272",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "52",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2937871117",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "15000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "15000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3122847272",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "26500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "26500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "62",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2937871117",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "26500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "26500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3122847272",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "26500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "26500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "61",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2937871117",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "26500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "26500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjY4MDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDkiLCJ1bml0TmFtZSI6IjEgQmVkcm9vbSBEZWx1eGUiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDAyOTQiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjEgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI2ODAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwxIEJlZHJvb20gRGVsdXhlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.DTi4J_euXuF50Q2366S0KYT-AYnCxRDIp-raFpuaq8BwvhJqMzOq6k0s1Y8oc4PT0qwVmg_yJ1Gybd_FjnoMfLMPyF1TrEM35QbyVGlD7KquYPViFYDeSHPsSxjJ2LhoH9MHbWSqED_DL6glrqkYviORJFNbnnbzhS95I09vAJwKMeuFfvf92-pG-IuNa2Iy9yKp34fg0P2_ZGJqEGzYZGOmiRiZr92zIpdOFW4mSdpek0AGz_7uxmcrQygApkNgQMFm6j06ScZCFqvo90xtLvrEPwpmJAlDvMQuJ3aIgXTLLvxxHbbCNcz4OmmDdGiZ0-Fu-fT0M0U28slDA8oMnQ",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "52500",
+                "totalPointsBeforeDiscount": "52500",
+                "unitName": "1 Bedroom Suite",
+                "accomodationClassId": "REF|1 Bedroom Suite",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2028571590",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "10500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "10500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2028571590",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "21000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "21000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2028571590",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "21000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "21000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjUyNTAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDkiLCJ1bml0TmFtZSI6IjEgQmVkcm9vbSBTdWl0ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5NCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjUyNTAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSBTdWl0ZSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.GRR_YVjnjYbxWuiUXqkdzQ5URz6AEKql6VnATEAtUgSzN-_XBUZq_Iv2ZmnzbTcdc-oo87lZ7hlMHRzQdHb0357r3VkIuZILRM19rdWZuMMoz7uPXz-d8lOx1IcMiswiuUuG0Ah85GJB5wa-ikMBBcFLfsJHzRdgbuZ-uRojn4KN4aRBR2ZlKSZDIe0y3pEWAA_dr9E7RFYdgTbRQX6Gtypld7D2JDE9hWDw61HUPntHPTWXKNJA9Kp6pxkQD83lGQQCKADp5TAhqV8jSBAjKl2arSG5avTMgi_n_RXMifGbucw9mQTVvdglEq9aWbwtePNnhmH7HsCSqjKPnFPGgg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "91000",
+                "totalPointsBeforeDiscount": "91000",
+                "unitName": "2 Bedroom Deluxe",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "55",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "531845703",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "21000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "21000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "62",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "531845703",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "35000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "35000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "68",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "531845703",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "35000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "35000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjkxMDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAwNDkiLCJ1bml0TmFtZSI6IjIgQmVkcm9vbSBEZWx1eGUiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDAyOTQiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI5MTAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gRGVsdXhlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.BcdwitYnkVPfGxuzyfJZsQSzEIKJNq_pUZf0zD_Uyqx6_bCc32KlB1vOr9SsFoe65mIu4vT3lm8w0Gg7yG4eaG0gyUbbiUGWnleR7GTQZIbvSAJ52tg02WHvtvd5K28DGXojM52kj8cp9nLATSemLj8A7wS25xw_Q-jhjcXK5WhYV7-Je4DX8DRL87ZSZxzJA1-rTRu7AB4mDgyTg-_bXfo4hsEmKECxbLkINUOLeJpuXDT597P9UO07XMV-pYVdmyQbSqTCZpiG_2GS7KqTM82s7kwbV0k8yDZjuX1o-a-bxifFtqGMz9jjY8ZEgwkYbFH1Flo-Djb2HYB_OiOHyA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "128000",
+                "totalPointsBeforeDiscount": "128000",
+                "unitName": "2 Bedroom Deluxe Lockoff",
+                "accomodationClassId": "REF|2 Bedroom Deluxe Lockoff",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "35",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "183304652",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "28000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "28000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "45",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "183304652",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "50000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "50000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "46",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "183304652",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "50000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "50000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjEyODAwMCIsInJhdGVQbGFuSWRzIjpudWxsLCJwcm9kdWN0SWQiOiJQSXxSMDAwMDAwMDAwMDQ5IiwidW5pdE5hbWUiOiIyIEJlZHJvb20gRGVsdXhlIExvY2tvZmYiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDAyOTQiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiIxMjgwMDAiLCJjaGVja091dERhdGUiOiIyMDI2LTA0LTEyIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MiBCZWRyb29tIERlbHV4ZSBMb2Nrb2ZmIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.5W_vr8Soc4AtWJMtA-jHEKQtCQjy9g56iDt-YpkPFWnEAnup9nOy3wletUxj5NXYY-l3N6z-DRJ5MOJmFx1YoO6VTm13xX1SRDcfkeQ_TRvw5TWh_t138qAhwdpatUTVzSn3MpmHe_l-A0R-pJqaxpsdEa2iG8gmb8APa1OThj8PzWzeDFlU1TxdZxT-YwNQaARsSifXEtlsXDhrtQGegFFBEMh4qnStn7-AWHd4EWCH2AjL4aMeOTWU3P73qZ6qcDSigGEz6pLcdXYwzCpA9dkTg3uXlQXF-ZRad1NSActkl3oN5otcwFk3uTXBX2sAjX_I0emsxlqEJmHSd_uLVA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "120500",
+                "totalPointsBeforeDiscount": "120500",
+                "unitName": "2 Bedroom Lockoff",
+                "accomodationClassId": "REF|2 Bedroom Lockoff",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3709423280",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "25500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "25500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3709423280",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "47500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "47500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "14",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3709423280",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "47500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "47500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMDQ5fEN5cHJlc3MgUGFsbXMiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjEyMDUwMCIsInJhdGVQbGFuSWRzIjpudWxsLCJwcm9kdWN0SWQiOiJQSXxSMDAwMDAwMDAwMDQ5IiwidW5pdE5hbWUiOiIyIEJlZHJvb20gTG9ja29mZiIsInJlc29ydElkIjoiU1VSMDAwMDAwMDI5NCIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMiBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjEyMDUwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gTG9ja29mZiIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.11zSKUY_HkbR63J6dULqTwAIkAohMrNIuajJyqXL77Gtg0k23MtZofyYXzaqe29r7Wsmym2HNSuz6oIdZbxQWFn83d8uXFhPZtEOPRxUj8xr5WtntcCgPtIlIlI2KwjHfEI13YEjKa5RJMTvWtJR9p0azuuWNLv1ro27N7UlOzY34pg22jtnLoSGgndrBYWQB3FRsquvGIdbZzm765mHWSO932KiK5ziFrE_6YVnwBgdBo6xbUooln_LwfPfck0XSSC60jffEpevD4PMxjvGTd88L7guhtGoVsvtfS8GxP1psf-xlE-Z05eQEH9LaBVOgGxvRmG-X9cK7yRWX3J5xA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.329921",
+        "description": "Relax at this cozy Orlando resort, close to the theme parks. Family-friendly pools and activity center keep tots to teens happily entertained.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Owner Lounge",
+          "Boating",
+          "Children's Activities",
+          "Elevators",
+          "Fitness Center",
+          "Miniature Golf",
+          "Golf",
+          "Horseback Riding",
+          "Hot Tub (Outdoor)",
+          "Live Entertainment",
+          "Organized Activities",
+          "Barbecue Area",
+          "Picnic Area",
+          "Swimming Pool (Heated/Outdoor)",
+          "SeaWorldÂ® Orlando",
+          "Walt Disney WorldÂ® Resort",
+          "Universal OrlandoÂ® Resort",
+          "Theme Parks",
+          "Water-Skiing",
+          "Jet Skiing",
+          "Wi-Fi Internet Access",
+          "Lake",
+          "Activities Center",
+          "Activities Desk",
+          "Concierge Services",
+          "24-Hour Security Access"
+        ],
+        "minPointsPerTrip": 52500,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/New_York",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "360",
+        "brand": "WVR",
+        "longitude": "-81.49564",
+        "alertMessages": [
+          {
+            "alertMessage": "A%20limited%20number%20of%20suites%20have%20been%20designated%20for%20use%20by%20WorldMark%20owners%20at%20this%20resort.%20All%20suites%20will%20feature%20Club%20Wyndham%20amenities%20(housewares%20and%20coffee)%2C%20and%20Club%20Wyndham%20guidelines%20will%20apply%20to%20checkout%20time%20(10%20a.m.)%20and%20Wi-Fi%20availability.%20Because%20this%20resort%20remains%20Club%20Wyndham-branded%2C%20be%20sure%20to%20use%20the%20Club%20Wyndham%20resort%20name%20when%20navigating%20to%20the%20property.%20WorldMark%20spice%20packets%20will%20be%20available%20upon%20request.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation On-Site Activity Information",
+            "templateCreatedDate": "2025-07-25T00:00:00-04:00",
+            "alertTitle": "WM Club Direct Notice"
+          },
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Kissimmee",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "34746",
+          "region": "CENTRAL FLORIDA",
+          "line1": "5324 Fairfield Lake Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000049",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in.",
+          "This is a cashless resort. A credit or debit card is required for on-site purchases."
+        ],
+        "resortId": "SUR0000000294",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Kissimmee",
+          "stateOrProvince": "FL",
+          "city": "Kissimmee",
+          "postalCode": "34746",
+          "line1": "5324 Fairfield Lake Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 397-1600",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Cypress Palms",
+        "wish-list": false,
+        "resortName": "Club Wyndham Cypress Palms",
+        "resortCity": "Kissimmee",
+        "resortState": "FLORIDA"
+      },
+      {
+        "ratePlanIds": [
+          "1"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Kingstown Reef Presidential Reserve",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000318|Kingstown Reef Presidential Reserve",
+            "offeringLabel": "Club Wyndham Kingstown Reef",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "169000",
+                "totalPointsBeforeDiscount": "169000",
+                "unitName": "1 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|1 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2810542635",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "39000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "39000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2810542635",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "65000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "65000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2810542635",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "65000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "65000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMzE4fEtpbmdzdG93biBSZWVmIFByZXNpZGVudGlhbCBSZXNlcnZlIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIxNjkwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDMxOCIsInVuaXROYW1lIjoiMSBCZWRyb29tIFByZXNpZGVudGlhbCAoUHJlc2lkZW50aWFsIFJlc2VydmUpIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMTY5MDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSBQcmVzaWRlbnRpYWwiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.OtcwEA9bdXVBw3orjr6y49g7HIC_NAZ2jiFJq9vpyFyVX-YjRF4acshGEno6V0qSUzlW2_vLQcQvirSnGgOexFnnXpbNkG37f4dTDOCRrsyXIRKj-GGeZSAVRF-MW1oNKv7aYGHg5dswlXw-yJhw5WgoLUKhAv7gaxME7QbfFxcBW2yJzmN7RAvOkrwzkcxdtELeT7nN7dd8c63RJq24Y-6iZcTZykCiSkaoua_KyWj-tOoP09O-RgR4_O3gSV8tpz2DksuhbWWtQIR3uiVZGNWPUzObf0M2SrI-RptP4pBqKFLeV3byywA5mhgkUKLKxHf8QBK0qIZ_EOz1KXHwDg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "221000",
+                "totalPointsBeforeDiscount": "221000",
+                "unitName": "2 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|2 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "4238840785",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "51000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "51000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "4238840785",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "85000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "85000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "4238840785",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "85000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "85000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMzE4fEtpbmdzdG93biBSZWVmIFByZXNpZGVudGlhbCBSZXNlcnZlIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIyMjEwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDMxOCIsInVuaXROYW1lIjoiMiBCZWRyb29tIFByZXNpZGVudGlhbCAoUHJlc2lkZW50aWFsIFJlc2VydmUpIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIyIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMjIxMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDIgQmVkcm9vbSBQcmVzaWRlbnRpYWwiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.YpLJPEuPpCir9KxBsHbcm1EzpeJXbVqrkm8kHQlj_7_Pn160kh-ME3K9aXQgnhNShjmJVLSaHnSk2CNRO0yr5M_X1o9RxICdkO2HewUo6hvmPG-KKM8KqspRuBUCI552TMCmJ5DQLHG5OHsacRN6ljyKQmvY59obJywzgRT1nVrlAzOao844Ry7k4aH1CeUFNGWQeAj670uUcevKn2Sr8wl1KheKrKQfzJbJvSXXhlpQNar-JdKiozq3_xV3750cIjYZdPdnp-aw-yhg-G8zxiYVbunXUXKe7PLB7L7JpG6phOLs_B8JDWqL7ue3VOPtWir_wm9GuW2T1p9vL4tusA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "3 BEDROOM",
+                "totalPointsAfterDiscount": "260000",
+                "totalPointsBeforeDiscount": "260000",
+                "unitName": "3 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|3 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3692569891",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "60000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "60000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3692569891",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "100000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "100000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3692569891",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "100000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "100000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMzE4fEtpbmdzdG93biBSZWVmIFByZXNpZGVudGlhbCBSZXNlcnZlIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIyNjAwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDMxOCIsInVuaXROYW1lIjoiMyBCZWRyb29tIFByZXNpZGVudGlhbCAoUHJlc2lkZW50aWFsIFJlc2VydmUpIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIzIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMjYwMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDMgQmVkcm9vbSBQcmVzaWRlbnRpYWwiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.xG3NJb6brvj4b_oBD2n8EpVB0s9pgJcOJsIohlxsh40hQDmngTVL9Q3OO1qD6dA9cY63f3n7DR2DQblfJl2bj_ElHYY3-ut9Fh-XtdZFbSpsIbZ51p5HnnVC_niM2NGS-5qn7cReACwRApt2w6v9_DN5bPkaZWJuDzRbUxhxK80X-_VH6m-PdmHQhGHk5tazqihXlwjOh7aXSwn7st5PcurJBYCU6VLZvPenpxVuJCWBZgQt3WssYPjP-PH_nWSDYVceY1gjQjWIuVT2i6Qsb6SQ67Mi0jsSPt94-xCx_IqFjQSYTw52kKnAt3cDW4uQv9k4sHcqcIGrw6ugQAC_yg",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "4 BEDROOM",
+                "totalPointsAfterDiscount": "312000",
+                "totalPointsBeforeDiscount": "312000",
+                "unitName": "4 Bedroom Presidential (Presidential Reserve)",
+                "accomodationClassId": "REF|4 Bedroom Presidential",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3581723454",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "72000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "72000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3581723454",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "120000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "120000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "3581723454",
+                        "allocationType": "Pres Res",
+                        "points": {
+                          "beforeDiscount": "120000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "120000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMzE4fEtpbmdzdG93biBSZWVmIFByZXNpZGVudGlhbCBSZXNlcnZlIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIzMTIwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDMxOCIsInVuaXROYW1lIjoiNCBCZWRyb29tIFByZXNpZGVudGlhbCAoUHJlc2lkZW50aWFsIFJlc2VydmUpIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiI0IEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMzEyMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDQgQmVkcm9vbSBQcmVzaWRlbnRpYWwiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.XgirkD9KjjwgQi4KnnQcYsMjWJaY8mEkDt0vGwTnGqjRgMOKpEBvXKM-TMmV_ywjoE1QbqbjDEPaiPEGpEthyuGnQxYYDz6G0dYKIGtWmiB9Mpg_Mxb1Vw4mKizajKOqJkxaQ5dLrC0Y8CJyk-TS1VuCsr4j0RwnmGZjIyW8DHjPZD6tWjj9fu065LTGFlWz5LxD3JXZOPJN7hBZqCZxY8yKwP_yGebIwa8dgs2JYk5hDa-fin0ToNSTj-gVxbcgeF9rMeRY5lOp7awnyyLxOu3Z-xkM2r30xrnD9D5EeNdZ3Gc7J-KWqAJsmCNMIJlZler5ioPjmvnAHQD7mpLioA",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.39099",
+        "description": "Club Wyndham Kingstown Reef",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Pool Bar",
+          "Computer With Internet (Shared)",
+          "Children's Pool (Outdoor)",
+          "Elevators",
+          "Fitness Center",
+          "Golf",
+          "Hot Tub (Outdoor)",
+          "Laundry Facilities",
+          "Luggage Storage Room",
+          "Main entrance on ground level",
+          "Organized Activities",
+          "Barbecue Area",
+          "Swimming Pool (Outdoor)",
+          "Daytona International Speedway",
+          "Kennedy Space Center at Cape Canaveral",
+          "Busch GardensÂ® Tampa",
+          "Walt Disney WorldÂ® Resort",
+          "Universal OrlandoÂ® Resort",
+          "SeaWorldÂ® Orlando",
+          "LEGOLANDÂ® Florida",
+          "Wi-Fi Internet Access",
+          "Sunbathing Area",
+          "Concierge Services",
+          "Movie Rentals",
+          "Activities Center",
+          "24-Hour Security Access"
+        ],
+        "minPointsPerTrip": 169000,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "515",
+        "brand": "WVR",
+        "longitude": "-81.47026",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "CLUB WYNDHAM® Presidential Reserve Resort",
+          "CLUB WYNDHAM® Plus Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Orlando",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "32821",
+          "region": "CENTRAL FLORIDA",
+          "line1": "12000 International Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000318",
+        "helpfulHints": [
+          "All packages received will incur a $5 per package acceptance fee.",
+          "All units have 2-burner stovetops.",
+          "Disney World is 10 miles away and a shuttle is available for a fee.",
+          "No RV or trailer parking onsite.",
+          "No washer/dryer in units but complimentary laundry facilities are available.",
+          "This is a cashless resort. A credit or debit card is required for on-site purchases."
+        ],
+        "resortId": "SUR0000000856",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Orlando",
+          "stateOrProvince": "FL",
+          "city": "Orlando",
+          "postalCode": "32821",
+          "line1": "12000 International Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 597-2550",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Kingstown Reef",
+        "wish-list": false,
+        "resortName": "Club Wyndham Kingstown Reef",
+        "resortCity": "Orlando",
+        "resortState": "FLORIDA"
+      },
+      {
+        "ratePlanIds": [
+          "1"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "Reunion",
+            "managedByLable": "NOT MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Do Not Apply",
+            "offeringId": "PI|R000000000100|Reunion",
+            "offeringLabel": "Reunion",
+            "isManagedBy": "false",
+            "accomdationClasses": [
+              {
+                "unitType": "3 BEDROOM",
+                "totalPointsAfterDiscount": "99000",
+                "totalPointsBeforeDiscount": "99000",
+                "unitName": "3 Bedroom Deluxe",
+                "accomodationClassId": "REF|3 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "45",
+                        "price": null,
+                        "season": "Prime",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "882778822",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "34000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "34000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "53",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "882778822",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "32500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "32500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "64",
+                        "price": null,
+                        "season": "Value",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "882778822",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "32500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "32500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMTAwfFJldW5pb24iLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6Ijk5MDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAxMDAiLCJ1bml0TmFtZSI6IjMgQmVkcm9vbSBEZWx1eGUiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDA5MDYiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjMgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI5OTAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwzIEJlZHJvb20gRGVsdXhlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.ESLWsVeWtjmgk6QYZmrjf4K9PaGg0OS0aQL5biBQeU3iEqU2r9R968Cslhylr4PqPLoP7KO3KUJnvlQfuC9dcpCvfGjNAnZI6TLqQmaUvbv4o1t1NR0heq3E7frNC1jWRokb64MUMOHsAw0b8AFim9hhj7RJPXvx8wlFIuO_GBroqEU7v6WW7xsrAohfHoJLlXkGc3JGPN8ya2y9S8oqNlTQqd-c-oOQt3MsdLeVR2XS8FfRLPoZUW7kTuf1M9TpKZDLLPr9vanmhEgAYUKJ6eKdoWuoiOiOgya6qaTRlgw-uuOQlsQLVYbxH2w9obogYPs1UXsQF3GEtCl7TnRWJQ",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CWP Standard",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 10 Months",
+                        "bkgWndwId": 25
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.269717",
+        "description": "Enjoy the best Orlando has to offer from the wonderful comfort of this upscale, gated community located just minutes from Walt Disney World.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Bar",
+          "Pool Bar",
+          "Computer With Internet (Shared)",
+          "Casual Dining",
+          "Children's Pool (Outdoor)",
+          "Elevators",
+          "Fitness Center",
+          "Golf Training Facility",
+          "Golf Pro Shop",
+          "Golf Driving Range",
+          "Golf Course (18-Hole)",
+          "Golf",
+          "Hot Tub (Outdoor)",
+          "Lazy River",
+          "Swimming Pool (Heated/Outdoor)",
+          "Self Parking (Uncovered/No Fee)",
+          "Kennedy Space Center at Cape Canaveral",
+          "Daytona International Speedway",
+          "Putting Green",
+          "Tennis Court",
+          "Miniature Golf (Outdoor)",
+          "Pickleball",
+          "Walt Disney WorldÂ® Resort",
+          "Universal OrlandoÂ® Resort",
+          "SeaWorldÂ® Orlando",
+          "Busch GardensÂ® Tampa",
+          "LEGOLANDÂ® Florida",
+          "Water Park (Outdoor)",
+          "Wi-Fi Internet Access",
+          "24-Hour Security Access",
+          "Tram Service (On-Site)",
+          "Concierge Services"
+        ],
+        "minPointsPerTrip": 99000,
+        "managedByLable": "NOT MANAGED BY WYNDHAM",
+        "localTimeZone": "America/New_York",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "970",
+        "brand": "WVR",
+        "longitude": "-81.589408",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          },
+          {
+            "alertMessage": "Check-in%20is%20located%20at%20Reunion%20Resort%20and%20Club.%20Restaurant%2C%20bar%20and%20golf%20hours%20can%20vary%20seasonally%2C%20and%20dress%20codes%20may%20apply.%26nbsp%3B%20Waterpark%20passes%20are%20limited%20to%208%20per%20unit%20occupied.%26nbsp%3B%20Additional%20passes%20can%20be%20purchased%20for%20%2430%20per%20person%20per%20day.%20A%20room%20key%20is%20required%20for%20onsite%20discounts.%20No%20RV%2C%20boat%20or%20trailer%20parking.%20Shuttle%20transportation%20is%20available%20on%20resort%20property.%20Personal%20vehicles%20or%20taxis%20are%20encouraged%20for%20transportation%20to%20local%20entertainment%20and%20theme%20parks.%20Guests%20will%20be%20charged%20a%20small%20fee%20for%20the%20handling%20and%20storage%20of%20packages%20at%20the%20resort.%20This%20resort%20is%20cashless%2C%20and%20room%20charging%20is%20not%20permitted.%20Debit%20and%20credit%20cards%20are%20accepted%2C%20and%20all%20resort%20transactions%20are%20pay-as-you-go.%20Luggage%20carts%20are%20currently%20unavailable%20at%20the%20resort.%20Please%20contact%20resort%20staff%20for%20assistance%20with%20luggage.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Area Event Information",
+            "templateCreatedDate": "2023-05-23T12:54:13.148-04:00",
+            "alertTitle": "WM Reunion Resort Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Reunion",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "34747",
+          "region": "CENTRAL FLORIDA",
+          "line1": "7593 Gathering Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000100",
+        "helpfulHints": [
+          "A credit card and a $250 security deposit may be required for reservations upon check-in.",
+          "On-site shuttle service is available for transportation on resort property (hours vary). Please download the RideReunion App or contact Front Desk.",
+          "This is a cashless resort. A credit or debit card is required for on-site purchases."
+        ],
+        "resortId": "SUR0000000906",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Reunion",
+          "stateOrProvince": "FL",
+          "city": "Reunion",
+          "postalCode": "34747",
+          "line1": "7593 Gathering Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Golf Getaway"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 662-1800",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Not Managed by Wyndham Destinations",
+          "VIP Benefits Do Not Apply"
+        ],
+        "name": "Club Wyndham Reunion",
+        "wish-list": false,
+        "resortName": "Club Wyndham Reunion",
+        "resortCity": "Reunion",
+        "resortState": "FLORIDA"
+      },
+      {
+        "ratePlanIds": [
+          "183"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "WbW Kingstown Reef",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Do Not Apply",
+            "offeringId": "PI|R000000000214|WbW Kingstown Reef",
+            "offeringLabel": "Orlando Kingstown Reef",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "78000",
+                "totalPointsBeforeDiscount": "78000",
+                "unitName": "1 Bedroom",
+                "accomodationClassId": "REF|1 Bedroom",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210069",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "18000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "18000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210069",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "30000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "30000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207775",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "30000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "30000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210069",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "30000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "30000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "2",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207775",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "30000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "30000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNzgwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDIxNCIsInVuaXROYW1lIjoiMSBCZWRyb29tIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIxIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiNzgwMDAiLCJjaGVja091dERhdGUiOiIyMDI2LTA0LTEyIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MSBCZWRyb29tIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.1VgRODoec4rcJy_8f1PospHUngnUsR3ZTdIfThdJjsfX9UDBefZxLGYo0gB2T7HXRlWelzu2shepifCB4S6jplZseMwHKCDnBwpHZ-uU7n2dLKrDycEG8qyluQy-psgHGziFTs33HR8bT2OOgiAY06ym74EcCcGBbgfuWsJAJXU227MXWamQPxTQF0DFadPUcNa9rBPLPm9tGGlF8-LGsQu8891ywV6pE-BGMNpLlC8OtvaZVfUCVZd05Sw_0CuaJKdv5TaswecRgvgHtJXC9bhcDY2jYBeB515tD5tTUFb3Arwknk6cYPEAn0gPQfZVLf_7KsfhLf9gI1QOzmmvXA",
+                "unitDescription": "One Bedroom: King in master, queen sleeper sofa in living area. Maximum occupancy 4.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "86000",
+                "totalPointsBeforeDiscount": "86000",
+                "unitName": "1 Bedroom Deluxe",
+                "accomodationClassId": "REF|1 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210060",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "20000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "20000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210060",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "33000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "33000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210060",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "33000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "33000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiODYwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDIxNCIsInVuaXROYW1lIjoiMSBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDg1NiIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6Ijg2MDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.YhVSwH_urOyZ99cgeSxPDDDvnCZ3z7_UJc-JThO56XiRmDH31D2DFVoC8fNJgi2CoC4sNGn1UdTPQNEuZqdoBlZTWR0GNOY32UdrFfB2b9tGCco1wStGlnFEgnEsl4bnfUeos06JZf4k-C-SsxOmadnHWttarfimEdMWzgNglSLKc-5J1FT8-VEX16JUSOTUW89KFVUtuci06sMEQzER4QwfK6eWoitlx6zWAj0PslF4KlWVO6n3yEYGoCe86GdP51wt1InszKNarzR55nFTzkZ8iEGyVnn2TPsIUYEMgi0_6XKcIzexExigjECCtP-l5dCCg5hLGayO4C6Dp8C1Xw",
+                "unitDescription": "One Bedroom Deluxe: King in master, queen sleeper sofa in living area. Washer dryer in suite. Maximum occupancy 4.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "103000",
+                "totalPointsBeforeDiscount": "103000",
+                "unitName": "2 Bedroom Deluxe",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210063",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "24000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "24000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "10",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210063",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "39500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "39500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210063",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "39500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "39500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiMTAzMDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAyMTQiLCJ1bml0TmFtZSI6IjIgQmVkcm9vbSBEZWx1eGUiLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDA4NTYiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiIxMDMwMDAiLCJjaGVja091dERhdGUiOiIyMDI2LTA0LTEyIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MiBCZWRyb29tIERlbHV4ZSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.lHpIYhuVNvUD3wtG4vh8I83O9hgX8rEDX0J0T64tt2Ej--e618FLEvln6ECYVXq7Vcv_7MXIkAg2YcPwoTOZk2Md7WCxPWY480QHYF-_E0Na8_6i1kMDqXyyUaYJ7Xakf1tyRFcq2iHE3V2yRKktnK7JrnATnYqv8zPYNIYYV6inajJ_sX6ZW_Qe2A9kcPmtej9_1HPg8Gd27jAqfbqFrmc4i_hb20nGpUWooMsvCDL6nCZY_uc0mG7N5pTwJJKqkfiPwOkF32tiztpoKeVfg2dq0c7ZRuSbSZqXp5d3mmerT4KwWX4gtxXJxL8siN6_e2ChcXcp5IvuuTJ5u4elHA",
+                "unitDescription": "Two Bedroom Deluxe: King in master, two double beds in second bedroom, queen sleeper sofa in living area. Washer dryer in suite. Maximum occupancy 6.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "103000",
+                "totalPointsBeforeDiscount": "103000",
+                "unitName": "2 Bedroom Deluxe - Communication ",
+                "accomodationClassId": "REF|2 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211030",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "24000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "24000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211030",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "39500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "39500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211030",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "39500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "39500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiMTAzMDAwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAyMTQiLCJ1bml0TmFtZSI6IjIgQmVkcm9vbSBEZWx1eGUgLSBDb21tdW5pY2F0aW9uICIsInJlc29ydElkIjoiU1VSMDAwMDAwMDg1NiIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMiBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjEwMzAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gRGVsdXhlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.TzsyH-gqkI2HEiJf79th1zec90Wd0QE32ty1-AV0ManA7v_qDd4xauGdkk90cPzdXicouGVMyQ5v4N4BWBEeY22LjG_-tE17bfUEMnM4ep6H2UdUacphttmv7InwxRuNK-37Ju_LYZPM938RPtKuFzZOYlgXz3XIp-jPND53U1lDcY2IUvcwoidpYgyfb7Dq_VPI05QY6whqGMdxlb4FoEbSW8xsLSJ74_89vsP14HZaZ8_ooBLiHZmjoQmaXmsVEakz0fOzn5MyoIPs97pNoQZeFcBoEynEvKrI3qBWrGX_xEQaXq_zSBz3_cGPhm-Y_vmoIalFC2FEolIH4R5nBw",
+                "unitDescription": "Two Bedroom Deluxe: King in master, two double beds in second bedroom, queen sleeper sofa in living area. Washer dryer in suite. Maximum occupancy 6.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "95000",
+                "totalPointsBeforeDiscount": "95000",
+                "unitName": "2 Bedroom Double Beds",
+                "accomodationClassId": "REF|2 Bedroom Double Beds",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207779",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "22000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207779",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "8",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207779",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiOTUwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDIxNCIsInVuaXROYW1lIjoiMiBCZWRyb29tIERvdWJsZSBCZWRzIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwODU2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIyIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiOTUwMDAiLCJjaGVja091dERhdGUiOiIyMDI2LTA0LTEyIiwib3JpZ2luYWxDaGVja091dERhdGUiOm51bGwsImhvdXNlS2VlcGluZ1ByaWNlIjpudWxsLCJ0b3RhbFByaWNlQWZ0ZXJEaXNjb3VudCI6bnVsbCwiYWNjb21tb2RhdGlvbkNsYXNzSWQiOiJSRUZ8MiBCZWRyb29tIERvdWJsZSBCZWRzIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.Aq-O5mQKacnzkSVDQzSHgdRbkhHFxyrMDL8prgP-Kq594XvFBMBnFxIXS0Mxi_t7Ga_f4GbpejiCVKmkmMx9xDQupSWfrOzJCkQPVFcwZ2WXCGGGSFCzgiuV5iWj3Y_kZIp3VT2uabNp7LUeguPhgqgKGRrJIKXLaWFWQKfz4jkEF60Yqh9EKAMC0BRhJ2c0KntD5GhZ5d0IynlHc2nxQI9u4QWgCbsQCTdtJh1u9P-qntLblq2cs8Z0L9Iin0Ylc7uyOnkAgFzJKBl585iravRg7Q3kJKugFbv0SNdhIe6ulOrWRW3HRWztu0VV58gN4o6Axhs-p8-nITTQhNglzg",
+                "unitDescription": "Two Bedroom Double Beds: King in master, two double beds in second bedroom, queen sleeper sofa in living area. Maximum occupancy 6.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "2 BEDROOM",
+                "totalPointsAfterDiscount": "95000",
+                "totalPointsBeforeDiscount": "95000",
+                "unitName": "2 Bedroom Twin",
+                "accomodationClassId": "REF|2 Bedroom Twin",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207780",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "22000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22000",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210062",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "22000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "22000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207780",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "7",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210062",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "6",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210062",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      },
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "5",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "FLOAT",
+                        "invenOfrngHashKey": "207780",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "36500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "36500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiOTUwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDIxNCIsInVuaXROYW1lIjoiMiBCZWRyb29tIFR3aW4iLCJyZXNvcnRJZCI6IlNVUjAwMDAwMDA4NTYiLCJjaGFubmVsIjoiV0VCIiwidG90YWxQcmljZUJlZm9yZURpc2NvdW50IjpudWxsLCJtZW1iZXJzaGlwVGllciI6IkNMVUIgV1lOREhBTSBQTFVTIEZPVU5ERVJTIFZJUCIsImNvc3RBbW91bnQiOm51bGwsIm1lbWJlcnNoaXBJZCI6IkNTU3wwMDB8MDAwMTAzNzY2MjgiLCJjaGVja0luRGF0ZSI6IjIwMjYtMDQtMDkiLCJ1bml0VHlwZSI6IjIgQkVEUk9PTSIsImNvbnN1bWVyVHlwZXMiOiJSRUZ8Q0xVQiBXWU5ESEFNIFBMVVMsUkVGfE1BUkdBUklUQVZJTExFIFZBQ0FUSU9OIENMVUIgQ1QsUkVGfENMVUIgV1lOREhBTSBTRUxFQ1QgVURJIENULFJFRnxXVlIgQ0xVQiBQQVNTLFJFRnxDV0EgQ09OU1VNRVIgVFlQRSIsInRvdGFsUG9pbnRzQmVmb3JlRGlzY291bnQiOiI5NTAwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwyIEJlZHJvb20gVHdpbiIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4ODIxLCJleHAiOjE3NTk2NjI0MjF9.XqHA6T-_D2_kr0y2nshn23GpvuaEpln0HY9p_9tGoVAEIBIUOJ-vFnAlMQBmjfnS1WfKn-Gpb_GC3Jj0HG17A9GliTvcNmjzhy3XLyi6yFoah91VXyFi3wYBGCpaEfgJGVOyps8DHGzwPuuXkWfy2ur8dyW97iBWzFkGi_-HcpBvVlms5Q9elfWBNKGKrwxDHnmveuiQ_KFkT0hyX5GDyJ4PF5NBvSOLkZHUoFbI4mJj4wABacvLHFaJ4stosMVrOnszMyAea8zGopyKJjwHhMpnyMRmSsrBf8Pe6gDJIQu7VjN7nQswkz3moAglSBIyuIrxUh97lbBKHyB1KAMy2w",
+                "unitDescription": "Two Bedroom Twin: King in master, twin beds in second bedroom, queen sleeper sofa in living area. Maximum occupancy 6.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "STUDIO",
+                "totalPointsAfterDiscount": "70000",
+                "totalPointsBeforeDiscount": "70000",
+                "unitName": "Studio Deluxe",
+                "accomodationClassId": "REF|Studio Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "16",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210066",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "16000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "16000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "17",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210066",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "27000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "27000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "17",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "210066",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "27000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "27000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjE0fFdiVyBLaW5nc3Rvd24gUmVlZiIsImhvdXNlS2VlcGluZ1BvaW50cyI6bnVsbCwidG90YWxQb2ludHNBZnRlckRpc2NvdW50IjoiNzAwMDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDIxNCIsInVuaXROYW1lIjoiU3R1ZGlvIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDg1NiIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiU1RVRElPIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjcwMDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfFN0dWRpbyBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.yqLxordjWvw9505LbdRiJ-HIWP4j_qZeldO27J36y2rUSPMCrrZzhUoKuERGAqHxu8-cnbYWmxBu6eyQoM4u89yUF2xVwePpYs2t0XeuJCh8TDf3dG-9RE8eyem1ujgCrmz2nbtXshvB4FIPYEv9_jBMDV7oBx1Z7AnzJbxA_pXcx58fPZnUiox3VXzwt_v3Yce69WUkfaWkKaqBsQC1rKrxQ10jqo1GfmwBzrfvFCh1WLBjZffSEU9WXjiNTnFp04hcuuEMuoyYICEKUeAPb1jCPfwT5gcOAot8SiIymGfDuWSGEipxN5UesvYRokEpk61ZfnpEZ7pS2XhPGiDGZw",
+                "unitDescription": "Studio Deluxe: Queen Murphy bed in living area. Washer dryer in suite. Partial kitchen with 2 burner stovetop, microwave and small refrigerator. Maximum occupancy 2.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.39099",
+        "description": "WorldMark Kingstown Reef",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Pool Bar",
+          "Computer With Internet (Shared)",
+          "Children's Pool (Outdoor)",
+          "Elevators",
+          "Fitness Center",
+          "Golf",
+          "Hot Tub (Outdoor)",
+          "Laundry Facilities",
+          "Luggage Storage Room",
+          "Main entrance on ground level",
+          "Organized Activities",
+          "Barbecue Area",
+          "Swimming Pool (Outdoor)",
+          "Kennedy Space Center at Cape Canaveral",
+          "Daytona International Speedway",
+          "Universal OrlandoÂ® Resort",
+          "SeaWorldÂ® Orlando",
+          "Walt Disney WorldÂ® Resort",
+          "LEGOLANDÂ® Florida",
+          "Busch GardensÂ® Tampa",
+          "Wi-Fi Internet Access",
+          "Movie Rentals",
+          "Concierge Services",
+          "Sunbathing Area",
+          "24-Hour Security Access",
+          "Activities Center"
+        ],
+        "minPointsPerTrip": 70000,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "3530",
+        "brand": "WBW",
+        "longitude": "-81.47026",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": true,
+        "types": [
+          "WorldMark Resort",
+          "WYNDHAM Club Pass Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Orlando",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "32821",
+          "region": "CENTRAL FLORIDA",
+          "line1": "12000 International Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000214",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in.",
+          "All packages received will incur a $5 per package acceptance fee.",
+          "All units have 2-burner stovetops.",
+          "Disney World is 10 miles away and a shuttle is available for a fee.",
+          "No RV or trailer parking onsite.",
+          "No washer/dryer in units but complimentary laundry facilities are available."
+        ],
+        "resortId": "SUR0000000856",
+        "checkInTime": "16:00",
+        "clubPassResort": true,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Orlando",
+          "stateOrProvince": "FL",
+          "city": "Orlando",
+          "postalCode": "32821",
+          "line1": "12000 International Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 597-2550",
+        "checkOutTime": "11:00",
+        "fastFacts": [
+          "Managed by Wyndham Destinations",
+          "RCI Silver Crown Resort® Award",
+          "VIP Benefits Do Not Apply"
+        ],
+        "name": "WorldMark Kingstown Reef",
+        "wish-list": false,
+        "resortName": "WorldMark Kingstown Reef",
+        "resortCity": "Orlando",
+        "resortState": "FLORIDA"
+      },
+      {
+        "ratePlanIds": [
+          "183"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "WbW Reunion",
+            "managedByLable": "NOT MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Do Not Apply",
+            "offeringId": "PI|R000000000261|WbW Reunion",
+            "offeringLabel": "Reunion WbW",
+            "isManagedBy": "false",
+            "accomdationClasses": [
+              {
+                "unitType": "3 BEDROOM",
+                "totalPointsAfterDiscount": "145500",
+                "totalPointsBeforeDiscount": "145500",
+                "unitName": "3 Bedroom Deluxe",
+                "accomodationClassId": "REF|3 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "56",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207668",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "33500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "33500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "72",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207668",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "56000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "56000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "94",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "207668",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "56000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "56000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjYxfFdiVyBSZXVuaW9uIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIxNDU1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDI2MSIsInVuaXROYW1lIjoiMyBCZWRyb29tIERlbHV4ZSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDkwNiIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNi0wNC0wOSIsInVuaXRUeXBlIjoiMyBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjE0NTUwMCIsImNoZWNrT3V0RGF0ZSI6IjIwMjYtMDQtMTIiLCJvcmlnaW5hbENoZWNrT3V0RGF0ZSI6bnVsbCwiaG91c2VLZWVwaW5nUHJpY2UiOm51bGwsInRvdGFsUHJpY2VBZnRlckRpc2NvdW50IjpudWxsLCJhY2NvbW1vZGF0aW9uQ2xhc3NJZCI6IlJFRnwzIEJlZHJvb20gRGVsdXhlIiwib3JpZ2luYWxDaGVja0luRGF0ZSI6bnVsbH0sInN1YiI6IkNvbnRhY3QgZm9yIHtzZXNzaW9uSWR9IiwianRpIjoie3Nlc3Npb25JZH0iLCJpYXQiOjE3NTk2NTg4MjEsImV4cCI6MTc1OTY2MjQyMX0.5Rv_OBjqVVR3oWYXjiVKngjZrkQorUYXXs80S2sQeWR6oVCilV4htNeDVQmc_QJgMUcFTN0B5DFCZ5mW49P5opPi1PtQ5rjslOXCZd4yxMDqRO71N4A8_0AIPey1UnYD_e0ppMfZwys8QyTH9a4WMMtDpJTTjx42RilZX_yZPTJt4M09Osvmja1tGlhal2lOytkz5NVKSFDxHnmK0E_SNkjZH2lGJepnXOYtL3uH0a--J96z4Kpw2M1LvXdNaGFrKObauwqCoiaj_XXhfxO2AqklnjAj2MRmOMpCKoyzG_ePlweMMO4hjxybdDanJvul_ey14n-1CArxU2FXifgcmA",
+                "unitDescription": "3 Bedroom Deluxe: King in master, king in second, two double beds in third bedroom, sleeper sofa in living area. Maximum occupancy 8.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              },
+              {
+                "unitType": "3 BEDROOM",
+                "totalPointsAfterDiscount": "145500",
+                "totalPointsBeforeDiscount": "145500",
+                "unitName": "3 Bedroom Deluxe - Communication ",
+                "accomodationClassId": "REF|3 Bedroom Deluxe",
+                "calendarDays": [
+                  {
+                    "date": "2026-04-09",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211869",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "33500",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "33500",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-10",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211869",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "56000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "56000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2026-04-11",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|WVR CLUB PASS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "Red",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "211869",
+                        "allocationType": "WBW",
+                        "points": {
+                          "beforeDiscount": "56000",
+                          "appliedRatePlanDiscount": "false",
+                          "afterDiscount": "56000",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMjYxfFdiVyBSZXVuaW9uIiwiaG91c2VLZWVwaW5nUG9pbnRzIjpudWxsLCJ0b3RhbFBvaW50c0FmdGVyRGlzY291bnQiOiIxNDU1MDAiLCJyYXRlUGxhbklkcyI6bnVsbCwicHJvZHVjdElkIjoiUEl8UjAwMDAwMDAwMDI2MSIsInVuaXROYW1lIjoiMyBCZWRyb29tIERlbHV4ZSAtIENvbW11bmljYXRpb24gIiwicmVzb3J0SWQiOiJTVVIwMDAwMDAwOTA2IiwiY2hhbm5lbCI6IldFQiIsInRvdGFsUHJpY2VCZWZvcmVEaXNjb3VudCI6bnVsbCwibWVtYmVyc2hpcFRpZXIiOiJDTFVCIFdZTkRIQU0gUExVUyBGT1VOREVSUyBWSVAiLCJjb3N0QW1vdW50IjpudWxsLCJtZW1iZXJzaGlwSWQiOiJDU1N8MDAwfDAwMDEwMzc2NjI4IiwiY2hlY2tJbkRhdGUiOiIyMDI2LTA0LTA5IiwidW5pdFR5cGUiOiIzIEJFRFJPT00iLCJjb25zdW1lclR5cGVzIjoiUkVGfENMVUIgV1lOREhBTSBQTFVTLFJFRnxNQVJHQVJJVEFWSUxMRSBWQUNBVElPTiBDTFVCIENULFJFRnxDTFVCIFdZTkRIQU0gU0VMRUNUIFVESSBDVCxSRUZ8V1ZSIENMVUIgUEFTUyxSRUZ8Q1dBIENPTlNVTUVSIFRZUEUiLCJ0b3RhbFBvaW50c0JlZm9yZURpc2NvdW50IjoiMTQ1NTAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNi0wNC0xMiIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDMgQmVkcm9vbSBEZWx1eGUiLCJvcmlnaW5hbENoZWNrSW5EYXRlIjpudWxsfSwic3ViIjoiQ29udGFjdCBmb3Ige3Nlc3Npb25JZH0iLCJqdGkiOiJ7c2Vzc2lvbklkfSIsImlhdCI6MTc1OTY1ODgyMSwiZXhwIjoxNzU5NjYyNDIxfQ.mPbaLJzf7mCQ17_v_darCJgWZhB9gu4v0pqQ_OoJg1ROZSC7f8tmfceO-c3qfZUpR6xry60ZgXlHdRM1dFnL3UxlBpdIH01RHR2mRd25kbzg8_oyhD83fWoYYNvvfvlBls2P-Jspj1gaAFTcU9wufD6j0QdE9BEpxI3tPu1V0-KvhMr7fObrA66GKdCDNCBvknt9F32lnnwgrujY38uMMwVdNiUNlFZh2r5VnYixNLcoXBknJVAkEs6fJ0Kixx7nps93013OIlTg8jGzTWJK43TUH25gb1pfpuhEBDv3kAX5wdUUcvfovbq6IHrDo42tbMYLOfQ3YJ9xIozALwASQA",
+                "unitDescription": "3 Bedroom Deluxe: King in master, king in second, two double beds in third bedroom, sleeper sofa in living area. Maximum occupancy 8.",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 183,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CW Club Pass",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "3 Months + 1 Day To 9 Months - W B",
+                        "bkgWndwId": 222
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "28.269717",
+        "description": "WorldMark Reunion",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Pool Bar",
+          "Bar",
+          "Computer With Internet (Shared)",
+          "Casual Dining",
+          "Children's Pool (Outdoor)",
+          "Elevators",
+          "Fitness Center",
+          "Golf Training Facility",
+          "Golf Pro Shop",
+          "Golf Driving Range",
+          "Golf Course (18-Hole)",
+          "Golf",
+          "Hot Tub (Outdoor)",
+          "Lazy River",
+          "Swimming Pool (Heated/Outdoor)",
+          "Self Parking (Uncovered/No Fee)",
+          "Kennedy Space Center at Cape Canaveral",
+          "Daytona International Speedway",
+          "Tennis Court",
+          "Pickleball",
+          "Miniature Golf (Outdoor)",
+          "Putting Green",
+          "Universal OrlandoÂ® Resort",
+          "LEGOLANDÂ® Florida",
+          "Walt Disney WorldÂ® Resort",
+          "Busch GardensÂ® Tampa",
+          "SeaWorldÂ® Orlando",
+          "Water Park (Outdoor)",
+          "Wi-Fi Internet Access",
+          "24-Hour Security Access",
+          "Concierge Services",
+          "Tram Service (On-Site)"
+        ],
+        "minPointsPerTrip": 145500,
+        "managedByLable": "NOT MANAGED BY WYNDHAM",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "3540",
+        "brand": "WBW",
+        "longitude": "-81.589408",
+        "alertMessages": [
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          },
+          {
+            "alertMessage": "Check-in%20is%20located%20at%20Reunion%20Resort%20and%20Club.%20Restaurant%2C%20bar%20and%20golf%20hours%20can%20vary%20seasonally%2C%20and%20dress%20codes%20may%20apply.%26nbsp%3B%20Waterpark%20passes%20are%20limited%20to%208%20per%20unit%20occupied.%26nbsp%3B%20Additional%20passes%20can%20be%20purchased%20for%20%2430%20per%20person%20per%20day.%20A%20room%20key%20is%20required%20for%20onsite%20discounts.%20No%20RV%2C%20boat%20or%20trailer%20parking.%20Shuttle%20transportation%20is%20available%20on%20resort%20property.%20Personal%20vehicles%20or%20taxis%20are%20encouraged%20for%20transportation%20to%20local%20entertainment%20and%20theme%20parks.%20Guests%20will%20be%20charged%20a%20small%20fee%20for%20the%20handling%20and%20storage%20of%20packages%20at%20the%20resort.%20This%20resort%20is%20cashless%2C%20and%20room%20charging%20is%20not%20permitted.%20Debit%20and%20credit%20cards%20are%20accepted%2C%20and%20all%20resort%20transactions%20are%20pay-as-you-go.%20Luggage%20carts%20are%20currently%20unavailable%20at%20the%20resort.%20Please%20contact%20resort%20staff%20for%20assistance%20with%20luggage.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Area Event Information",
+            "templateCreatedDate": "2023-05-23T12:54:13.148-04:00",
+            "alertTitle": "WM Reunion Resort Alert"
+          }
+        ],
+        "isWorldMarkResort": true,
+        "types": [
+          "WorldMark Resort",
+          "WYNDHAM Club Pass Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Reunion",
+          "stateOrProvince": "FL",
+          "city": "ORLANDO AREA",
+          "postalCode": "34747",
+          "region": "CENTRAL FLORIDA",
+          "line1": "7593 Gathering Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "productId": "PI|R000000000261",
+        "helpfulHints": [
+          "A refundable security deposit is required at check-in, $60 for the first night and $50 for each additional night up to $360.",
+          "Ride the on-site shuttle to enjoy the resort's amenities. Hours may vary Â check with Guest Services for departure times."
+        ],
+        "resortId": "SUR0000000906",
+        "checkInTime": "16:00",
+        "clubPassResort": true,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Reunion",
+          "stateOrProvince": "FL",
+          "city": "Reunion",
+          "postalCode": "34747",
+          "line1": "7593 Gathering Drive",
+          "stateOrProvinceName": "FLORIDA"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Family Vacation"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(407) 662-1800",
+        "checkOutTime": "11:00",
+        "fastFacts": [
+          "Not Managed by Wyndham Destinations",
+          "VIP Benefits Do Not Apply"
+        ],
+        "name": "WorldMark Reunion",
+        "wish-list": false,
+        "resortName": "WorldMark Reunion",
+        "resortCity": "Reunion",
+        "resortState": "FLORIDA"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "CLUB WYNDHAM® PLUS RESORT",
+        "count": "4"
+      },
+      {
+        "name": "CLUB WYNDHAM® ACCESS RESORT",
+        "count": "3"
+      },
+      {
+        "name": "WORLDMARK CLUB PASS RESORT",
+        "count": "3"
+      },
+      {
+        "name": "CLUB WYNDHAM® PRESIDENTIAL RESERVE RESORT",
+        "count": "2"
+      },
+      {
+        "name": "WORLDMARK RESORT",
+        "count": "2"
+      }
+    ],
+    "vacationExperiences": [
+      {
+        "name": "Family Vacation",
+        "count": "5"
+      },
+      {
+        "name": "Golf Getaway",
+        "count": "1"
+      }
+    ],
+    "nextGeographicValue": "CENTRAL FLORIDA",
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "2"
+    },
+    "managedResortsCount": "4",
+    "unitFeatures": [
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "6"
+      },
+      {
+        "name": "Balcony/Patio",
+        "count": "6"
+      },
+      {
+        "name": "Kitchen",
+        "count": "6"
+      },
+      {
+        "name": "Washer/Dryer",
+        "count": "6"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": false,
+    "status": "OK"
+  }
+}

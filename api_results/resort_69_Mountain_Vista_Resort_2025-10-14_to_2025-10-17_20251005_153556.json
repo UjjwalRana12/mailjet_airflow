@@ -1,0 +1,491 @@
+{
+  "request_info": {
+    "resort_id": 69,
+    "resort_name": "Mountain Vista Resort",
+    "product_id": "PI|R000000000067",
+    "check_in": "2025-10-14",
+    "check_out": "2025-10-17",
+    "fetch_timestamp": "2025-10-05T15:35:56.354197",
+    "success": true
+  },
+  "api_response": {
+    "regions": [
+      {
+        "name": "MIDWEST",
+        "count": "1"
+      }
+    ],
+    "resortFeatures": [
+      {
+        "name": "Accessible route from the accessible entrance to the registration area",
+        "count": "1"
+      },
+      {
+        "name": "Accessible self-parking",
+        "count": "1"
+      },
+      {
+        "name": "Adventure Sports",
+        "count": "1"
+      },
+      {
+        "name": "Beach Access",
+        "count": "1"
+      },
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Business Center",
+        "count": "1"
+      },
+      {
+        "name": "Children's Pool",
+        "count": "1"
+      },
+      {
+        "name": "Elevators",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "Relaxing Retreat",
+        "count": "1"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      },
+      {
+        "name": "TTY Kits available for guest use",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      },
+      {
+        "name": "Wineries",
+        "count": "1"
+      }
+    ],
+    "availableResorts": {
+      "name": "AVAILABLE_RESORTS",
+      "count": "1"
+    },
+    "resortAmenities": [
+      {
+        "name": "Beach Access",
+        "count": "1"
+      },
+      {
+        "name": "Business Center",
+        "count": "1"
+      },
+      {
+        "name": "Children's Pool",
+        "count": "1"
+      },
+      {
+        "name": "Fitness Center",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      },
+      {
+        "name": "Outdoor Eating Area",
+        "count": "1"
+      },
+      {
+        "name": "Pool - Outdoor",
+        "count": "1"
+      },
+      {
+        "name": "Sports/Outdoor Games",
+        "count": "1"
+      }
+    ],
+    "nextGeographicName": "State",
+    "hasInEligibleProducts": false,
+    "lowestAvailablePoints": "14160",
+    "specialNeedsResorts": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "specialNeedsUnit": {
+      "name": "Accessible",
+      "count": "1"
+    },
+    "minPointsPerTrip": 14160,
+    "unitTypes": [
+      {
+        "name": "1 BEDROOM",
+        "count": "1"
+      }
+    ],
+    "maxPointsPerTrip": 14160,
+    "areaActivities": [
+      {
+        "name": "Adventure Sports",
+        "count": "1"
+      },
+      {
+        "name": "Boating",
+        "count": "1"
+      },
+      {
+        "name": "Fishing",
+        "count": "1"
+      },
+      {
+        "name": "Golf",
+        "count": "1"
+      },
+      {
+        "name": "Hiking",
+        "count": "1"
+      },
+      {
+        "name": "Sightseeing",
+        "count": "1"
+      },
+      {
+        "name": "Watersports",
+        "count": "1"
+      },
+      {
+        "name": "Wineries",
+        "count": "1"
+      }
+    ],
+    "maxOccupancies": [
+      {
+        "name": "4",
+        "count": "1"
+      },
+      {
+        "name": "6",
+        "count": "1"
+      },
+      {
+        "name": "8",
+        "count": "1"
+      }
+    ],
+    "presidentialReserveResorts": {
+      "name": "PRESIDENTIAL_RESERVE_RESORTS",
+      "count": "0"
+    },
+    "pageInfo": {
+      "lastRecordNumOnPage": "0",
+      "recordPerPage": "1",
+      "recordOffset": "0",
+      "totalRecordCount": "1"
+    },
+    "resorts": [
+      {
+        "ratePlanIds": [
+          "1002"
+        ],
+        "bookEligibility": {
+          "doNotBookFlag": false,
+          "maxBookingFlag": false
+        },
+        "resortOfferings": [
+          {
+            "offeringName": "WVR Lake of the Ozarks",
+            "managedByLable": "MANAGED BY WYNDHAM",
+            "vipBenifitsApplyLable": "VIP Benefits Apply",
+            "offeringId": "PI|R000000000110|WVR Lake of the Ozarks",
+            "offeringLabel": "WVR Lake of the Ozarks",
+            "isManagedBy": "true",
+            "accomdationClasses": [
+              {
+                "unitType": "1 BEDROOM",
+                "totalPointsAfterDiscount": "14160",
+                "totalPointsBeforeDiscount": "35400",
+                "unitName": "1 Bedroom",
+                "accomodationClassId": "REF|1 Bedroom",
+                "calendarDays": [
+                  {
+                    "date": "2025-10-14",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "4",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2711218951",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "11800",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "4720",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-10-15",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "3",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2711218951",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "11800",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "4720",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "date": "2025-10-16",
+                    "inventoryOfferings": [
+                      {
+                        "consumerType": "REF|CLUB WYNDHAM PLUS",
+                        "availableCount": "1",
+                        "price": null,
+                        "season": "High",
+                        "productTypeName": "POINTS/CREDITS",
+                        "invenOfrngHashKey": "2711218951",
+                        "allocationType": "CWP",
+                        "points": {
+                          "beforeDiscount": "11800",
+                          "appliedRatePlanDiscount": "true",
+                          "afterDiscount": "4720",
+                          "costCurrency": "PTS"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "searchResultToken": "eyJhbGciOiJSUzI1NiJ9.eyJwYXlsb2FkIjp7InJlc29ydE9mZmVyaW5nSWQiOiJQSXxSMDAwMDAwMDAwMTEwfFdWUiBMYWtlIG9mIHRoZSBPemFya3MiLCJob3VzZUtlZXBpbmdQb2ludHMiOm51bGwsInRvdGFsUG9pbnRzQWZ0ZXJEaXNjb3VudCI6IjE0MTYwIiwicmF0ZVBsYW5JZHMiOm51bGwsInByb2R1Y3RJZCI6IlBJfFIwMDAwMDAwMDAxMTAiLCJ1bml0TmFtZSI6IjEgQmVkcm9vbSIsInJlc29ydElkIjoiU1VSMDAwMDAwMDg0MiIsImNoYW5uZWwiOiJXRUIiLCJ0b3RhbFByaWNlQmVmb3JlRGlzY291bnQiOm51bGwsIm1lbWJlcnNoaXBUaWVyIjoiQ0xVQiBXWU5ESEFNIFBMVVMgRk9VTkRFUlMgVklQIiwiY29zdEFtb3VudCI6bnVsbCwibWVtYmVyc2hpcElkIjoiQ1NTfDAwMHwwMDAxMDM3NjYyOCIsImNoZWNrSW5EYXRlIjoiMjAyNS0xMC0xNCIsInVuaXRUeXBlIjoiMSBCRURST09NIiwiY29uc3VtZXJUeXBlcyI6IlJFRnxDTFVCIFdZTkRIQU0gUExVUyxSRUZ8TUFSR0FSSVRBVklMTEUgVkFDQVRJT04gQ0xVQiBDVCxSRUZ8Q0xVQiBXWU5ESEFNIFNFTEVDVCBVREkgQ1QsUkVGfFdWUiBDTFVCIFBBU1MsUkVGfENXQSBDT05TVU1FUiBUWVBFIiwidG90YWxQb2ludHNCZWZvcmVEaXNjb3VudCI6IjM1NDAwIiwiY2hlY2tPdXREYXRlIjoiMjAyNS0xMC0xNyIsIm9yaWdpbmFsQ2hlY2tPdXREYXRlIjpudWxsLCJob3VzZUtlZXBpbmdQcmljZSI6bnVsbCwidG90YWxQcmljZUFmdGVyRGlzY291bnQiOm51bGwsImFjY29tbW9kYXRpb25DbGFzc0lkIjoiUkVGfDEgQmVkcm9vbSIsIm9yaWdpbmFsQ2hlY2tJbkRhdGUiOm51bGx9LCJzdWIiOiJDb250YWN0IGZvciB7c2Vzc2lvbklkfSIsImp0aSI6IntzZXNzaW9uSWR9IiwiaWF0IjoxNzU5NjU4NzU3LCJleHAiOjE3NTk2NjIzNTd9.lwABn88iytnsUFv3JcDYUbAjyk74QhaYQb7bTr7cjsqqLOT4CthFbOWzlSzsvwjVqVAciY5EK3AHdUnHb1Sp8qLSQdmsAfekggtDYtMWUb92gOQ7DS8bayP1t1VTsW5Je2UsU4RemMxHWp_n2hbmFz-HU2b-CnEzNt2sa-j0hBFjiZ2oHygpa0B2bYxtfxaNLUUmj1MSKBQPMOyUYd6RGT1gWs8br0Yi6T7Z7vfIf68hCQRtfa39YvOh02097K_NuU9s6syTpjXPDtSi2-JZjqyCjZoMGcD6jz3kc1FyL9hmxDexqsehHcOCq4EayebAi6MvGcytVIpCp4lOqMEUmw",
+                "ratePlans": [
+                  {
+                    "roomRatePlanId": 1002,
+                    "cwaInvokeFlag": false,
+                    "roomRatePlanName": "CLUB WYNDHAM Founders Discount",
+                    "bookingWindows": [
+                      {
+                        "bkgWndwName": "0 Days To 14 Days",
+                        "bkgWndwId": 1
+                      }
+                    ]
+                  }
+                ],
+                "isDatedMatch": "true"
+              }
+            ]
+          }
+        ],
+        "latitude": "38.124025",
+        "description": "Relish an old-fashioned country vacation with amenities galore at this Osage Beach resort. Stay right on the lake, close to the best attractions.",
+        "discoveryOwnerEligible": false,
+        "features": [
+          "Caving",
+          "Beach (Lake)",
+          "Boating",
+          "Computer With Internet (Shared)",
+          "Children's Pool (Outdoor/Seasonal)",
+          "Elevators",
+          "Fishing",
+          "Fitness Center",
+          "Golf",
+          "Hiking",
+          "Hot Tub (Outdoor)",
+          "Picnic Area",
+          "Barbecue Area",
+          "Swimming Pool (Outdoor/Seasonal)",
+          "Museums",
+          "Pickleball",
+          "Basketball",
+          "Recreation Center",
+          "Watersports",
+          "Wineries",
+          "Gift Shop",
+          "Movie Rentals",
+          "Children's Playground"
+        ],
+        "minPointsPerTrip": 14160,
+        "managedByLable": "MANAGED BY WYNDHAM",
+        "localTimeZone": "America/Chicago",
+        "season": {
+          "weekIntervals": [
+            null
+          ],
+          "homeUnit": null,
+          "seasonName": null,
+          "checkInDay": null
+        },
+        "eligbiltyFlag": true,
+        "resortRank": "550",
+        "brand": "WVR",
+        "longitude": "-92.637236",
+        "alertMessages": [
+          {
+            "alertMessage": "Pool%20is%20seasonal%20and%20closed%20Nov.%201-April%201%20annually.%20No%20RV%20and%20limited%20trailer%20parking%20onsite.%20A%20boat%20dock%20is%20available%20for%20a%20preferred%20rate%20at%20the%20Robins%20Resort%20next%20door%3B%20call%20573-348-2275%20in%20advance%20to%20for%20more%20information.%20Cue%20to%20routine%20cleaning%20of%20hot%20tubs%20in%20penthouse%20units%2C%20owners%20may%20experience%20a%20delay%20in%20hot%20water%20on%20day%20of%20check-in.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Area Event Information",
+            "templateCreatedDate": "2023-05-23T11:20:16.377-04:00",
+            "alertTitle": "WM Lake of the Ozarks Resort Alert"
+          },
+          {
+            "alertMessage": "Most%20Club%20Wyndham%20resorts%20have%20a%20minimum%20check-in%20age%20of%2021%2C%20check-in%20requirements%20may%20vary.%20Please%20be%20sure%20to%20verify%20with%20your%20specific%20resort%20when%20booking.",
+            "alertTypeName": "Resort Alert",
+            "alertSubTypeName": "Reservation Renovations Alert",
+            "templateCreatedDate": "2025-07-30T00:00:00-04:00",
+            "alertTitle": "WM Owner Club Pass Check In Age Alert"
+          }
+        ],
+        "isWorldMarkResort": false,
+        "types": [
+          "WorldMark Club Pass Resort",
+          "CLUB WYNDHAM® Plus Resort",
+          "CLUB WYNDHAM® Access Resort"
+        ],
+        "address": {
+          "continent": "NORTH AMERICA",
+          "country": "UNITED STATES",
+          "cityName": "Osage Beach",
+          "stateOrProvince": "MO",
+          "city": "OSAGE BEACH",
+          "postalCode": "65065",
+          "region": "MIDWEST",
+          "line1": "4900 WorldMark Drive",
+          "stateOrProvinceName": "MISSOURI"
+        },
+        "productId": "PI|R000000000110",
+        "helpfulHints": [
+          "A credit card is required for the $250 security deposit requested at check in."
+        ],
+        "resortId": "SUR0000000842",
+        "checkInTime": "16:00",
+        "clubPassResort": false,
+        "checkInAddress": {
+          "country": "USA",
+          "cityName": "Osage Beach",
+          "stateOrProvince": "MO",
+          "city": "Osage Beach",
+          "postalCode": "65065",
+          "line1": "4900 WorldMark Drive",
+          "stateOrProvinceName": "MISSOURI"
+        },
+        "displayOfferingName": "false",
+        "vacationExperiences": [
+          "Relaxing Retreat"
+        ],
+        "hasDatedMatchUnits": "true",
+        "phoneNumber": "(573) 302-7500",
+        "checkOutTime": "10:00",
+        "fastFacts": [
+          "Limited Number of Accommodations",
+          "Managed by Wyndham Destinations",
+          "RCI Gold Crown Resort® Award",
+          "VIP Benefits Apply"
+        ],
+        "name": "Club Wyndham Lake of the Ozarks",
+        "wish-list": false,
+        "resortName": "Club Wyndham Lake of the Ozarks",
+        "resortCity": "Osage Beach",
+        "resortState": "MISSOURI"
+      }
+    ],
+    "resortTypes": [
+      {
+        "name": "CLUB WYNDHAM® ACCESS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "CLUB WYNDHAM® PLUS RESORT",
+        "count": "1"
+      },
+      {
+        "name": "WORLDMARK CLUB PASS RESORT",
+        "count": "1"
+      }
+    ],
+    "vacationExperiences": [
+      {
+        "name": "Relaxing Retreat",
+        "count": "1"
+      }
+    ],
+    "nextGeographicValue": "MISSOURI",
+    "clubPassResorts": {
+      "name": "CLUBPASS_RESORTS",
+      "count": "0"
+    },
+    "managedResortsCount": "1",
+    "unitFeatures": [
+      {
+        "name": "Balcony/Patio",
+        "count": "1"
+      },
+      {
+        "name": "Kitchen",
+        "count": "1"
+      },
+      {
+        "name": "Washer/Dryer",
+        "count": "1"
+      },
+      {
+        "name": "Wi-Fi Internet Access",
+        "count": "1"
+      },
+      {
+        "name": "Fireplace",
+        "count": "1"
+      },
+      {
+        "name": "Hot Tub",
+        "count": "1"
+      }
+    ],
+    "requestedUnitHasAvailability": false,
+    "status": "OK"
+  }
+}
