@@ -35,7 +35,7 @@ class MailjetEmailService:
             else:
                 raise ValueError("Unsupported file format. Use .csv or .xlsx")
             
-            # Filter for MinUnits > 0 (changed from > 1)
+            # Filter for MinUnits > 0
             filtered_df = df[df['MinUnits'] > 0].copy()
             
             if filtered_df.empty:
@@ -62,7 +62,7 @@ class MailjetEmailService:
             
             # Select only required columns (removed ID columns and added Vendor)
             # Changed from set {} to list []
-            result_df = filtered_df[{
+            result_df = filtered_df[[
                 'Vendor',
                 'Resort', 
                 'Arrival',
@@ -71,7 +71,7 @@ class MailjetEmailService:
                 'RoomType',
                 'RoomTypeDescription',
                 'MinUnits'
-            }].copy()
+            ]].copy()
 
             # Rename MinUnits to InventoryCount for clarity
             result_df = result_df.rename(columns={'MinUnits': 'InventoryCount'})
@@ -319,9 +319,7 @@ def main():
         # Multiple recipients - Add as many emails as you want
         recipient_emails = [
             "ujjwalr754@gmail.com",
-            # "kumar@intellypod.com",
-            # "sajol@intellypod.com"
-            
+                       
         ]
         
         # Or you can also define them from environment variables
