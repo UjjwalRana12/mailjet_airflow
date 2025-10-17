@@ -23,3 +23,9 @@ webdriver-manager
 #  api_call/fetch_data.py -> this will get the details from the api
 # 
 
+# newly added
+# to send the mail 
+# main.py -> it give search status count
+# get_blackout.py -> it will give the blackout dates for all reesorts
+# main_filter.py -> it will create mapping between two
+# mail.py -> to send the mail
