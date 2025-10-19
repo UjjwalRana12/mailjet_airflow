@@ -55,9 +55,6 @@ class MailjetEmailService:
 
             filtered_df['RoomTypeDescription'] = filtered_df['BedType'].apply(bed_to_desc)
 
-            # Rename Min_Available -> InventoryCount
-            filtered_df = filtered_df.rename(columns={'Min_Available': 'InventoryCount'})
-
             # Ensure Vendor exists (your file shows Wyndham already, but fallback)
             if 'Vendor' not in filtered_df.columns:
                 filtered_df['Vendor'] = 'Wyndham'
@@ -70,7 +67,13 @@ class MailjetEmailService:
             elif 'RoomType' not in filtered_df.columns:
                 filtered_df['RoomType'] = ''
 
-            # Select and reorder columns using lists (no sets)
+            # Convert Arrival to datetime for proper sorting
+            if 'Arrival' in filtered_df.columns:
+                filtered_df['Arrival'] = pd.to_datetime(filtered_df['Arrival'])
+                # Sort by Arrival date in ascending order
+                filtered_df = filtered_df.sort_values('Arrival', ascending=True).reset_index(drop=True)
+
+            # Select and reorder columns using lists (no sets) - Use Min_Available instead of InventoryCount
             cols = [
                 'Vendor',
                 'Resort',
@@ -80,16 +83,13 @@ class MailjetEmailService:
                 'RoomType',
                 'BedType',
                 'RoomTypeDescription',
-                'InventoryCount'
+                'Min_Available'
             ]
             # Keep only existing columns from the list
             cols_existing = [c for c in cols if c in filtered_df.columns]
             result_df = filtered_df[cols_existing].copy()
 
-            # Add a Status column for compatibility
-            result_df['Status'] = 'Available'
-
-            self.logger.info("Processed data sample:\n%s", result_df.head().to_string(index=False))
+            self.logger.info("Processed data sample (sorted by Arrival date):\n%s", result_df.head().to_string(index=False))
             return result_df
 
         except Exception as e:
@@ -103,8 +103,8 @@ class MailjetEmailService:
 
         total_resorts = filtered_data['Resort'].nunique()
         total_orders = len(filtered_data)
-        avg_inventory = filtered_data['InventoryCount'].mean()
-        max_inventory = filtered_data['InventoryCount'].max()
+        avg_inventory = filtered_data['Min_Available'].mean()
+        max_inventory = filtered_data['Min_Available'].max()
 
         def fmt_date(d):
             try:
@@ -114,38 +114,115 @@ class MailjetEmailService:
 
         now_et = datetime.now(pytz.timezone('US/Eastern')).strftime('%Y-%m-%d %H:%M:%S (ET)')
 
+        # Enhanced HTML with alternating row colors for headers - REMOVED searching div
         html = f"""
-        <html><body>
-        <h2>Resort Minimum Availability Alert (Min Available &gt; 0)</h2>
-        <p>Report time: {now_et}</p>
-        <p>Total Resorts: {total_resorts} — Total Orders: {total_orders}</p>
-        <p>Avg Min Availability: {avg_inventory:.1f} — Max Min Availability: {max_inventory}</p>
-        <table border="1" cellpadding="4" cellspacing="0" style="border-collapse:collapse">
-        <thead>
-        <tr><th>Vendor</th><th>Resort</th><th>Arrival</th><th>Departure</th><th>PropertyType</th>
-        <th>RoomType</th><th>BedType</th><th>Min Availability</th><th>Status</th></tr>
-        </thead><tbody>
+        <html>
+        <head>
+            <style>
+                body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px; background-color: #f5f5f5; color: #333; }}
+                .container {{ max-width: 1200px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }}
+                .header {{ background-color: #f9f9f9; color: #333; padding: 25px; border-radius: 8px; margin-bottom: 25px; text-align: center; border: 2px solid #ddd; }}
+                .header h2 {{ margin: 0; font-size: 32px; font-weight: bold; color: #333 !important; }}
+                .header p {{ color: #666 !important; margin: 10px 0 0 0; font-size: 16px; }}
+                .summary {{ background-color: #f8f9ff; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 4px solid #2196F3; }}
+                .summary p {{ margin: 8px 0; font-size: 16px; color: #333; }}
+                .summary h3 {{ color: #1976D2 !important; margin-top: 0; font-size: 20px; }}
+                table {{ width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }}
+                th {{ background-color: #f9f9f9 !important; color: #333 !important; padding: 15px 10px; text-align: left; font-weight: bold; border-bottom: 2px solid #ddd; }}
+                td {{ padding: 12px 10px; border-bottom: 1px solid #e0e0e0; color: #333; }}
+                tr:nth-child(even) {{ background-color: #f9f9f9; }}
+                tr:hover {{ background-color: #f5f5f5; }}
+                .high-inventory {{ background-color: #ffebee !important; }}
+                .high-inventory:hover {{ background-color: #ffcdd2 !important; }}
+                .footer {{ margin-top: 30px; padding: 20px; background-color: #f5f5f5; border-radius: 8px; font-size: 12px; color: #666; text-align: center; }}
+                h3 {{ color: #1976D2 !important; font-size: 22px; }}
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h2> Resort Minimum Availability Alert</h2>
+                    <p>Report generated on: {now_et}</p>
+                </div>
+                
+                <div class="summary">
+                    <h3> Summary Statistics</h3>
+                    <p><strong>Status:</strong> Searching</p>
+                    <p><strong>Total Resorts:</strong> {total_resorts}</p>
+                    <p><strong>Total Orders:</strong> {total_orders:,}</p>
+                   
+                </div>
+                
+                <h3> Order Details (Sorted by Arrival Date - Ascending)</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Vendor</th>
+                            <th>Resort</th>
+                            <th>Arrival</th>
+                            <th>Departure</th>
+                            <th>Property Type</th>
+                            <th>Room Type</th>
+                            <th>Bed Type</th>
+                            <th>Min Availability</th>
+                        </tr>
+                    </thead>
+                    <tbody>
         """
 
-        text = f"RESORT MINIMUM AVAILABILITY ALERT (Min Available > 0)\nReport time: {now_et}\n\n"
+        text = f"RESORT MINIMUM AVAILABILITY ALERT (Min Available > 0)\nReport time: {now_et}\n\nStatus: Searching\n\nData sorted by Arrival Date (Ascending)\n\n"
 
         for _, r in filtered_data.iterrows():
             prop = r.get('PropertyType', 'None') or 'None'
             arrival = fmt_date(r.get('Arrival', ''))
             departure = fmt_date(r.get('Departure', ''))
-            html += f"<tr><td>{r.get('Vendor')}</td><td>{r.get('Resort')}</td><td>{arrival}</td><td>{departure}</td>"
-            html += f"<td>{prop}</td><td>{r.get('RoomType','')}</td><td>{r.get('BedType','')}</td>"
-            html += f"<td><strong>{int(r.get('InventoryCount',0))}</strong></td><td>Available</td></tr>"
+            min_available = int(r.get('Min_Available', 0))
+            
+            # Add red background class if min availability > 10
+            row_class = 'high-inventory' if min_available > 10 else ''
+            
+            html += f"""
+                        <tr class="{row_class}">
+                            <td>{r.get('Vendor')}</td>
+                            <td>{r.get('Resort')}</td>
+                            <td>{arrival}</td>
+                            <td>{departure}</td>
+                            <td>{prop}</td>
+                            <td>{r.get('RoomType','')}</td>
+                            <td>{r.get('RoomTypeDescription','')}</td>
+                            <td><strong>{min_available}</strong></td>
+                        </tr>
+            """
 
             text += (
-                f"Vendor: {r.get('Vendor')}\nResort: {r.get('Resort')}\n"
-                f"Arrival: {arrival}\nDeparture: {departure}\n"
-                f"PropertyType: {prop}\nRoomType: {r.get('RoomType','')}\n"
-                f"BedType: {r.get('BedType','')}\nMin Availability: {int(r.get('InventoryCount',0))}\n\n"
+                f"Vendor: {r.get('Vendor')}\n"
+                f"Resort: {r.get('Resort')}\n"
+                f"Arrival: {arrival}\n"
+                f"Departure: {departure}\n"
+                f"Property Type: {prop}\n"
+                f"Room Type: {r.get('RoomType','')}\n"
+                f"Bed Type: {r.get('RoomTypeDescription','')}\n"
+                f"Min Availability: {min_available}\n"
+                f"{'*** HIGH AVAILABILITY ***' if min_available > 10 else ''}\n"
+                f"{'-'*40}\n\n"
             )
 
-        html += "</tbody></table><p>This is an automated report.</p></body></html>"
-        text += "\nThis is an automated report."
+        html += """
+                    </tbody>
+                </table>
+                
+                <div class="footer">
+                    <p> This is an automated report generated by the Intellypod Resort Monitoring System.</p>
+                    <p> Records with availability > 10 are highlighted with red background for priority attention.</p>
+                    <p> All times are displayed in Eastern Time (ET).</p>
+                   
+                </div>
+            </div>
+        </body>
+        </html>
+        """
+        
+        text += "\nThis is an automated report generated by the Intellypod Resort Monitoring System.\nRecords with availability > 10 are marked with *** HIGH AVAILABILITY ***\nData is sorted by Arrival Date in ascending order (earliest dates first)."
 
         return html, text
 
@@ -171,7 +248,7 @@ class MailjetEmailService:
             }
             res = self.mailjet.send.create(data=data)
             if res.status_code in (200, 201):
-                self.logger.info("Email sent to %d recipients", len(recipient_emails))
+                self.logger.info("Email sent to %d recipients", len(recipients))
                 return True, "Email sent"
             self.logger.error("Mailjet error %s", res.status_code)
             return False, f"Mailjet error {res.status_code}"
@@ -187,16 +264,23 @@ class MailjetEmailService:
         html, text = self.create_email_content(df)
         if not html:
             return False, "Failed to create email content"
-        subject = f"Resort Minimum Availability Alert - {len(df)} Orders Found"
+        subject = f" Resort Alert - {len(df)} Orders Found (Searching)"
         return self.send_email_to_multiple(recipient_emails, subject, html, text)
 
 def main():
     try:
         service = MailjetEmailService()
         recipients = [
-            "ujjwalr754@gmail.com",
-            "ujjwal@intellypod.com"
+            "ujjwal@intellypod.com",
+            "kumar@intellypod.com",
+            "sajol@intellypod.com",
+            "ujjwalrana12@outlook.com",
+            "Robert.Zukowski@intellypod.com",
+            "joshuagomez@tzort.com",
+            "Cking@tzort.com ",
+            "Jweldy@tzort.com",
         ]
+        
         print(f"Sending emails to {len(recipients)} recipients:")
         for r in recipients:
             print(" -", r)
@@ -207,4 +291,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

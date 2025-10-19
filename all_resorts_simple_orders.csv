@@ -7,6 +7,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 103129,2025-09-25 12:29:28.837,81,Grand Desert Resort,2,Wyndham,2025-10-24,2025-10-27,None,12,Deluxe,2,False,False,False,True,False,Searching
 103867,2025-10-15 11:24:41.940,105,Kingsgate Resort,2,Wyndham,2025-10-24,2025-10-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 103881,2025-10-15 20:24:39.067,117,Skyline Tower Resort,2,Wyndham,2025-10-30,2025-11-03,None,12,Deluxe,2,False,False,True,False,False,Searching
+103668,2025-10-09 09:21:07.520,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-01,2025-11-05,None,12,Deluxe,2,False,True,False,False,False,Searching
 101915,2025-08-26 17:59:41.207,81,Grand Desert Resort,2,Wyndham,2025-11-03,2025-11-09,None,12,Deluxe,2,False,False,False,True,False,Searching
 103832,2025-10-14 12:50:57.077,95,Palm-Aire Resort,2,Wyndham,2025-11-04,2025-11-09,None,12,Deluxe,2,False,False,True,False,False,Searching
 103859,2025-10-15 09:11:56.420,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-04,2025-11-12,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -14,6 +15,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 100965,2025-07-30 17:28:44.677,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-06,2025-11-17,None,12,Deluxe,2,False,True,False,False,False,Searching
 103336,2025-09-30 17:08:42.167,81,Grand Desert Resort,2,Wyndham,2025-11-06,2025-11-09,None,12,Deluxe,2,False,False,True,False,False,Searching
 103811,2025-10-13 19:36:18.780,251,Indio Resort,2,Wyndham,2025-11-06,2025-11-11,None,12,Standard,1,False,True,False,False,False,Searching
+100710,2025-07-22 17:17:55.307,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-07,2025-11-09,None,12,Deluxe,2,False,False,True,False,False,Searching
 103432,2025-10-02 22:04:22.857,109,Flagstaff Resort,2,Wyndham,2025-11-07,2025-11-10,None,12,Deluxe,2,False,True,False,False,False,Searching
 101618,2025-08-16 19:45:50.120,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-08,2025-11-12,None,12,Deluxe,2,False,True,False,False,False,Searching
 94169,2025-02-16 13:53:25.783,465,Kaua'i Beach Villas,2,Wyndham,2025-11-09,2025-11-16,None,12,Suite,3,False,True,False,False,False,Searching
@@ -42,12 +44,12 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 103932,2025-10-16 21:55:16.623,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-20,2025-11-25,None,12,Deluxe,2,False,True,False,False,False,Searching
 102074,2025-08-30 18:41:45.670,92,Smoky Mountains Resort,2,Wyndham,2025-11-21,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 96051,2025-03-17 20:41:33.980,139,Dolphin's Cove Resort,2,Wyndham,2025-11-22,2025-11-29,None,12,Suite,3,False,True,False,False,False,Searching
+103971,2025-10-18 00:42:03.793,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-22,2025-11-24,None,12,Deluxe,2,False,False,True,False,False,Searching
 96360,2025-03-22 23:11:51.883,92,Smoky Mountains Resort,2,Wyndham,2025-11-23,2025-11-27,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 102322,2025-09-05 16:59:26.663,161,Oceanside Pier Resort,2,Wyndham,2025-11-23,2025-11-28,None,12,Deluxe,2,False,False,True,False,False,Searching
 103302,2025-09-29 18:46:58.630,92,Smoky Mountains Resort,2,Wyndham,2025-11-23,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 103497,2025-10-04 17:58:55.003,70,Ocean Walk Resort,2,Wyndham,2025-11-23,2025-11-30,None,12,Suite,3,False,True,False,False,False,Searching
 103879,2025-10-15 18:46:42.833,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-11-23,2025-11-26,None,12,Deluxe,2,False,True,False,False,False,Searching
-103933,2025-10-16 22:11:30.830,92,Smoky Mountains Resort,2,Wyndham,2025-11-23,2025-11-30,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 100731,2025-07-23 13:36:49.363,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-29,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 102076,2025-08-30 19:37:57.383,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-28,Condo,20,Deluxe,2,False,False,True,False,False,Searching
 102716,2025-09-15 14:28:42.260,92,Smoky Mountains Resort,2,Wyndham,2025-11-24,2025-11-30,Condo,20,Deluxe,2,False,False,True,False,False,Searching
@@ -69,10 +71,12 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 92837,2025-01-19 12:24:47.840,84,Midtown 45 Resort,2,Wyndham,2025-12-01,2025-12-08,None,12,Standard,1,True,False,False,False,False,Searching
 103292,2025-09-29 12:15:45.347,81,Grand Desert Resort,2,Wyndham,2025-12-01,2025-12-14,None,12,Suite,3,False,True,False,False,False,Searching
 103494,2025-10-04 15:28:18.380,81,Grand Desert Resort,2,Wyndham,2025-12-01,2025-12-14,None,12,Deluxe,2,False,False,True,False,False,Searching
+103968,2025-10-17 22:45:40.257,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-01,2025-12-04,None,12,Deluxe,2,False,True,False,False,False,Searching
 92749,2025-01-17 19:14:11.113,84,Midtown 45 Resort,2,Wyndham,2025-12-02,2025-12-06,None,12,Standard,1,True,False,False,False,False,Searching
 93726,2025-02-07 11:07:00.503,107,Governor's Green Resort,2,Wyndham,2025-12-03,2025-12-07,None,12,Deluxe,2,False,False,True,False,False,Searching
 99097,2025-06-02 11:46:17.010,202,Limetree Beach Resort,2,Wyndham,2025-12-03,2025-12-10,None,12,Standard,1,True,False,False,False,False,Searching
 103423,2025-10-02 20:27:59.160,176,Riverside Suites Resort,2,Wyndham,2025-12-03,2025-12-06,None,12,Standard,1,False,False,True,False,False,Searching
+103956,2025-10-17 17:17:38.260,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-03,2025-12-06,None,12,Deluxe,2,False,True,False,False,False,Searching
 95484,2025-03-08 16:49:59.990,84,Midtown 45 Resort,2,Wyndham,2025-12-04,2025-12-09,None,12,Standard,1,True,False,False,False,False,Searching
 103873,2025-10-15 13:57:35.113,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-05,2025-12-07,None,12,Deluxe,2,False,False,True,False,False,Searching
 99931,2025-06-29 13:40:20.293,92,Smoky Mountains Resort,2,Wyndham,2025-12-06,2025-12-13,Condo,20,Deluxe,2,False,False,True,False,False,Searching
@@ -82,14 +86,11 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 99129,2025-06-03 13:56:13.987,176,Riverside Suites Resort,2,Wyndham,2025-12-07,2025-12-11,None,12,Standard,1,False,False,True,False,False,Searching
 96376,2025-03-23 10:54:55.627,84,Midtown 45 Resort,2,Wyndham,2025-12-09,2025-12-12,None,12,Standard,1,True,False,False,False,False,Searching
 103614,2025-10-07 19:20:48.343,109,Flagstaff Resort,2,Wyndham,2025-12-09,2025-12-16,None,12,Deluxe,2,False,True,False,False,False,Searching
-103559,2025-10-06 12:53:08.723,107,Governor's Green Resort,2,Wyndham,2025-12-12,2025-12-14,None,12,Deluxe,2,False,False,True,False,False,Searching
 101825,2025-08-24 14:51:15.783,139,Dolphin's Cove Resort,2,Wyndham,2025-12-13,2025-12-17,None,12,Suite,3,False,True,False,False,False,Searching
 102214,2025-09-03 00:13:25.417,75,Glacier Canyon Resort,2,Wyndham,2025-12-13,2025-12-15,None,12,Deluxe,2,False,True,False,False,False,Searching
 103855,2025-10-14 23:53:39.167,77,Club Wyndham Bonnet Creek,2,Wyndham,2025-12-13,2025-12-17,None,12,Deluxe,2,False,False,True,False,False,Searching
 102510,2025-09-09 19:15:59.983,107,Governor's Green Resort,2,Wyndham,2025-12-16,2026-01-16,None,12,Deluxe,2,False,False,True,False,False,Searching
 101360,2025-08-10 15:04:18.433,202,Limetree Beach Resort,2,Wyndham,2025-12-17,2025-12-27,None,12,Standard,1,True,False,False,False,False,Searching
-92956,2025-01-21 16:17:56.547,100,National Harbor Resort,2,Wyndham,2025-12-18,2025-12-21,None,12,Deluxe,2,False,False,True,False,False,Searching
-102362,2025-09-06 14:01:43.387,76,Pagosa Resort,2,Wyndham,2025-12-18,2025-12-22,None,12,Suite,3,False,True,False,False,False,Searching
 103122,2025-09-25 09:56:13.663,69,Mountain Vista Resort,2,Wyndham,2025-12-18,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching
 88937,2024-10-13 18:50:39.410,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 93110,2025-01-24 15:45:29.143,73,Steamboat Springs Resort,2,Wyndham,2025-12-19,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -99,6 +100,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 102967,2025-09-21 15:09:24.347,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
 103155,2025-09-25 21:57:41.500,69,Mountain Vista Resort,2,Wyndham,2025-12-19,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching
 103730,2025-10-11 14:16:24.757,94,Fairfield Glade Resort,2,Wyndham,2025-12-19,2025-12-22,None,12,Deluxe,2,False,False,True,False,False,Searching
+103952,2025-10-17 16:51:17.497,73,Steamboat Springs Resort,2,Wyndham,2025-12-19,2025-12-23,None,12,Deluxe,2,False,True,False,False,False,Searching
 94622,2025-02-23 22:10:52.133,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
 94966,2025-02-28 21:05:30.773,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
 94967,2025-02-28 21:05:55.950,76,Pagosa Resort,2,Wyndham,2025-12-20,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -118,6 +120,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 102488,2025-09-09 14:19:47.450,76,Pagosa Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 103348,2025-09-30 21:42:52.590,69,Mountain Vista Resort,2,Wyndham,2025-12-21,2025-12-24,None,12,Deluxe,2,False,False,True,False,False,Searching
 103809,2025-10-13 17:32:55.170,108,Sedona Resort,2,Wyndham,2025-12-21,2025-12-26,None,12,Suite,3,False,True,False,False,False,Searching
+103948,2025-10-17 13:29:08.883,76,Pagosa Resort,2,Wyndham,2025-12-21,2025-12-25,None,12,Suite,3,False,True,False,False,False,Searching
 97792,2025-04-26 08:34:48.690,104,Patriot's Place Resort,2,Wyndham,2025-12-22,2025-12-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 102307,2025-09-05 10:25:12.437,76,Pagosa Resort,2,Wyndham,2025-12-22,2025-12-27,None,12,Suite,3,False,True,False,False,False,Searching
 102779,2025-09-16 20:01:38.937,76,Pagosa Resort,2,Wyndham,2025-12-22,2025-12-29,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -143,6 +146,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 103733,2025-10-11 16:42:25.603,76,Pagosa Resort,2,Wyndham,2025-12-24,2025-12-31,None,12,Suite,3,False,True,False,False,False,Searching
 103742,2025-10-11 19:03:55.083,153,Margaritaville - St. Thomas,2,Wyndham,2025-12-24,2025-12-26,None,12,Standard,1,True,False,False,False,False,Searching
 103781,2025-10-12 23:47:06.810,106,Bali Hai Villas,2,Wyndham,2025-12-25,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching
+103972,2025-10-18 00:47:36.437,105,Kingsgate Resort,2,Wyndham,2025-12-25,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching
 94237,2025-02-17 19:48:59.313,73,Steamboat Springs Resort,2,Wyndham,2025-12-26,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching
 99311,2025-06-09 08:57:18.497,73,Steamboat Springs Resort,2,Wyndham,2025-12-26,2025-12-28,None,12,Deluxe,2,False,False,True,False,False,Searching
 103031,2025-09-22 23:01:23.187,76,Pagosa Resort,2,Wyndham,2025-12-26,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -167,6 +171,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 91761,2024-12-28 12:57:16.023,95,Palm-Aire Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching
 91762,2024-12-28 13:39:21.183,95,Palm-Aire Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching
 94867,2025-02-27 11:25:09.630,114,Bentley Brook Resort,2,Wyndham,2025-12-28,2025-12-30,None,12,Deluxe,2,False,False,True,False,False,Searching
+100372,2025-07-14 00:38:02.693,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-03,None,12,Deluxe,2,False,False,True,False,False,Searching
 101161,2025-08-04 20:12:49.583,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching
 101815,2025-08-24 09:41:52.340,71,Margaritaville - Rio Mar,2,Wyndham,2025-12-28,2026-01-01,None,12,Deluxe,2,True,False,False,False,False,Searching
 101839,2025-08-24 19:59:32.023,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Suite,3,False,True,False,False,False,Searching
@@ -176,6 +181,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 103482,2025-10-04 10:41:44.533,153,Margaritaville - St. Thomas,2,Wyndham,2025-12-28,2026-01-02,None,12,Standard,1,True,False,False,False,False,Searching
 103726,2025-10-11 11:07:44.597,75,Glacier Canyon Resort,2,Wyndham,2025-12-28,2025-12-31,None,12,Deluxe,2,False,False,True,False,False,Searching
 103880,2025-10-15 20:02:50.567,76,Pagosa Resort,2,Wyndham,2025-12-28,2026-01-02,None,12,Deluxe,2,False,False,True,False,False,Searching
+103943,2025-10-17 10:18:29.733,106,Bali Hai Villas,2,Wyndham,2025-12-28,2026-01-05,None,12,Deluxe,2,False,False,True,False,False,Searching
 93468,2025-02-01 19:24:12.970,114,Bentley Brook Resort,2,Wyndham,2025-12-29,2026-01-01,None,12,Deluxe,2,False,False,True,False,False,Searching
 96571,2025-03-26 16:27:20.783,202,Limetree Beach Resort,2,Wyndham,2025-12-29,2025-12-31,None,12,Standard,1,True,False,False,False,False,Searching
 100612,2025-07-20 11:08:14.463,76,Pagosa Resort,2,Wyndham,2025-12-29,2026-01-03,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -251,6 +257,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 96774,2025-03-30 19:27:40.357,202,Limetree Beach Resort,2,Wyndham,2026-01-18,2026-01-23,None,12,Suite,3,False,True,False,False,False,Searching
 102086,2025-08-31 11:42:15.513,73,Steamboat Springs Resort,2,Wyndham,2026-01-18,2026-01-21,None,12,Deluxe,2,False,False,True,False,False,Searching
 103089,2025-09-24 14:36:04.817,153,Margaritaville - St. Thomas,2,Wyndham,2026-01-18,2026-01-22,None,12,Standard,1,True,False,False,False,False,Searching
+103965,2025-10-17 21:32:31.643,106,Bali Hai Villas,2,Wyndham,2026-01-18,2026-01-25,None,12,Deluxe,2,False,False,True,False,False,Searching
 103103,2025-09-24 19:11:05.127,103,Park City Resort,2,Wyndham,2026-01-19,2026-01-24,None,12,Deluxe,2,False,True,False,False,False,Searching
 103703,2025-10-10 10:00:35.727,106,Bali Hai Villas,2,Wyndham,2026-01-19,2026-01-21,None,12,Deluxe,2,False,False,True,False,False,Searching
 102660,2025-09-13 16:06:48.547,70,Ocean Walk Resort,2,Wyndham,2026-01-20,2026-02-02,None,12,Deluxe,2,False,False,True,False,False,Searching
@@ -519,6 +526,7 @@ OrderId,Dated,ResortId,Resort,VendorId,Vendor,Arrival,Departure,PropertyType,Pro
 102097,2025-08-31 15:46:34.837,184,Vino Bello Resort,2,Wyndham,2026-09-04,2026-09-06,None,12,Standard,1,True,False,False,False,False,Searching
 102931,2025-09-20 14:50:15.330,94,Fairfield Glade Resort,2,Wyndham,2026-09-05,2026-09-07,None,12,Deluxe,2,False,False,False,False,True,Searching
 103233,2025-09-27 17:38:03.237,76,Pagosa Resort,2,Wyndham,2026-09-10,2026-09-30,None,12,Deluxe,2,False,False,True,False,False,Searching
+103941,2025-10-17 08:57:03.293,82,Canterbury Resort,2,Wyndham,2026-09-14,2026-09-17,None,12,Deluxe,2,False,True,False,False,False,Searching
 101909,2025-08-26 15:03:55.167,76,Pagosa Resort,2,Wyndham,2026-09-19,2026-09-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 102954,2025-09-20 23:36:03.707,104,Patriot's Place Resort,2,Wyndham,2026-09-20,2026-09-26,None,12,Deluxe,2,False,False,True,False,False,Searching
 101105,2025-08-03 13:46:36.450,109,Flagstaff Resort,2,Wyndham,2026-09-26,2026-09-30,None,12,Deluxe,2,False,True,False,False,False,Searching
